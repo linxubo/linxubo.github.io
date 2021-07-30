@@ -1,0 +1,66 @@
+---
+title: "Lin Lab - Home"
+layout: homelay
+excerpt: "Lin Lab @ BUAA"
+sitemap: false
+permalink: /
+---
+
+# Welcome to Lin Lab @ BUAA
+
+**Who We Are**:
+We are a young indepedent [research group](http://shi.buaa.edu.cn/linxubo) (2018.01~now) in [Beijing Advanced Innovation Center for Biomedical Engineering](https://baicbme.buaa.edu.cn/), [Beihang University (BUAA)](https://www.buaa.edu.cn), Beijing, China.
+
+**What We do**:
+We try to solve membrane-related biological problems with computations and experiments.
+
+"Everything that living things do can be understood in terms of the **jiggling and wiggling of atoms**."  --Richard Feynman in the seminal Feynman Lectures on Physics, 1963.
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+<!--        <li data-target="#carousel" data-slide-to="2"></li> -->
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/human_embryo_ivf.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/atgc.jpg" alt="Slide 2" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+　Our group mainly focus on the fundamental researches of Membrane Biophysics and Nano-Bio Interface as well as their potential applications in Nanomedicine. Currently, our researches use molecular simulations, and expand gradually to include molecular cell biology experiments.
+1. Screen/Design Drug Candidates with Molecular Docking and Protein-Protein Docking.
+2. Reveal the Melocular Mechanisms for the Structure and Dynamics of Cell Membrane.
+3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane.
+4. Develop useful tools and algorithms for molecular simulations.
+
+
+ **We are looking for passionate PhD students, Postdocs, and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
+
+
+## Funding:
+We are grateful for funding from Beihang University and NSFC.
+
+<figure class="fourth">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BUAA_logo.jpg" style="width: 170px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BME_logo.jpg" style="width: 170px">
+<!-- </figure> -->
+
+## Collaborators:
+We work closely with many collaborators, including ...
+
