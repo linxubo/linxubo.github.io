@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [Google Scholar](https://scholar.google.com/citations?user=gu6x7LsAAAAJ&hl=zh-CN&oi=ao)).
+(For a full list see [Google Scholar](https://scholar.google.com/)).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
