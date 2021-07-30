@@ -1,10 +1,10 @@
-- name: Yanmei Dou
-  photo: yanmei.jpg
-  info: Assistant professor, starting Sep 2021
-  email: douyanmei@westlake.edu.cn
+- name: Xubo Lin
+  photo: linxubo.png
+  info: Associate professor, starting Jan 2018
+  email: linxbseu@buaa.edu.cn
   number_educ: 2
-  education1: Ph.D. with Prof. Liping Wei, Peking University
-  education2: Postdoc with Prof. Peter J Park, Harvard Medical School
+  education1: Ph.D. with Prof. Ning Gu, Southeast University
+  education2: Postdoc with Prof. Alex Gorfe and Prof. Ilya Levental, UThealth Medical School
 - name: Xueli Xu 
   photo: xueli_photo.jpeg
   info: Postdoc Fellow, starting Sep 2021
