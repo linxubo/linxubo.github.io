@@ -3,7 +3,7 @@ title: "Lin Lab - Research"
 layout: textlay
 excerpt: "Reserch"
 sitemap: false
-permalink: /research/
+permalink: /
 ---
 
 # Open positions
