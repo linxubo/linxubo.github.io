@@ -25,7 +25,7 @@ We are a [research group](http://shi.buaa.edu.cn/linxubo) (2018.01~now) in [Beij
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+  <!--      <li data-target="#carousel" data-slide-to="6"></li>  -->
     </ol>
  
     <!-- Items -->
