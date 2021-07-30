@@ -7,14 +7,13 @@ permalink: /
 ---
 
 # Welcome to Lin Lab @ BUAA
-
-**Who We Are**:
-We are a young indepedent [research group](http://shi.buaa.edu.cn/linxubo) (2018.01~now) in [Beijing Advanced Innovation Center for Biomedical Engineering](https://baicbme.buaa.edu.cn/), [Beihang University (BUAA)](https://www.buaa.edu.cn), Beijing, China.
-
-**What We do**:
-We try to solve membrane-related biological problems with computations and experiments.
-
 "Everything that living things do can be understood in terms of the **jiggling and wiggling of atoms**."  --Richard Feynman in the seminal Feynman Lectures on Physics, 1963.
+
+We are a [research group](http://shi.buaa.edu.cn/linxubo) (2018.01~now) in [Beijing Advanced Innovation Center for Biomedical Engineering](https://baicbme.buaa.edu.cn/), [Beihang University (BUAA)](https://www.buaa.edu.cn), Beijing, China. Our group mainly focus on the fundamental researches of **Membrane Biophysics** and **Nano-Bio Interface** as well as their potential applications in Nanomedicine. Currently, our researches use molecular simulations, and expand gradually to include molecular cell biology experiments.
+1. Screen/Design Drug Candidates with Molecular Docking and Protein-Protein Docking.
+2. Reveal the Melocular Mechanisms for the Structure and Dynamics of Cell Membrane.
+3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane.
+4. Develop useful tools and algorithms for molecular simulations.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -43,18 +42,11 @@ We try to solve membrane-related biological problems with computations and exper
     <span class="sr-only">Next</span>
   </a>
 </div>
-　Our group mainly focus on the fundamental researches of Membrane Biophysics and Nano-Bio Interface as well as their potential applications in Nanomedicine. Currently, our researches use molecular simulations, and expand gradually to include molecular cell biology experiments.
-1. Screen/Design Drug Candidates with Molecular Docking and Protein-Protein Docking.
-2. Reveal the Melocular Mechanisms for the Structure and Dynamics of Cell Membrane.
-3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane.
-4. Develop useful tools and algorithms for molecular simulations.
-
 
  **We are looking for passionate PhD students, Postdocs, and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
-
 ## Funding:
-We are grateful for funding from Beihang University and NSFC.
+We are grateful for the grants from Beihang University and NSFC.
 
 <figure class="fourth">
 <img src="{{ site.url }}{{ site.baseurl }}/images/BUAA_logo.jpg" style="width: 100px">
