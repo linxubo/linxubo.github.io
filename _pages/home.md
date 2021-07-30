@@ -13,7 +13,8 @@ We are a [research group](http://shi.buaa.edu.cn/linxubo) (2018.01~now) in [Beij
 1. Screen/Design Drug Candidates with Molecular Docking and Protein-Protein Docking.
 2. Reveal the Melocular Mechanisms for the Structure and Dynamics of Cell Membrane.
 3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane.
-4. Develop useful tools and algorithms for molecular simulations.
+4. Develop Useful Tools and Algorithms for Molecular Simulations.
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -27,10 +28,22 @@ We are a [research group](http://shi.buaa.edu.cn/linxubo) (2018.01~now) in [Beij
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/human_embryo_ivf.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/atgc.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide2.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide3.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide4.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide5.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide6.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -42,6 +55,7 @@ We are a [research group](http://shi.buaa.edu.cn/linxubo) (2018.01~now) in [Beij
     <span class="sr-only">Next</span>
   </a>
 </div>
+
 
  **We are looking for passionate PhD students, Postdocs, and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
