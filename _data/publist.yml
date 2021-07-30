@@ -16,30 +16,5 @@
     display:  Nat Neurosci, 1546-1726 (2021) 
   highlight: 1
 
-- title: "Accurate detection of mosaic variants in sequencing data without matched controls"
-  image: pub_NBT.jpg
-  description: Detection of mosaic mutations that arise in normal development is challenging, as such mutations are typically present in only a minute fraction of cells and there is no clear matched control for removing germline variants and systematic artifacts. We present MosaicForecast, a machine-learning method that leverages read-based phasing and read-level features to accurately detect mosaic single-nucleotide variants and indels, achieving a multifold increase in specificity compared with existing algorithms. Using single-cell sequencing and targeted sequencing, we validated 80–90% of the mosaic single-nucleotide variants and 60–80% of indels detected in human brain whole-genome sequencing data. Our method should help elucidate the contribution of mosaic somatic mutations to the origin and development of disease.
-  authors: Dou, Y., Kwon, M., Rodin, R. E., Cortes-Ciriano, I., Doan, R., Luquette, L. J., Galor, A., Bohrson, C., Walsh, C. A., Park, P. J. 
-  link: 
-    url: https://www.nature.com/articles/s41587-019-0368-8 
-    display:  Nat Biotechnol, 38(3), 314-319 (2020)
-  highlight: 1
 
-- title: "Detecting somatic mutations in normal cells"
-  image: Pub_TIG.jpg
-  description: We describe here approaches for characterizing somatic mutations in normal and non-tumor disease tissues. We discuss several experimental designs and common pitfalls in somatic mutation detection, as well as more recent developments such as phasing and linked-read technology. With the dramatically increasing numbers of samples undergoing genome sequencing, bioinformatic analysis will enable the characterization of somatic mutations and their impact on non-cancer tissues.
-  authors: Dou, Y.\*, Gold, H. D.\*, Luquette, L. J.\*, Park, P. J. 
-  link:
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6029698/
-    display: Trends Genet, 34(7), 545-557 (2018)
-  highlight: 1
-
-- title: "Postzygotic single‐nucleotide mosaicisms contribute to the etiology of autism spectrum disorder and autistic traits and the origin of mutations"
-  image: Pub_humu23284-gra-0001-m.jpeg
-  description: We estimated that point mosaic mutatinos in probands or de novo mutations inherited from parental point mosaic mutations increased the risk of ASD by approximately 6%. Adding mosaic mutations into the transmission and de novo association test model revealed 13 new ASD risk genes. These results expand the existing repertoire of genes involved in ASD and shed new light on the contribution of genomic mosaicisms to ASD diagnoses and autistic traits.
-  authors: Dou, Y., Yang, X., Li, Z., Wang, S., Zhang, Z., Ye, A. Y., Yan, L., Yang, C., Wu, Q., Li, J., Zhao, B., Huang, A. Y.#, Wei, L.# 
-  link:
-    url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/humu.23255
-    display: Hum Mutat, 38(8), 1002-1013 (2017)
-  highlight: 1
 
