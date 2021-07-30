@@ -3,7 +3,7 @@ title: "Lin Lab - Members"
 layout: gridlay
 excerpt: "Lin Lab - Members"
 sitemap: false
-permalink: /Members/
+permalink: /members/
 ---
 
 # Group Members
