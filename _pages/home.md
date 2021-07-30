@@ -57,9 +57,9 @@ We try to solve membrane-related biological problems with computations and exper
 We are grateful for funding from Beihang University and NSFC.
 
 <figure class="fourth">
-<img src="{{ site.url }}{{ site.baseurl }}/images/BUAA_logo.jpg" style="length: 170px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/BME_logo.jpg" style="length: 170px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_nsfc.jpg" style="length: 170px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BUAA_logo.jpg" style="width: 170px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BME_logo.jpg" style="width: 170px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_nsfc.jpg" style="width: 170px">
 <!-- </figure> -->
 
 ## Collaborators:
