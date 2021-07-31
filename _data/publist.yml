@@ -1,20 +1,8 @@
 - title: "Landmarks of human embryonic development inscribed in somatic mutations"
   image: pub_Science.jpg
-  description: Cell lineage information is fundamental to understanding organismal development, but very little direct information is available for humans. By using mosaic mutations as endogeneous markers, we demonstrated asymmetric contributions of early progenitors to extraembryonic tissues, distinct germ layers, and organs. Our data also suggest onset of gastrulation at an effective progenitor pool of about 170 cells and about 50 to 100 founders for the forebrain.
-  authors: Bizzotto, S.\*, Dou, Y.\*, Ganz, J.\*, Doan, R. N., Kwon, M., Bohrson, C. L., Kim, S. N., Bae, T., Abyzov, A., Nimh Brain Somatic Mosaicism Network, Park, P. J.#, Walsh, C. A.#  
+  description: Test
+  authors: Lin\*, Lin#  
   link:
-    url: https://science.sciencemag.org/content/371/6535/1249.abstract 
-    display:  Science 371, 1249-1253 (2021)
+    url: https://linxubo.github.io/ 
+    display:  JACS 371, 1249-1253 (2019)
   highlight: 1
-
-- title: "The landscape of somatic mutation in cerebral cortex of autistic and neurotypical individuals revealed by ultra-deep whole-genome sequencing"
-  image: pub_NN.png
-  description: Our analysis of mosaic mutations in non-cancer individuals reveals that the first cell division after fertilization produces ~3.4 mutations, followed by 2–3 mutations in subsequent generations. This suggests that a typical individual possesses ~80 somatic single-nucleotide variants present in ≥2% of cells—comparable to the number of de novo germline mutations per generation—with about half of individuals having at least one potentially function-altering somatic mutation somewhere in the cortex.
-  authors: Rodin, R. E.\*, Dou, Y.\*, Kwon, M., Sherman, M. A., D'Gama, A. M., Doan, R. N., Rento, L. M., Girskis, K. M., Bohrson, C. L., Kim, S. N., Nadig, A., Luquette, L. J., Gulhan, D. C., Brain Somatic Mosaicism, Network, Park, P. J.#, Walsh, C. A.# 
-  link:
-    url: https://www.nature.com/articles/s41593-020-00765-6 
-    display:  Nat Neurosci, 1546-1726 (2021) 
-  highlight: 1
-
-
-
