@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "Lin Lab @ BUAA."
 sitemap: false
-permalink: /allnews.html
+permalink: /news.html
 ---
 
 # News
