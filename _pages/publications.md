@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [Google Scholar](https://scholar.google.com/)).
+(For a full list see [Google Scholar](https://scholar.google.com/citations?user=VSlcvLoAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Xubo_Lin)).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
