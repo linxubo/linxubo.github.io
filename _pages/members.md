@@ -133,7 +133,7 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 
 
 
-## Lab visitors, BSc/ MSc students
+## BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -159,9 +159,6 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:">Recuriting</a> is helping us (and other groups) with administration.
 
 
 ## Alumni
