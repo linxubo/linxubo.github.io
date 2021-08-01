@@ -11,7 +11,7 @@ permalink: /members/
  **We are  looking for new PhD students, Postdocs, and Research Assistants to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
 
-Jump to [staff](#staff), [PhD students](#phd-students), [administrative support](#administrative-support), [lab visitors](#lab-visitors,-bsc/-msc-students), [alumni](#alumni).
+Jump to [staff](#staff), [PhD students](#phd-students), [MSc/BSc students](#-msc/-bsc-students), [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -133,7 +133,7 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 
 
 
-## BSc/ MSc students
+## MSc/BSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
