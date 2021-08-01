@@ -8,9 +8,6 @@ permalink: /members/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Research Assistants to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/positions) **!**
-
-
 Jump to [Staffs](#staffs), [Students](#students), [alumni](#alumni).
 
 ## Staffs
