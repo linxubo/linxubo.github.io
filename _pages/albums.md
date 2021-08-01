@@ -10,14 +10,16 @@ Jump to: [BUAA](#beihang-university), [BME](#beijing-advanced-innovation-center-
 
 ## Beihang University
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/westlake_effectpicture.jpeg" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/BUAA_campus.jpg" width="100%" >
 </figure>
 
 ## Beijing Advanced Innovation Center for Biomedical Engineering
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/westlake_SOL.jpeg" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/BME_campus.jpg" width="100%" >
 </figure>
 
 ## Our Lab
-
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/xxx.jpg" width="100%" >
+</figure>
 
