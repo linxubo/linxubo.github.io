@@ -13,27 +13,34 @@ permalink: /research/
 **1. Screen/Design Drug Candidates with Molecular Docking and Protein-Protein Docking**.
 Our interests here include drug repropursing, the modernization of Chinese Medicine, and AI-based tool development. 
 
+<div align="center">
 <figure>
-<div align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/Research/Docking.jpg" width="40%" ></div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Docking.jpg" width="40%" >
 </figure>
+</div>
 
 **2. Reveal the Melocular Mechanisms for the Structure and Dynamics of Cell Membrane**. 
 Intra-leaflet and inter-leaflet couplings related to nanoscale dynamic membrane domains ("lipid rafts"), as well as their biological significance will be our research focus.
+
+<div align="center">
 <figure>
-<div align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/Research/Lipid-raft.jpg" width="40%" ></div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Lipid-raft.jpg" width="40%" >
 </figure>
+</div>
 
 **3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane**. 
 In this part, we aim to regulate the dynamics of membrane domains and membrane proteins in a controllable manner with Nanoparticle-Drug Conjugate/Lipid Nanobubbles.
+<div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Nanobio.jpg" width="80%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Nanobio.jpg" width="60%" >
 </figure>
+</div>
 
 **Computational Resources @ Our Group**:
 7 workstations with 172 Intel Xeon CPU cores + purchased computer time @ National Supercomputing Center.
 In this part, we aim to regulate the dynamics of membrane domains and membrane proteins in a controllable manner with Nanoparticle-Drug Conjugate/Lipid Nanobubbles.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Computers.jpg" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Computers.jpg" width="80%" >
 </figure>
 
 **Shared Experimental Resources @ Our Center**:
