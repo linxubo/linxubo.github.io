@@ -39,11 +39,15 @@ In this part, we aim to regulate the dynamics of membrane domains and membrane p
 **Computational Resources @ Our Group**:
 7 workstations with 172 Intel Xeon CPU cores + purchased computer time @ National Supercomputing Center.
 In this part, we aim to regulate the dynamics of membrane domains and membrane proteins in a controllable manner with Nanoparticle-Drug Conjugate/Lipid Nanobubbles.
+<div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Computers.jpg" width="80%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Computers.jpg" width="60%" >
 </figure>
+</div>
 
 **Shared Experimental Resources @ Our Center**:
+<div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Experiments.jpg" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Experiments.jpg" width="80%" >
 </figure>
+</div>
