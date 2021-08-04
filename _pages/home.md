@@ -68,7 +68,3 @@ We are grateful for the grants from Beihang University and NSFC.
 <img src="{{ site.url }}{{ site.baseurl }}/images/BME_logo.jpg" style="width: 100px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logo_nsfc.jpg" style="width: 100px">
 <!-- </figure> -->
-
-## Collaborators:
-We work closely with many collaborators, including ...
-
