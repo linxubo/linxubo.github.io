@@ -8,4 +8,8 @@ permalink: /resources/
 
 # Resources
 
-
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Resources.jpg" width="50%" >
+</figure>
+</div>
