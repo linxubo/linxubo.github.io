@@ -13,7 +13,7 @@ permalink: /research/
 **1. Screen/Design Drug Candidates with Molecular Docking and Protein-Protein Docking**.
 Our interests here include drug repropursing, the modernization of Chinese Medicine, and AI-based tool development. 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Docking.jpg" width="50%" float: center >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Docking.jpg" width="50%"; text-align: justify; >
 </figure>
 
 **2. Reveal the Melocular Mechanisms for the Structure and Dynamics of Cell Membrane**. 
