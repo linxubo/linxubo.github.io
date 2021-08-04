@@ -12,14 +12,15 @@ permalink: /research/
   
 **1. Screen/Design Drug Candidates with Molecular Docking and Protein-Protein Docking**.
 Our interests here include drug repropursing, the modernization of Chinese Medicine, and AI-based tool development. 
+
 <figure>
-<div align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/Research/Docking.jpg" width="30%" ></div>
+<div align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/Research/Docking.jpg" width="40%" ></div>
 </figure>
 
 **2. Reveal the Melocular Mechanisms for the Structure and Dynamics of Cell Membrane**. 
 Intra-leaflet and inter-leaflet couplings related to nanoscale dynamic membrane domains ("lipid rafts"), as well as their biological significance will be our research focus.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Research/Lipid-raft.jpg" width="30%" >
+<div align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/Research/Lipid-raft.jpg" width="40%" ></div>
 </figure>
 
 **3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane**. 
