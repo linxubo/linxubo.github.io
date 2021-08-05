@@ -1,5 +1,5 @@
 - title: "Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration"
-  image: /images/Research/Lipid-raft.jpg
+  image: JACS2019.jpg
   description: We revealed the role of lipid acyl chain cis double bond position in the inter-leaflet dynamics of membrane domains ([Faculty Opinions](https://facultyopinions.com/prime/736628047)). 
   authors: Siya Zhang, Xubo Lin\*  
   link:
@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations"
-  image: Lipid-raft.jpg
+  image: Langmuir2019.jpg
   description: With combined Langmuir monolayer experiments and coarse-grained molecular dynamics simulations, we studied the effect of environmental temperature, size, and surface property of PAMAM dendrimers (G3-OH, G3-NH2, G5-OH, and G5-NH2) on the dipalmitoylphosphatidylcholine (DPPC) monolayer. ([Journal Cover](https://pubs.acs.org/toc/langd5/35/15))
   authors: Fujia Tian, Xubo Lin\*, Russell P. Valle, Yi Y. Zuo\*, and Ning Gu\*  
   link:
@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "Protein Partitioning into Ordered Membrane Domains: Insights from Simulations"
-  image: Lipid-raft.jpg
+  image: BJ2018.jpg
   description: Membrane partitioning thermodynamics of the linker of activation of T cells transmembrane domain was elucidated by molecular dynamics simulations. 
   authors: Xubo Lin, Alemayehu A. Gorfe\*, Ilya Levental\*  
   link:
@@ -26,7 +26,7 @@
   highlight: 1
 
 - title: "Surface Properties of Encapsulating Hydrophobic Nanoparticles Regulate the Main Phase Transition Temperature of Lipid Bilayers: A Simulation Study"
-  image: Lipid-raft.jpg
+  image: Nano_Research2014.jpg
   description:  The exact relationship between surface properties of the encapsulating nanoparticles and the main phase transition temperature of a lipid membrane was revealed by molecular dynamics simulations.
   authors: Xubo Lin, Ning Gu\*  
   link:
@@ -35,7 +35,7 @@
   highlight: 1
 
 - title: "Promote Potential Applications of Nanoparticles as Respiratory Drug Carrier: Insights from Molecular Dynamics Simulations"
-  image: Lipid-raft.jpg
+  image: Nanoscale2014.jpg
   description: 
   authors: Xubo Lin, Tingting Bai, Yi Y. Zuo, Ning Gu\* 
   link:
