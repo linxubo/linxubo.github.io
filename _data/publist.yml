@@ -7,9 +7,18 @@
     display:  J. Am. Chem. Soc. 2019, 141, 15884–15890.
   highlight: 1
 
+- title: "Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates"
+  image: CTMC2021.jpg
+  description: We guest-edited one thematic issue on "[Nanoparticle-Drug Conjugates](https://www.eurekaselect.com/node/615/current-topics-in-medicinal-chemistry/issue/21/2932/2/10283)" for Current Topics in Medicinal Chemistry.
+  authors: Xubo Lin\*  
+  link:
+    url: https://www.eurekaselect.com/189055/article
+    display:  Curr. Top. Med. Chem.,  2021, 21, 90-91.
+  highlight: 1
+
 - title: "Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations"
   image: Langmuir2019.jpg
-  description: With combined Langmuir monolayer experiments and coarse-grained molecular dynamics simulations, we studied the effect of environmental temperature, size, and surface property of PAMAM dendrimers (G3-OH, G3-NH2, G5-OH, and G5-NH2) on the dipalmitoylphosphatidylcholine (DPPC) monolayer. ([Journal Cover](https://pubs.acs.org/toc/langd5/35/15))
+  description: With combined Langmuir monolayer experiments and coarse-grained molecular dynamics simulations, our results indicate that PAMAM dendrimer may be used as a respiratory nanocarrier. ([Journal Cover](https://pubs.acs.org/toc/langd5/35/15))
   authors: Fujia Tian, Xubo Lin\*, Russell P. Valle, Yi Y. Zuo\*, and Ning Gu\*  
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00434
@@ -36,7 +45,7 @@
 
 - title: "Promote Potential Applications of Nanoparticles as Respiratory Drug Carrier: Insights from Molecular Dynamics Simulations"
   image: Nanoscale2014.jpg
-  description: 
+  description: We performed a series of molecular dynamics simulations to reveal effects of different physicochemcial properties of nanoparticles on pulmonary surfactant.
   authors: Xubo Lin, Tingting Bai, Yi Y. Zuo, Ning Gu\* 
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2014/NR/C3NR04163H
