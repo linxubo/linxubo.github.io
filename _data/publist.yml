@@ -7,4 +7,22 @@
     display:  J. Am. Chem. Soc. 2019, 141, 15884–15890.
   highlight: 1
 
+- title: "Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations"
+  image: Lipid-raft.jpg
+  description: With combined Langmuir monolayer experiments and coarse-grained molecular dynamics simulations, we studied the effect of environmental temperature, size, and surface property of PAMAM dendrimers (G3-OH, G3-NH2, G5-OH, and G5-NH2) on the dipalmitoylphosphatidylcholine (DPPC) monolayer. Our simulations indicated that the environmental temperature could significantly affect the influence of PAMAM dendrimers on the DPPC monolayer. Therefore, results obtained at room temperature cannot be directly applied to elucidate interactions at body temperature. Simulations at body temperature found that all tested PAMAM dendrimers can easily penetrate the lipid monolayer during the monolayer expansion process (mimicking “inhalation”), and the cationic PAMAM dendrimers (−NH2) show promising penetration ability during the monolayer compression process (mimicking “expiration”). Larger PAMAM dendrimers (G5) adsorbed onto the lipid monolayer tend to induce structural collapse and inhibit normal phase transitions of the lipid monolayer. 
+  authors: Fujia Tian, Xubo Lin\*, Russell P. Valle, Yi Y. Zuo\*, and Ning Gu\*  
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00434
+    display:  Langmuir 2019, 35, 15, 5364–5371.
+  highlight: 1
+
+- title: "Protein Partitioning into Ordered Membrane Domains: Insights from Simulations"
+  image: Lipid-raft.jpg
+  description: Membrane partitioning thermodynamics of the linker of activation of T cells transmembrane domain was elucidated by molecular dynamics simulations. 
+  authors: Xubo Lin, Alemayehu A. Gorfe\*, Ilya Levental\*  
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0006349518303874
+    display:  Biophys. J., 2018, 114, 1936-1944.
+  highlight: 1
+  
 # Publications
