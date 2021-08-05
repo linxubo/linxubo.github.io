@@ -1,10 +1,10 @@
-- title: "Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration"
-  image: JACS2019.jpg
-  description: We revealed the role of lipid acyl chain cis double bond position in the inter-leaflet dynamics of membrane domains ([Faculty Opinions](https://facultyopinions.com/prime/736628047)). 
-  authors: Siya Zhang, Xubo Lin\*  
+- title: "Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations"
+  image: Nanoscale2021.jpg
+  description: We found the surface ligand rigidity can modulate the lipid raft affinity of ultra-small hydrophobic nanoparticles.
+  authors: Xiaoqian Lin, Xubo Lin\*  
   link:
-    url: https://pubs.acs.org/doi/10.1021/jacs.9b06977
-    display:  J. Am. Chem. Soc. 2019, 141, 15884–15890.
+    url: https://pubs.rsc.org/en/content/articlelanding/2021/NR/D1NR01563J
+    display:  Nanoscale, 2021, 13, 9825-9833.
   highlight: 1
 
 - title: "Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates"
@@ -14,6 +14,33 @@
   link:
     url: https://www.eurekaselect.com/189055/article
     display:  Curr. Top. Med. Chem.,  2021, 21, 90-91.
+  highlight: 1
+
+- title: "Transmembrane Potential of Physiologically Relevant Model Membranes: Effects of Membrane Asymmetry"
+  image: JCP2020.jpg
+  description: We revealed the correlation between the transmembrane potential and membrane asymmetry.
+  authors: Xubo Lin\*, Alemayehu A. Gorfe\*  
+  link:
+    url: https://aip.scitation.org/doi/10.1063/5.0018303
+    display:  J. Chem. Phys., 2020, 153, 105103.
+  highlight: 1
+
+- title: "A Translocation Pathway for Vesicle-Mediated Unconventional Protein Secretion"
+  image: Cell2020.jpg
+  description: We found the surface ligand rigidity can modulate the lipid raft affinity of ultra-small hydrophobic nanoparticles.
+  authors: Min Zhang#, Lei Liu#, Xubo Lin, Ying Li, Shulin Li, Yuxin Sun, Di Zhang, Xiachen Lv, Liang Ge\*  
+  link:
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0092867420303238
+    display:  Cell, 2020, 181, 637-652.
+  highlight: 1
+
+- title: "Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration"
+  image: JACS2019.jpg
+  description: We revealed the role of lipid acyl chain cis double bond position in the inter-leaflet dynamics of membrane domains ([Faculty Opinions](https://facultyopinions.com/prime/736628047)). 
+  authors: Siya Zhang, Xubo Lin\*  
+  link:
+    url: https://pubs.acs.org/doi/10.1021/jacs.9b06977
+    display:  J. Am. Chem. Soc. 2019, 141, 15884–15890.
   highlight: 1
 
 - title: "Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations"
