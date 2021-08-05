@@ -1,10 +1,10 @@
-- title: "Test"
-  image: pub_Science.jpg
-  description: Test
-  authors: Lin\*, Lin#  
+- title: "Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration"
+  image: Research/Lipid-raft.jpg
+  description: We revealed the role of lipid acyl chain cis double bond position in the inter-leaflet dynamics of membrane domains ([Faculty Opinions](https://facultyopinions.com/prime/736628047)). 
+  authors: Siya Zhang, Xubo Lin\*  
   link:
-    url: https://linxubo.github.io/ 
-    display:  JACS 371, 1249-1253 (2019)
+    url: https://pubs.acs.org/doi/10.1021/jacs.9b06977
+    display:  J. Am. Chem. Soc. 2019, 141, 15884–15890.
   highlight: 1
 
 # Publications
