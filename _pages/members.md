@@ -8,7 +8,7 @@ permalink: /members/
 
 # Group Members
 
-Jump to [Staffs](#staffs), [Students](#students), [alumni](#alumni).
+Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 
 ## Staffs
 {% assign number_printed = 0 %}
@@ -131,33 +131,10 @@ Jump to [Staffs](#staffs), [Students](#students), [alumni](#alumni).
 
 ## Alumni
 
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+**Visiting Graduate Students**:
+Fujia Tian (2018.09-2019.07, Junior  Research Assistant; Currently: PhD student at City University of Hong Kong)
+Shiying Zhou (2018.10-2019.07, Visiting Graduate Student; Currently: Graduate Student at Yangzhou University）
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+**Undergraduate Students**:
+Fanzhe Meng (2018.11-2019.07, Beihang University, Grade 2)
+Yuan Wang (2019.12-2020.06, Beihang University, Grade 4)
