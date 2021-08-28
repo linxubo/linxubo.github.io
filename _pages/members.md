@@ -132,9 +132,9 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 ## Alumni
 
 **Visiting Graduate Students**:
-Fujia Tian (2018.09-2019.07, Junior  Research Assistant; Currently: PhD student at City University of Hong Kong)
-Shiying Zhou (2018.10-2019.07, Visiting Graduate Student; Currently: Graduate Student at Yangzhou University）
+1. Fujia Tian (2018.09-2019.07, Junior  Research Assistant; Currently: PhD student at City University of Hong Kong)
+2. Shiying Zhou (2018.10-2019.07, Visiting Graduate Student; Currently: Graduate Student at Yangzhou University）
 
 **Undergraduate Students**:
-Fanzhe Meng (2018.11-2019.07, Beihang University, Grade 2)
-Yuan Wang (2019.12-2020.06, Beihang University, Grade 4)
+1. Fanzhe Meng (2018.11-2019.07, Beihang University, Grade 2)
+2. Yuan Wang (2019.12-2020.06, Beihang University, Grade 4)
