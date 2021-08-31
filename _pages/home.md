@@ -15,7 +15,7 @@ We are a [research group](http://shi.buaa.edu.cn/linxubo) (2018.01~now) in [Beij
 3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane.
 4. Develop Useful Tools and Algorithms for Molecular Simulations.
 
- **We are looking for passionate PhD students, [Postdocs](https://mp.weixin.qq.com/s/ATp7IxuU69CKsQDyIiPeSg), and Research Assistants to join the team!**
+ **We are looking for passionate students and [Postdocs](https://mp.weixin.qq.com/s/ATp7IxuU69CKsQDyIiPeSg) to join the team!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
