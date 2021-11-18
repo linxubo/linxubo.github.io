@@ -1,3 +1,12 @@
+- title: "Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation"
+  image: BiomaterialsScience2021.jpg
+  description: Our μs-scale free coarse-grained MD simulations as well as umbrella sampling free energy calculations indicated that the hydrophobicity of the hydrophobic surface ligands not only determined the lateral membrane partitioning thermodynamics of Janus NPs in phase-separated lipid membranes, but also the difficulty in their insertion into different membrane domains of the lipid membrane. These two factors jointly regulated the lipid raft affinity of Janus NPs.
+  authors: Xiaoqian Lin, Xubo Lin\*  
+  link:
+    url: https://pubs.rsc.org/en/content/articlelanding/2021/BM/D1BM01364E
+    display:  Biomater. Sci., 2021, doi: 10.1039/D1BM01364E.
+  highlight: 1
+  
 - title: "Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations"
   image: Nanoscale2021.jpg
   description: We found the surface ligand rigidity can modulate the lipid raft affinity of ultra-small hydrophobic nanoparticles.
