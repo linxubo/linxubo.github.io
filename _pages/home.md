@@ -16,6 +16,8 @@ We are a [research group](http://shi.buaa.edu.cn/linxubo/zh_CN/index.htm) (2018.
 4. Develop Useful Tools and Algorithms for Molecular Simulations.
 
  **We are looking for passionate graduate(1 PhD & 1 Master)/undergraduate students and [Postdocs](https://mp.weixin.qq.com/s/ATp7IxuU69CKsQDyIiPeSg) to join the team!**
+ 
+**We are guest-editing a research topic on "[Molecular Modeling and Simulations of Biological Processes at Cell Membranes](https://www.frontiersin.org/research-topics/22952/molecular-modeling-and-simulations-of-biological-processes-at-cell-membranes#overview)" in Frontiers in Molecular Biosciences (IF=5.246). Welcome to contribute!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
