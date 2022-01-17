@@ -43,6 +43,15 @@
     display:  J. Chem. Phys., 2020, 153, 105103.
   highlight: 1
 
+- title: "Optimization of hydrophobic nanoparticles to better target lipid rafts with molecular dynamics simulations"
+  image: Nanoscale2020.jpg
+  description: In this work, we designed a ligand-modified spherical nanoparticle with coarse-grained molecular dynamics simulations, which can be encapsulated into the hydrophobic region of the lipid membrane and specifically target either raft or non-raft membrane domains. The preferred localization of the nanoparticle can be tuned by adjusting ligand hydrophobicity, length and density. Generally, more hydrophobic nanoparticles tend to target the raft domain, while less hydrophobic nanoparticles prefer the non-raft domain. Besides, ligand length and density jointly determine the exposure of nanoparticle cores and thus affect the roles of ligands in nanoparticles’ final localization.
+  authors: Xiaoqian Lin, Xubo Lin\*, Ning Gu\*  
+  link:
+    url: https://pubs.rsc.org/en/content/articlelanding/2020/nr/c9nr09226a
+    display:  Nanoscale, 2020, 12, 4101-4109
+  highlight: 1
+  
 - title: "A Translocation Pathway for Vesicle-Mediated Unconventional Protein Secretion"
   image: Cell2020.jpg
   description: We assisted our experiment collaborators to discover a tanslocation pathway for unconventional protein secretion.
