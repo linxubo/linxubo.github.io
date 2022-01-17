@@ -1,3 +1,12 @@
+- title: "Applications of Molecular Dynamics Simulations in Drug Discovery"
+  image: Book2022.jpg
+  description: We contribute one chapter on "Applications of Molecular Dynamics Simulations in Drug Discovery" to the book "Advances in Protein Molecular and Structural Biology Methods".
+  authors: Xubo Lin\*  
+  link:
+    url: https://www.elsevier.com/books/advances-in-protein-molecular-and-structural-biology-methods/tripathi/978-0-323-90264-9
+    display:  Elsevier Book Chapter, 2022.
+  highlight: 1
+
 - title: "Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation"
   image: BiomaterialsScience2021.jpg
   description: Our μs-scale free coarse-grained MD simulations as well as umbrella sampling free energy calculations indicated that the hydrophobicity of the hydrophobic surface ligands not only determined the lateral membrane partitioning thermodynamics of Janus NPs in phase-separated lipid membranes, but also the difficulty in their insertion into different membrane domains of the lipid membrane. These two factors jointly regulated the lipid raft affinity of Janus NPs.
