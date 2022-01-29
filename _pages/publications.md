@@ -13,7 +13,6 @@ permalink: /publications/
 
 (For a full list, see [Google Scholar](https://scholar.google.com/citations?user=VSlcvLoAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Xubo_Lin)).
 
-{% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
 {% if publi.highlight == 1 %}
@@ -29,11 +28,3 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% endif %}
-{% endfor %}
-
-
-<p> &nbsp; </p>
