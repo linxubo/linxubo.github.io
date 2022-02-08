@@ -9,11 +9,11 @@
 
 - title: "Applications of Molecular Dynamics Simulations in Drug Discovery"
   image: Book2022.jpg
-  description: We contribute one chapter on "Applications of Molecular Dynamics Simulations in Drug Discovery" to the book "Advances in Protein Molecular and Structural Biology Methods".
+  description: Molecular dynamics (MD) simulation is a powerful tool to obtain the kinetic information and calculate thermodynamic properties for the protein-drug interactions. In this chapter, we briefly introduce the applications of MD simulations in the preparation of high-throughput virtual screening including generating conformational ensemble, optimizing the structures of small molecules, and identifying the drug binding sites on the target protein. In the process of high-throughput virtual screening, docking calculations based on MD force fields, coarse-grained MD simulations as well as end-point binding free energy calculations such as MM/PBSA or MM/GBSA can be applied to achieve the balance between the accuracy and the efficiency. In the postprocessing stage of high-throughput virtual screening, the top hits can be further reevaluated and reranked by either long MD simulations with enhanced sampling methods or various more precise binding free energy calculation approaches. At last, the application of MD simulation in drug permeability is also discussed.
   authors: Xubo Lin\*  
   link:
-    url: https://www.elsevier.com/books/advances-in-protein-molecular-and-structural-biology-methods/tripathi/978-0-323-90264-9
-    display:  Elsevier Book Chapter, 2022.
+    url: https://www.sciencedirect.com/science/article/pii/B9780323902649000271
+    display:  Advances in Protein Molecular and Structural Biology Methods, 2022, 455-465
   highlight: 1
 
 - title: "Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation"
