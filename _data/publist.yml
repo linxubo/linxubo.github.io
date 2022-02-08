@@ -36,7 +36,7 @@
 
 - title: "Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates"
   image: CTMC2021.jpg
-  description: We guest-edited one thematic issue on "[Nanoparticle-Drug Conjugates](https://www.eurekaselect.com/node/615/current-topics-in-medicinal-chemistry/issue/21/2932/2/10283)" for Current Topics in Medicinal Chemistry.
+  description: We guest-edited one thematic issue on "[Nanoparticle-Drug Conjugates](https://www.eurekaselect.com/node/615/current-topics-in-medicinal-chemistry/issue/21/2932/2/10283)" for Current Topics in Medicinal Chemistry. Drug development is always one of the main missions in Medicinal Chemistry. In the past several decades, nanoscience and nanotechnology have made great progress in facilitating drug development. Especially, nanoparticle-drug conjugates, which integrate both the advantages of nanoparticles and drugs, have shown great potential in treating a series of diseases including cancers. In this thematic issue, we focus on the current advances in computational and experimental approaches in nanoparticle-drug conjugates.
   authors: Xubo Lin\*  
   link:
     url: https://www.eurekaselect.com/189055/article
@@ -45,7 +45,7 @@
 
 - title: "Transmembrane Potential of Physiologically Relevant Model Membranes: Effects of Membrane Asymmetry"
   image: JCP2020.jpg
-  description: We revealed the correlation between the transmembrane potential and membrane asymmetry.
+  description: In this work, we performed a series of all-atom molecular dynamics (MD) simulations of symmetric model membranes of various lipid compositions and cation contents to evaluate the relationship between membrane asymmetry and Vm. Specifically, we studied the impact of the asymmetric distribution of POPS (1-palmitoyl-2-oleoyl-sn-glycero-3-phospho-l-serine), PIP2 (phosphatidylinositol 4,5-bisphosphate), as well as Na+ and K+ on Vm using atomically detailed MD simulations of symmetric model membranes. The results suggest that, for an asymmetric POPC-POPC/POPS bilayer in the presence of NaCl, the presence of the monovalent anionic lipid POPS in the inner leaflet polarizes the membrane (ΔVm < 0). Intriguingly, replacing a third of the POPS lipids by the polyvalent anionic signaling lipid PIP2 counteracts this effect, resulting in a smaller negative membrane potential. We also found that replacing Na+ ions in the inner region by K+ depolarizes the membrane (ΔVm > 0). These divergent effects arise from variations in the strength of cation–lipid interactions and are correlated with changes in lipid chain order and head-group orientation.
   authors: Xubo Lin\*, Alemayehu A. Gorfe\*  
   link:
     url: https://aip.scitation.org/doi/10.1063/5.0018303
