@@ -18,16 +18,16 @@
 
 - title: "Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation"
   image: BiomaterialsScience2021.jpg
-  description: Our μs-scale free coarse-grained MD simulations as well as umbrella sampling free energy calculations indicated that the hydrophobicity of the hydrophobic surface ligands not only determined the lateral membrane partitioning thermodynamics of Janus NPs in phase-separated lipid membranes, but also the difficulty in their insertion into different membrane domains of the lipid membrane. These two factors jointly regulated the lipid raft affinity of Janus NPs.
+  description: Our μs-scale free coarse-grained MD simulations as well as umbrella sampling free energy calculations indicated that the hydrophobicity of the hydrophobic surface ligands not only determined the lateral membrane partitioning thermodynamics of Janus NPs in phase-separated lipid membranes, but also the difficulty in their insertion into different membrane domains of the lipid membrane. These two factors jointly regulated the lipid raft affinity of Janus NPs. Meanwhile, the hydrophilicity of the hydrophilic surface ligands could affect the insertion ability of Janus NPs. Besides, the ultra-small size could ensure the membrane-bound behavior of Janus NPs without disrupting the overall structure and phase separation kinetics of the lipid membrane. These results may provide valuable insights into the design of functional NPs targeting and controllably regulating lipid rafts.
   authors: Xiaoqian Lin, Xubo Lin\*  
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2021/BM/D1BM01364E
-    display:  Biomaterials Science, 2021, Advance Article.
+    display:  Biomaterials Science, 2021, 9, 8249-8258
   highlight: 1
   
 - title: "Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations"
   image: Nanoscale2021.jpg
-  description: We found the surface ligand rigidity can modulate the lipid raft affinity of ultra-small hydrophobic nanoparticles.
+  description: A series of μs-scale coarse-grained molecular dynamics simulations and umbrella sampling free energy calculations were performed to investigate the role of surface ligand rigidity of ultra-small hydrophobicNPs in their raft affinity. Our results indicated that the preferred localization of NPs can be tuned by adjusting their surface ligand rigidity. Generally, rigid NPs tended to target the raft domain, while soft NPs preferred the interface of the raft and non-raft domains. The free energy analysis further indicated that the surface ligand rigidity of NPs can enhance their targeting to lipid raft domains. Besides, we found that these ultra-small NPs had no significant effects on the phase separation of the lipid membrane although they might cause some local interference to surrounding lipids. 
   authors: Xiaoqian Lin, Xubo Lin\*  
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2021/NR/D1NR01563J
