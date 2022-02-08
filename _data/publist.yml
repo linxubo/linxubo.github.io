@@ -90,7 +90,7 @@
 
 - title: "Protein Partitioning into Ordered Membrane Domains: Insights from Simulations"
   image: BJ2018.jpg
-  description: Membrane partitioning thermodynamics of the linker of activation of T cells transmembrane domain was elucidated by molecular dynamics simulations. 
+  description: In this work, we used extensive coarse-grained and atomistic molecular dynamics simulations, potential of mean force calculations, and conceptual models to describe the partitioning dynamics and energetics of a model transmembrane domain from the linker of activation of T cells. We find that partitioning between domains is determined by an interplay between protein-lipid interactions and differential lipid packing between raft and nonraft domains. Specifically, we show that partitioning into ordered domains is promoted by preferential interactions between peptides and ordered lipids, mediated in large part by modification of the peptides by saturated fatty acids (i.e., palmitoylation). Conversely, ordered domain partitioning is disfavored by the tight molecular packing of the lipids therein. The balance of these dominant drivers determines partitioning. 
   authors: Xubo Lin, Alemayehu A. Gorfe\*, Ilya Levental\*  
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0006349518303874
@@ -99,7 +99,7 @@
 
 - title: "Surface Properties of Encapsulating Hydrophobic Nanoparticles Regulate the Main Phase Transition Temperature of Lipid Bilayers: A Simulation Study"
   image: Nano_Research2014.jpg
-  description:  The exact relationship between surface properties of the encapsulating nanoparticles and the main phase transition temperature of a lipid membrane was revealed by molecular dynamics simulations.
+  description:  The main phase transition temperature of a lipid membrane, which is vital for its biomedical applications such as controllable drug release, can be regulated by encapsulating hydrophobic nanoparticles into the membrane. However, the exact relationship between surface properties of the encapsulating nanoparticles and the main phase transition temperature of a lipid membrane is far from clear. In the present work, we performed coarse-grained molecular dynamics simulations to meet this end. The results show the surface roughness of nanoparticles and the density of surface-modifying molecules on the nanoparticles are responsible for the regulation. Increasing the surface roughness of the nanoparticles increases the main phase transition temperature of the lipid membrane, whereas it can be decreased in a nonlinear way via increasing the density of surface-modifying molecules on the nanoparticles. The results may provide insights for understanding recent experimental studies and promote the applications of nanoparticles in controllable drug release by regulating the main phase transition temperature of lipid vesicles.
   authors: Xubo Lin, Ning Gu\*  
   link:
     url: https://link.springer.com/article/10.1007/s12274-014-0482-3
@@ -108,10 +108,10 @@
 
 - title: "Promote Potential Applications of Nanoparticles as Respiratory Drug Carrier: Insights from Molecular Dynamics Simulations"
   image: Nanoscale2014.jpg
-  description: We performed a series of molecular dynamics simulations to reveal effects of different physicochemcial properties of nanoparticles on pulmonary surfactant.
+  description: Using coarse-grained molecular dynamics simulations, we studied the effect of rigid spherical NPs with different hydrophobicity and sizes on a dipalmitoylphosphatidylcholine (DPPC) monolayer at the air–water interface. Four different NPs were considered, including hydrophilic and hydrophobic NPs, each with two diameters of 3 nm and 5 nm (the sizes are comparable to that of generation 3 and 5 PAMAM dendrimers, which have been widely used for nanoscale drug carrier systems). Our simulations showed that hydrophilic NPs can readily penetrate into the aqueous phase with little or no disturbance on the DPPC monolayer. However, hydrophobic NPs tend to induce large structural disruptions, thus inhibiting the normal phase transition of the DPPC monolayer upon film compression. Our simulations also showed that this inhibitory effect of hydrophobic NPs can be mitigated through PEGylation. Our results provide useful guidelines for molecular design of NPs as carrier systems for pulmonary drug delivery.
   authors: Xubo Lin, Tingting Bai, Yi Y. Zuo, Ning Gu\* 
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2014/NR/C3NR04163H
     display:  Nanoscale, 2014,6, 2759-2767.
   highlight: 1
-# Publications
+
