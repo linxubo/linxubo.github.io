@@ -1,6 +1,6 @@
 - title: "Evaluate Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations"
   image: JCIM202202.png
-  description: In this work, 
+  description: In this work, we performed multiple μs-scale Martini coarse-grained molecular dynamics simulations to reveal the interaction details between SARS-CoV-2 RBD and full-length human ACE2. Besides, the key coarse-grained systems were backmapped into the corresponding all-atom system for further quantifications. Our results indicated that the plier structure in two ends of binding interface plays a key role in the binding process of SARS-CoV-2 RBD with ACE2. Furthermore, we also found that when there is no B0AT1 in the simulation system, the N-terminus of ACE2 is more likely to approach the cell membrane, which has a strong correlation with the subsequent fusion of the virus and with the cell membrane.
   authors: Baocai Ma, Zuoheng Zhang, Yan Li, Xubo Lin\* and Ning Gu\*  
   link:
     url: https://pubs.acs.org/journal/jcisd8 
