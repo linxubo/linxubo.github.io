@@ -54,7 +54,7 @@
 
 - title: "Optimization of hydrophobic nanoparticles to better target lipid rafts with molecular dynamics simulations"
   image: Nanoscale2020.jpg
-  description: In this work, we designed a ligand-modified spherical nanoparticle with coarse-grained molecular dynamics simulations, which can be encapsulated into the hydrophobic region of the lipid membrane and specifically target either raft or non-raft membrane domains. The preferred localization of the nanoparticle can be tuned by adjusting ligand hydrophobicity, length and density.
+  description: In this work, we designed a ligand-modified spherical nanoparticle with coarse-grained molecular dynamics simulations, which can be encapsulated into the hydrophobic region of the lipid membrane and specifically target either raft or non-raft membrane domains. The preferred localization of the nanoparticle can be tuned by adjusting ligand hydrophobicity, length and density. Generally, more hydrophobic nanoparticles tend to target the raft domain, while less hydrophobic nanoparticles prefer the non-raft domain. Besides, ligand length and density jointly determine the exposure of nanoparticle cores and thus affect the roles of ligands in nanoparticles’ final localization. Our results may provide insights into the experimental design of functional nanoparticles, targeting the lipid raft and regulating its dynamics.
   authors: Xiaoqian Lin, Xubo Lin\*, Ning Gu\*  
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2020/nr/c9nr09226a
@@ -63,7 +63,7 @@
   
 - title: "A Translocation Pathway for Vesicle-Mediated Unconventional Protein Secretion"
   image: Cell2020.jpg
-  description: We assisted our experiment collaborators to discover a tanslocation pathway for unconventional protein secretion.
+  description: Many cytosolic proteins lacking a signal peptide, called leaderless cargoes, are secreted through unconventional secretion. Vesicle trafficking is a major pathway involved. It is unclear how leaderless cargoes enter into the vesicle. Here, we find a translocation pathway regulating vesicle entry and secretion of leaderless cargoes. We identify TMED10 as a protein channel for the vesicle entry and secretion of many leaderless cargoes. The interaction of TMED10 C-terminal region with a motif in the cargo accounts for the selective release of the cargoes. In an in vitro reconstitution assay, TMED10 directly mediates the membrane translocation of leaderless cargoes into the liposome, which is dependent on protein unfolding and enhanced by HSP90s. In the cell, TMED10 localizes on the endoplasmic reticulum (ER)-Golgi intermediate compartment and directs the entry of cargoes into this compartment. Furthermore, cargo induces the formation of TMED10 homo-oligomers which may act as a protein channel for cargo translocation.
   authors: Min Zhang#, Lei Liu#, Xubo Lin, Ying Li, Shulin Li, Yuxin Sun, Di Zhang, Xiachen Lv, Liang Ge\*  
   link:
     url: https://linkinghub.elsevier.com/retrieve/pii/S0092867420303238
@@ -72,7 +72,7 @@
 
 - title: "Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration"
   image: JACS2019.jpg
-  description: We revealed the role of lipid acyl chain cis double bond position in the <strong>inter-leaflet dynamics</strong> of membrane domains ([Faculty Opinions](https://facultyopinions.com/prime/736628047)). 
+  description: We revealed that lipid acyl chain cis double bond position can regulate the inter-leaflet coupling according to our coarse-grained and all-atom molecular dynamics simulations. The farther the double bond is away from the lipid tail terminal, the weaker the inter-leaflet attractive interactions between unsaturated lipids. Therefore, the relative motions of membrane domains in two membrane leaflets become more obvious (membrane domain anti-registration). Generally, our simulations validated a direct indicator for the inter-leaflet coupling strength, which provides physical insights into the molecular mechanisms of membrane domain registration/anti-registration. (<strong>Recommended by [Faculty Opinions](https://facultyopinions.com/prime/736628047)</strong>). 
   authors: Siya Zhang, Xubo Lin\*  
   link:
     url: https://pubs.acs.org/doi/10.1021/jacs.9b06977
