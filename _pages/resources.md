@@ -12,7 +12,7 @@ permalink: /resources/
 <img src="{{ site.url }}{{ site.baseurl }}/images/Research/Resources.jpg" width="50%" >
 </figure>
 
-# Undergraduate Courses
+<strong>Undergraduate Courses</strong>
 
 <strong>1. Systems Biology:</strong>
 
