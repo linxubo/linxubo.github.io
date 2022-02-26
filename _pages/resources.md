@@ -11,6 +11,7 @@ permalink: /resources/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Research/Resources.jpg" width="50%" >
 </figure>
+PS: Input the course name into the above wechat account, you will get the password for the lectures.
 
 
 <strong>Undergraduate Courses</strong>
