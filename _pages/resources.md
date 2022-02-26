@@ -12,7 +12,7 @@ permalink: /resources/
 <img src="{{ site.url }}{{ site.baseurl }}/images/Research/Resources.jpg" width="50%" >
 </figure>
 
-<font size="4">文字</font>
+<font size="10">文字</font>
 
 <strong>Undergraduate Courses</strong>
 
