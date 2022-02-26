@@ -13,7 +13,7 @@ permalink: /resources/
 </figure>
 
 
-<font size="5"><strong>Undergraduate Courses</strong></font>
+<font size="5"><strong>Undergraduate Courses</strong></font><br>
 
 
 <font size="4"><strong>1. Systems Biology:</strong></font>
