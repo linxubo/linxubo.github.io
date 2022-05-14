@@ -9,7 +9,7 @@ permalink: /
 # Welcome to Lin Lab @ BUAA
 "Everything that living things do can be understood in terms of the **jiggling and wiggling of atoms**."  ----Richard Feynman in the seminal Feynman Lectures on Physics, 1963.
 
-We are a [research group](http://shi.buaa.edu.cn/linxubo/zh_CN/index.htm) (2018.01~now) in [Beijing Advanced Innovation Center for Biomedical Engineering](https://baicbme.buaa.edu.cn/), [Beihang University (BUAA)](https://www.buaa.edu.cn), Beijing, China. Our group mainly focus on the fundamental researches of **Membrane Biophysics** and **Nano-Bio Interface** as well as their potential applications in Nanomedicine. Currently, our researches use molecular simulations, and expand gradually to include molecular cell biology experiments.
+We are a research group (2018.01~now) in [Beijing Advanced Innovation Center for Biomedical Engineering](https://baicbme.buaa.edu.cn/), [School of Engineering Medicine](http://ygy.buaa.edu.cn/) [Beihang University (BUAA)](https://www.buaa.edu.cn), Beijing, China. Our group mainly focus on the fundamental researches of **Membrane Biophysics** and **Nano-Bio Interface** as well as their potential applications in Nanomedicine. Currently, our researches use molecular simulations, and expand gradually to include molecular cell biology experiments.
 1. Screen/Design Drug Candidates with Molecular Docking and Protein-Protein Docking.
 2. Reveal the Melocular Mechanisms for the Structure and Dynamics of Cell Membrane.
 3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane.
@@ -17,7 +17,7 @@ We are a [research group](http://shi.buaa.edu.cn/linxubo/zh_CN/index.htm) (2018.
 
  **We are looking for passionate graduate(1 PhD & 1 Master)/undergraduate students and [Postdocs](https://mp.weixin.qq.com/s/ATp7IxuU69CKsQDyIiPeSg) to join the team!**
  
-**We are guest-editing a research topic on "[Molecular Modeling and Simulations of Biological Processes at Cell Membranes](https://www.frontiersin.org/research-topics/22952/molecular-modeling-and-simulations-of-biological-processes-at-cell-membranes#overview)" in Frontiers in Molecular Biosciences (IF=5.246). Welcome to contribute!**
+**We are guest-editing a research topic on "[Molecular Modeling and Simulations of Biological Processes at Cell Membranes II](https://www.frontiersin.org/research-topics/37828/molecular-modeling-and-simulations-of-biological-processes-at-cell-membranes-volume-ii)" in Frontiers in Molecular Biosciences (IF=5.246). Welcome to contribute!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
