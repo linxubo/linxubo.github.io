@@ -129,6 +129,8 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 </div>
 {% endif %}
 
+
+
 ## Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
@@ -183,12 +185,3 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 </div>
 {% endif %}
 
-**Graduate Students & Research Assistants**:
-1. Fujia Tian (2018.09-2019.07, Junior  Research Assistant)
-2. Shiying Zhou (2018.10-2019.07, Visiting Graduate Student）
-3. Xiu Li (2020.07-2021.08, Research Assistant)
-
-**Undergraduate Students**:
-1. Fanzhe Meng (2018.11-2019.07, Beihang University, Grade 2)
-2. Yuan Wang (2019.12-2020.06, Beihang University, Grade 4)
-3. Kaidong Lin (2020.12-2021.08, Beihang University, Grade 4)
