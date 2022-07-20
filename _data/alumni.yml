@@ -1,6 +1,6 @@
 -  name: Xiu Li
    photo: lixiu.jpg
-   info: Research Assistant (2020/07-2021/08)
+   info: Research Assistant (2020/07-2021/08), then rejoin our group
    number_educ: 1
    education1: Shanxi Normal University (M.S., 2020)
    
@@ -13,18 +13,30 @@
  
 -  name: Kaidong Lin
    photo: linkaidong.jpg
-   info: Undergraduate Student (2020.12-2021.08)
+   info: Undergraduate Student (2020.12-2021.08), then rejoin our group
    number_educ: 1
    education1: Beihang University (B.E., 2021)
    
 -  name: Fujia Tian
-   photo: TBA.jpg
-   info: Junior Research Assistant (2018.09-2019.07)
+   photo: boy.jpg
+   info: Junior Research Assistant (2018.09-2019.07), then move to City University of Hong Kong
    number_educ: 1
    education1: Sun Yat-sen University (B.S., 2018)
    
 -  name: Shiying Zhou
-   photo: TBA.jpg
-   info: Visiting Graduate Student (2018.09-2019.07)
+   photo: boy.jpg
+   info: Visiting Graduate Student (2018.09-2019.07), then move to Hangzhou
    number_educ: 1
    education1: Yangzhou University (B.S., 2017)
+   
+-  name: Yuan Wang
+   photo: girl.jpg
+   info: Undergraduate Student (2019.12-2020.06), then move to Peking University
+   number_educ: 1
+   education1: Beihang University (B.E., 2020)
+   
+-  name: Fanzhe Meng
+   photo: girl.jpg
+   info: Undergraduate Student (2018.11-2019.07), then move to Beihang University
+   number_educ: 1
+   education1: Beihang University (B.E., 2020)
