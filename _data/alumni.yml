@@ -1,20 +1,29 @@
 -  name: Xiu Li
    photo: lixiu.jpg
    info: Research Assistant (2020/07-2021/08)
-   email: xiulimc@163.com
    number_educ: 1
    education1: Shanxi Normal University (M.S., 2020)
    
 -  name: Yifei Zhou
    photo: zhouyifei.jpg
    info: MS Student (2019/09~2022/06)
-   email: seeyazhou@buaa.edu.cn
    number_educ: 1
    education1: Central South University for Nationalities (B.E., 2019)
  
 -  name: Kaidong Lin
    photo: linkaidong.jpg
    info: Undergraduate Student (2020.12-2021.08)
-   email: 898918856@qq.com
    number_educ: 1
    education1: Beihang University (B.E., 2021)
+   
+-  name: Fujia Tian
+   photo: TBA.jpg
+   info: Junior Research Assistant (2018.09-2019.07)
+   number_educ: 1
+   education1: Sun Yat-sen University (B.S., 2018)
+   
+-  name: Shiying Zhou
+   photo: TBA.jpg
+   info: Visiting Graduate Student (2018.09-2019.07)
+   number_educ: 1
+   education1: Yangzhou University (B.S., 2017)
