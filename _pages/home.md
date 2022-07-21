@@ -1,12 +1,12 @@
 ---
-title: "Lin Lab - Home"
+title: "NanoBioMembrane Lab - Home"
 layout: homelay
-excerpt: "Lin Lab @ BUAA"
+excerpt: "NanoBioMembrane Lab @ BUAA"
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Lin Lab @ BUAA
+# Welcome to NanoBioMembrane Lab @ BUAA
 "Everything that living things do can be understood in terms of the **jiggling and wiggling of atoms**."  ----Richard Feynman in the seminal Feynman Lectures on Physics, 1963.
 
 We are a research group (2018.01~now) in [Beijing Advanced Innovation Center for Biomedical Engineering](https://baicbme.buaa.edu.cn/), [School of Engineering Medicine](http://ygy.buaa.edu.cn/), [Beihang University (BUAA)](https://www.buaa.edu.cn), Beijing, China. Our group mainly focus on the fundamental researches of **Membrane Biophysics** and **Nano-Bio Interface** as well as their potential applications in Nanomedicine. Currently, our researches use molecular simulations, and expand gradually to include molecular cell biology experiments.
