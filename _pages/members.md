@@ -1,7 +1,7 @@
 ---
-title: "Lin Lab - Members"
+title: "NanoBioMembrane Lab - Members"
 layout: gridlay
-excerpt: "Lin Lab - Members"
+excerpt: "NanoBioMembrane Lab - Members"
 sitemap: false
 permalink: /members/
 ---
