@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Lin Lab @ BUAA."
+excerpt: "NanoBioMembrane Lab @ BUAA."
 sitemap: false
 permalink: /news.html
 ---
