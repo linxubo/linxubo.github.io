@@ -1,7 +1,7 @@
 ---
-title: "Lin Lab - Albums"
+title: "NanoBioMembrane Lab - Albums"
 layout: piclay
-excerpt: "Lin Lab - Albums"
+excerpt: "NanoBioMembrane Lab - Albums"
 permalink: /albums/
 ---
 
