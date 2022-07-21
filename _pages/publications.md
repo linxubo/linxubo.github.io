@@ -1,7 +1,7 @@
 ---
-title: "Lin Lab - Publications"
+title: "NanoBioMembrane Lab - Publications"
 layout: gridlay
-excerpt: "Lin Lab -- Publications."
+excerpt: "NanoBioMembrane Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
