@@ -1,7 +1,7 @@
 ---
-title: "Lin Lab - Resources"
+title: "NanoBioMembrane Lab - Resources"
 layout: textlay
-excerpt: "Lin Lab - Resources"
+excerpt: "NanoBioMembrane Lab - Resources"
 sitemap: false
 permalink: /resources/
 ---
