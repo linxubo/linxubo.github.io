@@ -1,7 +1,7 @@
 ---
-title: "Lin Lab - Research"
+title: "NanoBioMembrane Lab - Research"
 layout: textlay
-excerpt: "Research"
+excerpt: "NanoBioMembrane Lab - Research"
 sitemap: false
 permalink: /research/
 ---
