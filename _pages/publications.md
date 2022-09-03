@@ -8,13 +8,15 @@ permalink: /publications/
 
 # Publications
 ## Work @ BUAA (2018~now):
-41.	Xiu Li, Shiying Zhou, Xubo Lin*. Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane. Journal of Chemical Information and Modeling, 2022, 62, 2421-2431.
-40.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, Xubo Lin, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li*. Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber. Advanced Materials, 2022, 34, 2105416.
-39.	Baocai Ma, Zuoheng Zhang, Yan Li, Xubo Lin*, Ning Gu*. Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations. Journal of Chemical Information and Modeling, 2022, 62, 936-944.
-38.	Xiaoqian Lin, Xubo Lin*. Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation. Biomaterials Science, 2021, 9, 8249-8258.
-37.	Xiaoqian Lin, Xubo Lin*. Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations. Nanoscale, 2021, 13, 9825-9833.
-36.	Lingbing Yang, Xubo Lin, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li*, Yubo Fan*. Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction. Biomaterials, 2021, 271, 120768.
-35.	Xubo Lin*. Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates (Editorial). Current Topics in Medicinal Chemistry, 2021, 21, 90-91.
+## 2022
+1.	Xiu Li, Shiying Zhou, **Xubo Lin***. Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane. Journal of Chemical Information and Modeling, 2022, 62, 2421-2431.
+2.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li*. Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber. Advanced Materials, 2022, 34, 2105416.
+3.	Baocai Ma, Zuoheng Zhang, Yan Li, **Xubo Lin***, Ning Gu*. Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations. Journal of Chemical Information and Modeling, 2022, 62, 936-944.
+## 2021
+1.	Xiaoqian Lin, **Xubo Lin***. Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation. Biomaterials Science, 2021, 9, 8249-8258.
+2.	Xiaoqian Lin, **Xubo Lin***. Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations. Nanoscale, 2021, 13, 9825-9833.
+3.	Lingbing Yang, **Xubo Lin**, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li*, Yubo Fan*. Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction. Biomaterials, 2021, 271, 120768.
+4.	**Xubo Lin***. Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates (Editorial). Current Topics in Medicinal Chemistry, 2021, 21, 90-91.
 ## 2020
 1.	**Xubo Lin***, Alemayehu A. Gorfe*. Transmembrane Potential of Physiologically Relevant Model Membranes: Effects of Membrane Asymmetry. Journal of Chemical Physics, 2020, 153, 105103.
 2.	Jiebo Li#, Zhen Chi#, Ruzhan Qin, Li Yan, **Xubo Lin**, Mingjun Hu*, Guangcun Shan*, Hailong Chen*, Yu-Xiang Weng. Hydrogen Bond Interaction Promotes Flash Energy Transport at MXene-Solvent Interface. Journal of Physical Chemistry C, 2020, 124, 10306-10314.
