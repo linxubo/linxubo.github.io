@@ -7,22 +7,22 @@ permalink: /publications/
 ---
 
 # Publications
-(#Equal contribution, *Corresponding author)
+(<sup>#</sup>Equal contribution, <sup>*</sup>Corresponding author)
 ## Work @ BUAA (2018~now):
 ## 2022
-1.	Xiu Li, Shiying Zhou, **Xubo Lin***. Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane. *Journal of Chemical Information and Modeling*, 2022, 62, 2421-2431.
-2.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li*. Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber. *Advanced Materials*, 2022, 34, 2105416.
-3.	Baocai Ma, Zuoheng Zhang, Yan Li, **Xubo Lin***, Ning Gu*. Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations. *Journal of Chemical Information and Modeling*, 2022, 62, 936-944.
+1.	Xiu Li, Shiying Zhou, **Xubo Lin<sup>*</sup>**. Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane. *Journal of Chemical Information and Modeling*, 2022, 62, 2421-2431.
+2.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li<sup>*</sup>. Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber. *Advanced Materials*, 2022, 34, 2105416.
+3.	Baocai Ma, Zuoheng Zhang, Yan Li, **Xubo Lin<sup>*</sup>**, Ning Gu<sup>*</sup>. Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations. *Journal of Chemical Information and Modeling*, 2022, 62, 936-944.
 
 ## 2021
-1.	Xiaoqian Lin, **Xubo Lin***. Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation. *Biomaterials Science*, 2021, 9, 8249-8258.
-2.	Xiaoqian Lin, **Xubo Lin***. Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations. *Nanoscale*, 2021, 13, 9825-9833.
-3.	Lingbing Yang, **Xubo Lin**, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li*, Yubo Fan*. Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction. *Biomaterials*, 2021, 271, 120768.
-4.	**Xubo Lin***. Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates (Editorial). *Current Topics in Medicinal Chemistry*, 2021, 21, 90-91.
+1.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**. Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation. *Biomaterials Science*, 2021, 9, 8249-8258.
+2.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**. Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations. *Nanoscale*, 2021, 13, 9825-9833.
+3.	Lingbing Yang, **Xubo Lin**, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li<sup>*</sup>, Yubo Fan<sup>*</sup>. Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction. *Biomaterials*, 2021, 271, 120768.
+4.	**Xubo Lin<sup>*</sup>**. Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates (Editorial). *Current Topics in Medicinal Chemistry*, 2021, 21, 90-91.
 
 ## 2020
-1.	**Xubo Lin***, Alemayehu A. Gorfe*. Transmembrane Potential of Physiologically Relevant Model Membranes: Effects of Membrane Asymmetry. Journal of Chemical Physics, 2020, 153, 105103.
-2.	Jiebo Li#, Zhen Chi#, Ruzhan Qin, Li Yan, **Xubo Lin**, Mingjun Hu*, Guangcun Shan*, Hailong Chen*, Yu-Xiang Weng. Hydrogen Bond Interaction Promotes Flash Energy Transport at MXene-Solvent Interface. Journal of Physical Chemistry C, 2020, 124, 10306-10314.
+1.	**Xubo Lin<sup>*</sup>**, Alemayehu A. Gorfe<sup>*</sup>. Transmembrane Potential of Physiologically Relevant Model Membranes: Effects of Membrane Asymmetry. Journal of Chemical Physics, 2020, 153, 105103.
+2.	Jiebo Li#, Zhen Chi#, Ruzhan Qin, Li Yan, **Xubo Lin**, Mingjun Hu<sup>*</sup>, Guangcun Shan<sup>*</sup>, Hailong Chen<sup>*</sup>, Yu-Xiang Weng. Hydrogen Bond Interaction Promotes Flash Energy Transport at MXene-Solvent Interface. Journal of Physical Chemistry C, 2020, 124, 10306-10314.
 3.	Fangzhou Hu, Borislav Angelov, Shuang Li, Na Li, **Xubo Lin***, Aihua Zou*. Single‐molecule study of peptides with the same amino acid composition but different sequences using an aerolysin nanopore. ChemBioChem, 2020, 21, 2467-2473.
 4.	Min Zhang#, Lei Liu#, **Xubo Lin**, Ying Li, Shulin Li, Yuxin Sun, Di Zhang, Xiachen Lv, Liang Ge*. A translocation pathway for vesicle trafficking-mediated unconventional protein secretion. Cell, 2020, 181, 637-652.e15.
 5.	Xiaoqian Lin#, Xiu Li#, **Xubo Lin***. A Review on Applications of Computational Methods in Drug Screening and Design. Molecules. 2020, 25, 1375. (ESI Highly Cited Papers)
