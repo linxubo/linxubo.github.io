@@ -18,6 +18,7 @@ permalink: /publications/
 2.	Xiaoqian Lin, **Xubo Lin***. Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations. Nanoscale, 2021, 13, 9825-9833.
 3.	Lingbing Yang, **Xubo Lin**, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li*, Yubo Fan*. Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction. Biomaterials, 2021, 271, 120768.
 4.	**Xubo Lin***. Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates (Editorial). Current Topics in Medicinal Chemistry, 2021, 21, 90-91.
+
 ## 2020
 1.	**Xubo Lin***, Alemayehu A. Gorfe*. Transmembrane Potential of Physiologically Relevant Model Membranes: Effects of Membrane Asymmetry. Journal of Chemical Physics, 2020, 153, 105103.
 2.	Jiebo Li#, Zhen Chi#, Ruzhan Qin, Li Yan, **Xubo Lin**, Mingjun Hu*, Guangcun Shan*, Hailong Chen*, Yu-Xiang Weng. Hydrogen Bond Interaction Promotes Flash Energy Transport at MXene-Solvent Interface. Journal of Physical Chemistry C, 2020, 124, 10306-10314.
@@ -25,11 +26,13 @@ permalink: /publications/
 4.	Min Zhang#, Lei Liu#, **Xubo Lin**, Ying Li, Shulin Li, Yuxin Sun, Di Zhang, Xiachen Lv, Liang Ge*. A translocation pathway for vesicle trafficking-mediated unconventional protein secretion. Cell, 2020, 181, 637-652.e15.
 5.	Xiaoqian Lin#, Xiu Li#, **Xubo Lin***. A Review on Applications of Computational Methods in Drug Screening and Design. Molecules. 2020, 25, 1375. (ESI Highly Cited Papers)
 6.	Xiaoqian Lin, **Xubo Lin***, Ning Gu*. Optimization of hydrophobic nanoparticles to better target lipid rafts with molecular dynamics simulations. Nanoscale, 2020, 12, 4101-4109.
+
 ## 2019
 1.	Jiebo Li#, Qi Zhang#, Li Yan, Guorong Wu, Mingjun Hu*, **Xubo Lin***, Kaijun Yuan*, Xueming Yang. Ultrafast Flash Energy Conductance at MXene-Surfactant Interface and Its Molecular Origins. Advanced Materials Interfaces, 2019, 6, 1901461.
 2.	Siya Zhang, **Xubo Lin***. Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration. Journal of the American Chemical Society, 2019, 141, 15884-15890. (F1000Prime Recommended)
 3.	Fujia Tian, **Xubo Lin***, Russell P. Valle, Yi Y. Zuo*, Ning Gu*. Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations. Langmuir, 2019, 35, 5364-5371. (Supplementary Cover)
 4.	**Xubo Lin*** and Alemayehu A. Gorfe*. Understanding Membrane Domain-Partitioning Thermodynamics of Transmembrane Domains with Potential of Mean Force Calculations. Journal of Physical Chemistry B, 2019, 123(5), 1009-1016.
+
 ## 2018
 1.	Yang Wang#, Cecylia Severin Lupala#, Haiguang Liu*, **Xubo Lin***. Identification of Drug Binding Sites and Action Mechanisms with Molecular Dynamics Simulations. Current Topics in Medicinal Chemistry, 2018, 18, 2268-2277. (Invited Review)
 2.	**Xubo Lin**, Hongyin Wang#, Zhichao Lou#, Meng Cao#, Zuoheng Zhang, Ning Gu*. Roles of PIP2 in the membrane binding of MIM I-BAR: insights from molecular dynamics simulations. FEBS Letters, 2018, 592, 2533-2542. 
