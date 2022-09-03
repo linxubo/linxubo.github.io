@@ -7,11 +7,12 @@ permalink: /publications/
 ---
 
 # Publications
+(#Equal contribution, *Corresponding author)
 ## Work @ BUAA (2018~now):
 ## 2022
-1.	Xiu Li, Shiying Zhou, **Xubo Lin***. Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane. Journal of Chemical Information and Modeling, 2022, 62, 2421-2431.
-2.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li*. Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber. Advanced Materials, 2022, 34, 2105416.
-3.	Baocai Ma, Zuoheng Zhang, Yan Li, **Xubo Lin***, Ning Gu*. Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations. Journal of Chemical Information and Modeling, 2022, 62, 936-944.
+1.	Xiu Li, Shiying Zhou, **Xubo Lin***. Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane. *Journal of Chemical Information and Modeling*, 2022, 62, 2421-2431.
+2.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li*. Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber. *Advanced Materials*, 2022, 34, 2105416.
+3.	Baocai Ma, Zuoheng Zhang, Yan Li, **Xubo Lin***, Ning Gu*. Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations. *Journal of Chemical Information and Modeling*, 2022, 62, 936-944.
 ## 2021
 1.	Xiaoqian Lin, **Xubo Lin***. Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation. Biomaterials Science, 2021, 9, 8249-8258.
 2.	Xiaoqian Lin, **Xubo Lin***. Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations. Nanoscale, 2021, 13, 9825-9833.
