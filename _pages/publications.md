@@ -17,9 +17,9 @@ permalink: /publications/
 5.	**Xubo Lin<sup>*</sup>**. [Applications of molecular dynamics simulations in drug discovery](https://www.sciencedirect.com/science/article/pii/B9780323902649000271). *Advances in Protein Molecular and Structural Biology Methods*, 2022, 455-465. (**Book Chapter**)
 
 ## 2021
-1.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**. Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation. *Biomaterials Science*, 2021, 9, 8249-8258.
-2.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**. Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations. *Nanoscale*, 2021, 13, 9825-9833.
-3.	Lingbing Yang, **Xubo Lin**, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li<sup>*</sup>, Yubo Fan<sup>*</sup>. Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction. *Biomaterials*, 2021, 271, 120768.
+1.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**. [Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation](https://pubs.rsc.org/en/content/articlehtml/2021/bm/d1bm01364e). *Biomaterials Science*, 2021, 9, 8249-8258.
+2.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**. [Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations](https://pubs.rsc.org/en/content/articlehtml/2021/nr/d1nr01563j). *Nanoscale*, 2021, 13, 9825-9833.
+3.	Lingbing Yang, **Xubo Lin**, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li<sup>*</sup>, Yubo Fan<sup>*</sup>. [Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction](https://www.sciencedirect.com/science/article/pii/S0142961221001241). *Biomaterials*, 2021, 271, 120768.
 4.	**Xubo Lin<sup>*</sup>**. Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates (Editorial). *Current Topics in Medicinal Chemistry*, 2021, 21, 90-91.
 
 ## 2020
