@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 # Publications
-(#Equal contribution, &Corresponding author)
+(#Equal contribution, *Corresponding author)
 ## Work @ BUAA (2018~now):
 ## 2022
 1.	Xiu Li, Shiying Zhou, **Xubo Lin***. Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane. *Journal of Chemical Information and Modeling*, 2022, 62, 2421-2431.
