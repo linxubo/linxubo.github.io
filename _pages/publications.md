@@ -1,52 +1,53 @@
 ---
 title: "NanoBioMembrane Lab - Publications"
-layout: gridlay
-excerpt: "NanoBioMembrane Lab -- Publications."
+layout: textlay
+excerpt: "NanoBioMembrane Lab - Publications"
 sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
+## Work @ BUAA (2018~now):
+[1]	Xiu Li, Shiying Zhou, Xubo Lin*. Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane. Journal of Chemical Information and Modeling, 2022, 62, 2421-2431.
+[6]	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, Xubo Lin, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li*. Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber. Advanced Materials, 2022, 34, 2105416.
+[7]	Baocai Ma, Zuoheng Zhang, Yan Li, Xubo Lin*, Ning Gu*. Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations. Journal of Chemical Information and Modeling, 2022, 62, 936-944.
+[8]	Xiaoqian Lin, Xubo Lin*. Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation. Biomaterials Science, 2021, 9, 8249-8258.
+[9]	Xiaoqian Lin, Xubo Lin*. Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations. Nanoscale, 2021, 13, 9825-9833.
+[10]	Lingbing Yang, Xubo Lin, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li*, Yubo Fan*. Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction. Biomaterials, 2021, 271, 120768.
+[11]	Xubo Lin*. Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates (Editorial). Current Topics in Medicinal Chemistry, 2021, 21, 90-91.
+[12]	Xubo Lin*, Alemayehu A. Gorfe*. Transmembrane Potential of Physiologically Relevant Model Membranes: Effects of Membrane Asymmetry. Journal of Chemical Physics, 2020, 153, 105103.
+[13]	Jiebo Li#, Zhen Chi#, Ruzhan Qin, Li Yan, Xubo Lin, Mingjun Hu*, Guangcun Shan*, Hailong Chen*, Yu-Xiang Weng. Hydrogen Bond Interaction Promotes Flash Energy Transport at MXene-Solvent Interface. Journal of Physical Chemistry C, 2020, 124, 10306-10314.
+[14]	Fangzhou Hu, Borislav Angelov, Shuang Li, Na Li, Xubo Lin*, Aihua Zou*. Single‐molecule study of peptides with the same amino acid composition but different sequences using an aerolysin nanopore. ChemBioChem, 2020, 21, 2467-2473.
+[15]	Min Zhang#, Lei Liu#, Xubo Lin, Ying Li, Shulin Li, Yuxin Sun, Di Zhang, Xiachen Lv, Liang Ge*. A translocation pathway for vesicle trafficking-mediated unconventional protein secretion. Cell, 2020, 181, 637-652.e15.
+[16]	Xiaoqian Lin#, Xiu Li#, Xubo Lin*. A Review on Applications of Computational Methods in Drug Screening and Design. Molecules. 2020, 25, 1375. (ESI Highly Cited Papers)
+[17]	Xiaoqian Lin, Xubo Lin*, Ning Gu*. Optimization of hydrophobic nanoparticles to better target lipid rafts with molecular dynamics simulations. Nanoscale, 2020, 12, 4101-4109.
+[18]	Jiebo Li#, Qi Zhang#, Li Yan, Guorong Wu, Mingjun Hu*, Xubo Lin*, Kaijun Yuan*, Xueming Yang. Ultrafast Flash Energy Conductance at MXene-Surfactant Interface and Its Molecular Origins. Advanced Materials Interfaces, 2019, 6, 1901461.
+[19]	Siya Zhang, Xubo Lin*. Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration. Journal of the American Chemical Society, 2019, 141, 15884-15890. (F1000Prime Recommended)
+[20]	Fujia Tian, Xubo Lin*, Russell P. Valle, Yi Y. Zuo*, Ning Gu*. Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations. Langmuir, 2019, 35, 5364-5371. (Supplementary Cover)
+[21]	Xubo Lin* and Alemayehu A. Gorfe*. Understanding Membrane Domain-Partitioning Thermodynamics of Transmembrane Domains with Potential of Mean Force Calculations. Journal of Physical Chemistry B, 2019, 123(5), 1009-1016.
+[22]	Yang Wang#, Cecylia Severin Lupala#, Haiguang Liu*, Xubo Lin*. Identification of Drug Binding Sites and Action Mechanisms with Molecular Dynamics Simulations. Current Topics in Medicinal Chemistry, 2018, 18, 2268-2277. (Invited Review)
+[23]	Xubo Lin, Hongyin Wang#, Zhichao Lou#, Meng Cao#, Zuoheng Zhang, Ning Gu*. Roles of PIP2 in the membrane binding of MIM I-BAR: insights from molecular dynamics simulations. FEBS Letters, 2018, 592, 2533-2542. 
+[24]	Xubo Lin, Vinay Nair, Yong Zhou, Alemayehu A. Gorfe*. Membrane Potential and Dynamics in a Ternary Lipid Mixture: Insights from Molecular Dynamics Simulations. Physical Chemistry Chemical Physics, 2018, 20, 15841-15851. 
+[25]	Xubo Lin, Alemayehu A. Gorfe*, Ilya Levental*. Protein Partitioning into Ordered Membrane Domains: Insights from Simulations. Biophysical Journal, 2018, 114, 1936-1944. 
 
-## Highlights
-
-(For a full list, see [Google Scholar](https://scholar.google.com/citations?user=VSlcvLoAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Xubo_Lin)).
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Publications/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
+## Before joining BUAA (2010-2017):
+[26]	Joseph H.  Lorent, Barbara Diaz-Rohrer, Xubo Lin, Kevin Spring, Alemayehu A. Gorfe, Kandice R. Levental, Ilya Levental*. Structural determinants and functional consequences of protein affinity for membrane rafts. Nature Communications, 2017, 8, 1219. 
+[27]	Zuoheng Zhang#, Xubo Lin#, Ning Gu*. Effects of temperature and PEG grafting density on the translocation of PEGylated nanoparticles across asymmetric lipid membrane. Colloids and Surfaces B: Biointerfaces, 2017, 160, 92-100. 
+[28]	Yue Zhang, Zhichao Lou, Xubo Lin, Qiwei Wang, Meng Cao, Ning Gu*. Optimizing purification process of MIM-I-BAR domain by introducing atomic force microscope and dynamics simulations. Colloids and Surfaces B: Biointerfaces, 2017, 157, 391-397.
+[29]	Hui Ding, Xianhua Gui, Xubo Lin, Ruhua Chen, Tieliang Ma, Yunlu Sheng*, Hourong Cai*, Yan Fen*. The Prognostic Effect of MAC30 Expression on Patients with Non-Small Cell Lung Cancer Receiving Adjuvant Chemotherapy. Technology in Cancer Research & Treatment, 2017, 16, 645-653.
+[30]	Xubo Lin, Joseph H. Lorent, Allison D. Skinkle, Kandice R. Levental, M. Neal Waxham, Alemayehu A. Gorfe*, Ilya Levental*. Domain Stability in Biomimetic Membranes Driven by Lipid Polyunsaturation. Journal of Physical Chemistry B, 2016, 120, 11930-11941.
+[31]	Xubo Lin#, Siya Zhang#, Hui Ding, Ilya Levental*, Alemayehu A. Gorfe*. The aliphatic chain of cholesterol modulates bilayer interleaﬂet coupling and domain registration. FEBS Letters, 2016, 590, 3368-3374.
+[32]	Dandan Sun, Xubo Lin, Zuoheng Zhang, Ning Gu*. Impact of Shock-induced Lipid Nanobubble Collapse on a Phospholipid Membrane. Journal of Physical Chemistry C, 2016, 120, 18803-18810.
+[33]	Kandice R. Levental, Joseph H. Lorent, Xubo Lin, Allison Skinkle, Michal Surma, Emily Stockenbojer, Alemayehu A. Gorfe, Ilya Levental*. Polyunsaturated lipids regulate membrane domain stability by tuning membrane order. Biophysical Journal, 2016, 110, 1800-1810.
+[34]	Hui Ding, Xianhua Gui, Xubo Lin, Ruhua Chen, Hourong Cai, Yan Fen, Yunlu Sheng. Prognostic Value of MAC30 Expression in Human Pure Squamous Cell Carcinomas of the Lung. Asian Pacific Journal of Cancer Prevention, 2016, 17, 2705-2710.
+[35]	Ruhua Chen, Yan Fen, Xubo Lin, Tieliang Ma, Hourong Cai, Hui Ding*. Overexpression of MAC30 is Resistant to Platinum-Based Chemotherapy in Patients with Non-Small Cell Lung Cancer. Technology in Cancer Research & Treatment, 2016, 15, 815-820.
+[36]	Xubo Lin, Zhenlong Li, Alemayehu A. Gorfe*. Reversible Effects of Peptide Concentration and Lipid Composition on H-Ras Lipid Anchor Clustering. Biophysical Journal, 2015, 109, 2467-2470.
+[37]	Xubo Lin, Yi Y. Zuo, Ning Gu*. Shape Affects the Interactions of Nanoparticles with Pulmonary Surfactant. Science China Materials, 2015, 58, 28-37. 
+[38]	Meng Cao, Ziqi Ye, Xubo Lin, Ning Gu*. Advances in missing-in-metastasis research. Chinese Science Bulletin, 2015, 60, 356-366. (In Chinese) 
+[39]	Xubo Lin, Ning Gu*. Surface properties of encapsulating hydrophobic nanoparticles regulate the main phase transition temperature of lipid bilayers: A simulation study. Nano Research, 2014, 7, 1195-1204.
+[40]	Xubo Lin, Tingting Bai, Yi Y. Zuo, Ning Gu*. Promote Potential Applications of Nanoparticles as Respiratory Drug Carrier: Insights from Molecular Dynamics Simulations. Nanoscale, 2014, 6, 2759-2767.
+[41]	Dandan Sun, Xubo Lin, Ning Gu*. Cholesterol Affects C60 Translocation across Lipid Bilayers. Soft Matter, 2014, 10, 2160-2168.
+[42]	Ning Gu*, Xubo Lin. The Interactions of Medical Nanoparticles with Model Cell Membrane: A Review of Simulation Studies. Progress in Biochemistry and Biophysics, 2013, 40, 918-924. (In Chinese)
+[43]	Xubo Lin, Changling Wang, Meng Wang, Kun Fang and Ning Gu*. Computer Simulation of the Effects of Nanoparticles' Adsorption on the Properties of Supported Lipid Bilayer. Journal of Physical Chemistry C, 2012, 116, 17960-17968.
+[44]	Xubo Lin, Yang Li and Ning Gu*. Molecular Dynamics Simulations of the Interactions of Charge-neutral PAMAM Dendrimers with Pulmonary Surfactant. Soft Matter, 2011, 7, 3882-3888 (Selected by Virtual Journal of Biological Physics Research, 2011, Volume 21, Issue 8; Reported by Obesity, Fitness and Wellness Week and HighBeam Research)
+[45]	Xubo Lin, Yang Li, and Ning Gu*. Nanoparticle’s Size Effect on Its Translocation across a Lipid Bilayer: A Molecular Dynamics Simulation. Journal of Computational and Theoretical Nanoscience, 2010, 7, 269-276.
