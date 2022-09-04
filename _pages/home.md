@@ -54,10 +54,10 @@ We are a research group (2018.01~now) in [Beijing Advanced Innovation Center for
             <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide6.jpg" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide6.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide7.jpg" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide6.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide8.jpg" alt="Slide 8" />
         </div>     
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
