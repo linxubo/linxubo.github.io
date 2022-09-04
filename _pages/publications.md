@@ -8,6 +8,10 @@ permalink: /publications/
 
 # Publications
 (<sup>#</sup>Equal contribution, <sup>*</sup>Corresponding author)
+1. Siya Zhang<sup>#</sup>, Hongyin Wang<sup>#</sup>, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. To be submitted.
+2. Fujia Tian<sup>#</sup>, Yuan He<sup>#</sup>, Yuxuan Wang<sup>#</sup>, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations. To be submitted.
+3. Xiaoqian Lin<sup>#</sup>, Kaidong Lin<sup>#</sup>, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. To be submitted.
+
 ## 2022
 1.	Akkaranunt Supakijsilp, Jing He, **Xubo Lin<sup>*</sup>**, Jian Ye<sup>*</sup>. [Molecular dynamics simulation insights into the cellular uptake of elastic nanoparticles through human pulmonary surfactant](https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra03670c). **RSC Advances**, 2022, 12, 24222-24231.
 2.	Xiu Li, Shiying Zhou, **Xubo Lin<sup>*</sup>**. [Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00074). **Journal of Chemical Information and Modeling**, 2022, 62, 2421-2431.
