@@ -8,9 +8,9 @@ permalink: /publications/
 
 # Publications
 (<sup>#</sup>Equal contribution, <sup>*</sup>Corresponding author)
-1. Siya Zhang<sup>#</sup>, Hongyin Wang<sup>#</sup>, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. To be submitted.
-2. Fujia Tian<sup>#</sup>, Yuan He<sup>#</sup>, Yuxuan Wang<sup>#</sup>, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations. To be submitted.
-3. Xiaoqian Lin<sup>#</sup>, Kaidong Lin<sup>#</sup>, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. To be submitted.
+1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://www.biorxiv.org/content/10.1101/2021.10.17.464736.abstract). To be submitted.
+2. Fujia Tian#, Yuan He#, Yuxuan Wang#, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations. To be submitted.
+3. Xiaoqian Lin#, Kaidong Lin#, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. To be submitted.
 
 ## 2022
 1.	Akkaranunt Supakijsilp, Jing He, **Xubo Lin<sup>*</sup>**, Jian Ye<sup>*</sup>. [Molecular dynamics simulation insights into the cellular uptake of elastic nanoparticles through human pulmonary surfactant](https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra03670c). **RSC Advances**, 2022, 12, 24222-24231.
