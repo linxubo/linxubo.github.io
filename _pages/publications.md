@@ -37,9 +37,9 @@ permalink: /publications/
 
 ## 2018
 1.	Yang Wang#, Cecylia Severin Lupala#, Haiguang Liu*, **Xubo Lin<sup>*</sup>**. [Identification of Drug Binding Sites and Action Mechanisms with Molecular Dynamics Simulations](https://www.ingentaconnect.com/content/ben/ctmc/2018/00000018/00000027/art00003). **Current Topics in Medicinal Chemistry**, 2018, 18, 2268-2277. (**Invited Review**)
-2.	**Xubo Lin**, Hongyin Wang#, Zhichao Lou#, Meng Cao#, Zuoheng Zhang, Ning Gu<sup>*</sup>. Roles of PIP2 in the membrane binding of MIM I-BAR: insights from molecular dynamics simulations. **FEBS Letters**, 2018, 592, 2533-2542. 
-3.	**Xubo Lin**, Vinay Nair, Yong Zhou, Alemayehu A. Gorfe<sup>*</sup>. Membrane Potential and Dynamics in a Ternary Lipid Mixture: Insights from Molecular Dynamics Simulations. **Physical Chemistry Chemical Physics**, 2018, 20, 15841-15851. 
-4.	**Xubo Lin**, Alemayehu A. Gorfe<sup>*</sup>, Ilya Levental<sup>*</sup>. Protein Partitioning into Ordered Membrane Domains: Insights from Simulations. **Biophysical Journal**, 2018, 114, 1936-1944. 
+2.	**Xubo Lin**, Hongyin Wang#, Zhichao Lou#, Meng Cao#, Zuoheng Zhang, Ning Gu<sup>*</sup>. [Roles of PIP2 in the membrane binding of MIM I-BAR: insights from molecular dynamics simulations](https://febs.onlinelibrary.wiley.com/doi/abs/10.1002/1873-3468.13186). **FEBS Letters**, 2018, 592, 2533-2542. 
+3.	**Xubo Lin**, Vinay Nair, Yong Zhou, Alemayehu A. Gorfe<sup>*</sup>. [Membrane Potential and Dynamics in a Ternary Lipid Mixture: Insights from Molecular Dynamics Simulations](https://pubs.rsc.org/en/content/articlehtml/2018/cp/c8cp01629a). **Physical Chemistry Chemical Physics**, 2018, 20, 15841-15851. 
+4.	**Xubo Lin**, Alemayehu A. Gorfe<sup>*</sup>, Ilya Levental<sup>*</sup>. [Protein Partitioning into Ordered Membrane Domains: Insights from Simulations](https://www.sciencedirect.com/science/article/pii/S0006349518303874). **Biophysical Journal**, 2018, 114, 1936-1944. 
 
 ## Before joining BUAA (2010-2017):
 1. Joseph H.  Lorent, Barbara Diaz-Rohrer, **Xubo Lin**, Kevin Spring, Alemayehu A. Gorfe, Kandice R. Levental, Ilya Levental*. Structural determinants and functional consequences of protein affinity for membrane rafts. Nature Communications, 2017, 8, 1219. 
