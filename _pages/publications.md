@@ -7,21 +7,21 @@ permalink: /publications/
 ---
 
 # Publications
-(<sup>#</sup>Equal contribution, <sup>*</sup>Corresponding author)
+(<sup>#</sup>Equal contribution; <sup>*</sup>Corresponding author; Names in bold represent our group members)
 1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://www.biorxiv.org/content/10.1101/2021.10.17.464736.abstract). To be submitted.
-2. Fujia Tian#, Yuan He#, Yuxuan Wang#, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations. To be submitted.
-3. Xiaoqian Lin#, Kaidong Lin#, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. To be submitted.
+2. **Fujia Tian#, Yuan He#, Yuxuan Wang#**, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations. To be submitted.
+3. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. To be submitted.
 
 ## 2022
 1.	Akkaranunt Supakijsilp, Jing He, **Xubo Lin<sup>*</sup>**, Jian Ye<sup>*</sup>. [Molecular dynamics simulation insights into the cellular uptake of elastic nanoparticles through human pulmonary surfactant](https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra03670c). **RSC Advances**, 2022, 12, 24222-24231.
-2.	Xiu Li, Shiying Zhou, **Xubo Lin<sup>*</sup>**. [Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00074). **Journal of Chemical Information and Modeling**, 2022, 62, 2421-2431.
+2.	**Xiu Li, Shiying Zhou, Xubo Lin<sup>*</sup>**. [Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00074). **Journal of Chemical Information and Modeling**, 2022, 62, 2421-2431.
 3.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li<sup>*</sup>. [Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202105416). **Advanced Materials**, 2022, 34, 2105416.
 4.	Baocai Ma, Zuoheng Zhang, Yan Li, **Xubo Lin<sup>*</sup>**, Ning Gu<sup>*</sup>. [Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01306). **Journal of Chemical Information and Modeling**, 2022, 62, 936-944.
 5.	**Xubo Lin<sup>*</sup>**. [Applications of molecular dynamics simulations in drug discovery](https://www.sciencedirect.com/science/article/pii/B9780323902649000271). **Advances in Protein Molecular and Structural Biology Methods**, 2022, 455-465. (**Invited Book Chapter**)
 
 ## 2021
-1.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**. [Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation](https://pubs.rsc.org/en/content/articlehtml/2021/bm/d1bm01364e). **Biomaterials Science**, 2021, 9, 8249-8258.
-2.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**. [Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations](https://pubs.rsc.org/en/content/articlehtml/2021/nr/d1nr01563j). **Nanoscale**, 2021, 13, 9825-9833.
+1.	**Xiaoqian Lin, Xubo Lin<sup>*</sup>**. [Designing amphiphilic Janus nanoparticles with tunable lipid raft affinity via molecular dynamics simulation](https://pubs.rsc.org/en/content/articlehtml/2021/bm/d1bm01364e). **Biomaterials Science**, 2021, 9, 8249-8258.
+2.	**Xiaoqian Lin, Xubo Lin<sup>*</sup>**. [Surface Ligand Rigidity Modulates Lipid Raft Affinity of Ultra-small Hydrophobic Nanoparticles: Insights from Molecular Dynamics Simulations](https://pubs.rsc.org/en/content/articlehtml/2021/nr/d1nr01563j). **Nanoscale**, 2021, 13, 9825-9833.
 3.	Lingbing Yang, **Xubo Lin**, Jin Zhou, Sen Hou, Xuewei Bi, Li Yang, Linhao Li<sup>*</sup>, Yubo Fan<sup>*</sup>. [Cell Membrane-Biomimetic Coating via Click-Mediated Liposome Fusion for Mitigating the Foreign-Body Reaction](https://www.sciencedirect.com/science/article/pii/S0142961221001241). **Biomaterials**, 2021, 271, 120768.
 4.	**Xubo Lin<sup>*</sup>**. [Current Advances in Computational and Experimental Approaches for Nanoparticle-Drug Conjugates (Editorial)](https://www.ingentaconnect.com/content/ben/ctmc/2021/00000021/00000002/art00003). **Current Topics in Medicinal Chemistry**, 2021, 21, 90-91.
 
@@ -30,13 +30,13 @@ permalink: /publications/
 2.	Jiebo Li#, Zhen Chi#, Ruzhan Qin, Li Yan, **Xubo Lin**, Mingjun Hu<sup>*</sup>, Guangcun Shan<sup>*</sup>, Hailong Chen<sup>*</sup>, Yu-Xiang Weng. [Hydrogen Bond Interaction Promotes Flash Energy Transport at MXene-Solvent Interface](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c01039). **Journal of Physical Chemistry C**, 2020, 124, 10306-10314.
 3.	Fangzhou Hu, Borislav Angelov, Shuang Li, Na Li, **Xubo Lin<sup>*</sup>**, Aihua Zou<sup>*</sup>. [Single‐molecule study of peptides with the same amino acid composition but different sequences using an aerolysin nanopore](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000119). **ChemBioChem**, 2020, 21, 2467-2473.
 4.	Min Zhang#, Lei Liu#, **Xubo Lin**, Ying Li, Shulin Li, Yuxin Sun, Di Zhang, Xiachen Lv, Liang Ge<sup>*</sup>. [A translocation pathway for vesicle trafficking-mediated unconventional protein secretion](https://www.sciencedirect.com/science/article/pii/S0092867420303238). **Cell**, 2020, 181, 637-652.e15.
-5.	Xiaoqian Lin#, Xiu Li#, **Xubo Lin<sup>*</sup>**. [A Review on Applications of Computational Methods in Drug Screening and Design](https://www.mdpi.com/667452). **Molecules**. 2020, 25, 1375. (**Invited Review, ESI Highly Cited Papers**)
-6.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**, Ning Gu<sup>*</sup>. [Optimization of hydrophobic nanoparticles to better target lipid rafts with molecular dynamics simulations](https://pubs.rsc.org/en/content/articlehtml/2020/nr/c9nr09226a). **Nanoscale**, 2020, 12, 4101-4109.
+5.	**Xiaoqian Lin#, Xiu Li#, Xubo Lin<sup>*</sup>**. [A Review on Applications of Computational Methods in Drug Screening and Design](https://www.mdpi.com/667452). **Molecules**. 2020, 25, 1375. (**Invited Review, ESI Highly Cited Papers**)
+6.	**Xiaoqian Lin, Xubo Lin<sup>*</sup>**, Ning Gu<sup>*</sup>. [Optimization of hydrophobic nanoparticles to better target lipid rafts with molecular dynamics simulations](https://pubs.rsc.org/en/content/articlehtml/2020/nr/c9nr09226a). **Nanoscale**, 2020, 12, 4101-4109.
 
 ## 2019
 1.	Jiebo Li#, Qi Zhang#, Li Yan, Guorong Wu, Mingjun Hu<sup>*</sup>, **Xubo Lin<sup>*</sup>**, Kaijun Yuan<sup>*</sup>, Xueming Yang. [Ultrafast Flash Energy Conductance at MXene-Surfactant Interface and Its Molecular Origins](https://onlinelibrary.wiley.com/doi/abs/10.1002/admi.201901461). **Advanced Materials Interfaces**, 2019, 6, 1901461.
 2.	Siya Zhang, **Xubo Lin<sup>*</sup>**. [Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06977). **Journal of the American Chemical Society**, 2019, 141, 15884-15890. (**F1000Prime Recommended**)
-3.	Fujia Tian, **Xubo Lin<sup>*</sup>**, Russell P. Valle, Yi Y. Zuo<sup>*</sup>, Ning Gu<sup>*</sup>. [Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b00434). **Langmuir**, 2019, 35, 5364-5371. (**Supplementary Cover**)
+3.	**Fujia Tian, Xubo Lin<sup>*</sup>**, Russell P. Valle, Yi Y. Zuo<sup>*</sup>, Ning Gu<sup>*</sup>. [Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b00434). **Langmuir**, 2019, 35, 5364-5371. (**Supplementary Cover**)
 4.	**Xubo Lin<sup>*</sup>** and Alemayehu A. Gorfe<sup>*</sup>. [Understanding Membrane Domain-Partitioning Thermodynamics of Transmembrane Domains with Potential of Mean Force Calculations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.8b10148). **Journal of Physical Chemistry B**, 2019, 123(5), 1009-1016.
 
 ## 2018
