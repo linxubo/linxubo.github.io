@@ -28,6 +28,8 @@ We are a research group (2018.01~now) in [Beijing Advanced Innovation Center for
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
 <!--        <li data-target="#carousel" data-slide-to="6"></li>  -->
     </ol>
  
@@ -51,6 +53,12 @@ We are a research group (2018.01~now) in [Beijing Advanced Innovation Center for
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide6.jpg" alt="Slide 6" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide6.jpg" alt="Slide 7" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slides/Slide6.jpg" alt="Slide 8" />
+        </div>     
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
