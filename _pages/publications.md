@@ -8,7 +8,6 @@ permalink: /publications/
 
 # Publications
 (<sup>#</sup>Equal contribution, <sup>*</sup>Corresponding author)
-## Work @ BUAA (2018~now):
 ## 2022
 1.	Akkaranunt Supakijsilp, Jing He, **Xubo Lin<sup>*</sup>**, Jian Ye<sup>*</sup>. [Molecular dynamics simulation insights into the cellular uptake of elastic nanoparticles through human pulmonary surfactant](https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra03670c). **RSC Advances**, 2022, 12, 24222-24231.
 2.	Xiu Li, Shiying Zhou, **Xubo Lin<sup>*</sup>**. [Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00074). **Journal of Chemical Information and Modeling**, 2022, 62, 2421-2431.
@@ -31,13 +30,13 @@ permalink: /publications/
 6.	Xiaoqian Lin, **Xubo Lin<sup>*</sup>**, Ning Gu<sup>*</sup>. [Optimization of hydrophobic nanoparticles to better target lipid rafts with molecular dynamics simulations](https://pubs.rsc.org/en/content/articlehtml/2020/nr/c9nr09226a). **Nanoscale**, 2020, 12, 4101-4109.
 
 ## 2019
-1.	Jiebo Li#, Qi Zhang#, Li Yan, Guorong Wu, Mingjun Hu<sup>*</sup>, **Xubo Lin<sup>*</sup>**, Kaijun Yuan<sup>*</sup>, Xueming Yang. Ultrafast Flash Energy Conductance at MXene-Surfactant Interface and Its Molecular Origins. **Advanced Materials Interfaces**, 2019, 6, 1901461.
-2.	Siya Zhang, **Xubo Lin<sup>*</sup>**. Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration. **Journal of the American Chemical Society**, 2019, 141, 15884-15890. (**F1000Prime Recommended**)
-3.	Fujia Tian, **Xubo Lin<sup>*</sup>**, Russell P. Valle, Yi Y. Zuo<sup>*</sup>, Ning Gu<sup>*</sup>. Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations. **Langmuir**, 2019, 35, 5364-5371. (**Supplementary Cover**)
-4.	**Xubo Lin<sup>*</sup>** and Alemayehu A. Gorfe<sup>*</sup>. Understanding Membrane Domain-Partitioning Thermodynamics of Transmembrane Domains with Potential of Mean Force Calculations. **Journal of Physical Chemistry B**, 2019, 123(5), 1009-1016.
+1.	Jiebo Li#, Qi Zhang#, Li Yan, Guorong Wu, Mingjun Hu<sup>*</sup>, **Xubo Lin<sup>*</sup>**, Kaijun Yuan<sup>*</sup>, Xueming Yang. [Ultrafast Flash Energy Conductance at MXene-Surfactant Interface and Its Molecular Origins](https://onlinelibrary.wiley.com/doi/abs/10.1002/admi.201901461). **Advanced Materials Interfaces**, 2019, 6, 1901461.
+2.	Siya Zhang, **Xubo Lin<sup>*</sup>**. [Lipid Acyl Chain cis Double Bond Position Modulates Membrane Domain Registration/Anti-registration](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06977). **Journal of the American Chemical Society**, 2019, 141, 15884-15890. (**F1000Prime Recommended**)
+3.	Fujia Tian, **Xubo Lin<sup>*</sup>**, Russell P. Valle, Yi Y. Zuo<sup>*</sup>, Ning Gu<sup>*</sup>. [Poly(amidoamine) Dendrimer as a Respiratory Nanocarrier: Insights from Experiments and Molecular Dynamics Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b00434). **Langmuir**, 2019, 35, 5364-5371. (**Supplementary Cover**)
+4.	**Xubo Lin<sup>*</sup>** and Alemayehu A. Gorfe<sup>*</sup>. [Understanding Membrane Domain-Partitioning Thermodynamics of Transmembrane Domains with Potential of Mean Force Calculations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.8b10148). **Journal of Physical Chemistry B**, 2019, 123(5), 1009-1016.
 
 ## 2018
-1.	Yang Wang#, Cecylia Severin Lupala#, Haiguang Liu*, **Xubo Lin<sup>*</sup>**. Identification of Drug Binding Sites and Action Mechanisms with Molecular Dynamics Simulations. **Current Topics in Medicinal Chemistry**, 2018, 18, 2268-2277. (**Invited Review**)
+1.	Yang Wang#, Cecylia Severin Lupala#, Haiguang Liu*, **Xubo Lin<sup>*</sup>**. [Identification of Drug Binding Sites and Action Mechanisms with Molecular Dynamics Simulations](https://www.ingentaconnect.com/content/ben/ctmc/2018/00000018/00000027/art00003). **Current Topics in Medicinal Chemistry**, 2018, 18, 2268-2277. (**Invited Review**)
 2.	**Xubo Lin**, Hongyin Wang#, Zhichao Lou#, Meng Cao#, Zuoheng Zhang, Ning Gu<sup>*</sup>. Roles of PIP2 in the membrane binding of MIM I-BAR: insights from molecular dynamics simulations. **FEBS Letters**, 2018, 592, 2533-2542. 
 3.	**Xubo Lin**, Vinay Nair, Yong Zhou, Alemayehu A. Gorfe<sup>*</sup>. Membrane Potential and Dynamics in a Ternary Lipid Mixture: Insights from Molecular Dynamics Simulations. **Physical Chemistry Chemical Physics**, 2018, 20, 15841-15851. 
 4.	**Xubo Lin**, Alemayehu A. Gorfe<sup>*</sup>, Ilya Levental<sup>*</sup>. Protein Partitioning into Ordered Membrane Domains: Insights from Simulations. **Biophysical Journal**, 2018, 114, 1936-1944. 
