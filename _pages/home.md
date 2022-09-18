@@ -17,7 +17,7 @@ We are a research group (2018.01~now) in [Beijing Advanced Innovation Center for
 
  **We are looking for passionate graduate(1 PhD & 1 Master)/undergraduate students and [Postdocs](https://mp.weixin.qq.com/s/ATp7IxuU69CKsQDyIiPeSg) to join the team!**
  
-**We are guest-editing a Special Issue on "[Membranes Biophysics: Theory and Experiment]([https://www.frontiersin.org/research-topics/37828/molecular-modeling-and-simulations-of-biological-processes-at-cell-membranes-volume-ii](https://www.mdpi.com/journal/membranes/special_issues/C5NMAGDENE))" in Membranes (IF=4.562, JCR Q1). Welcome to contribute!**
+**We are guest-editing a Special Issue on "[Membranes Biophysics: Theory and Experiment](https://www.mdpi.com/journal/membranes/special_issues/C5NMAGDENE)" in Membranes (IF=4.562, JCR Q1). Welcome to contribute!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
