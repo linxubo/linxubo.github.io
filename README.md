@@ -17,4 +17,4 @@ The website is deployed using GitHub Pages and the source code is available on G
 @@ text in purple (and bold)@@
 ```
 
-$${\color{red}Red}$$
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
