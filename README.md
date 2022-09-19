@@ -5,4 +5,4 @@ Our website is based on the open source templates designed and shared by the lab
 The website is deployed using GitHub Pages and the source code is available on GitHub. Please feel free to reuse this code (making sure to cite the Drummond lab and Sanders lab as the original sources of the lab website template).
 
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
+- ![#f03c15](test) `#f03c15`
