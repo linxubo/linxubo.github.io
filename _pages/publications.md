@@ -8,6 +8,7 @@ permalink: /publications/
 
 # Publications
 (<sup>#</sup>Equal contribution; <sup>*</sup>Corresponding author; **Names in bold** represent our group members)
+Jump to: [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#Before joining BUAA)
 1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://www.biorxiv.org/content/10.1101/2021.10.17.464736.abstract). To be submitted.
 2. **Fujia Tian#, Yuan He#, Yuxuan Wang#**, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. [Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations](http://dx.doi.org/10.26434/chemrxiv.13591283). To be submitted.
 3. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. To be submitted.
@@ -45,7 +46,7 @@ permalink: /publications/
 3.	**Xubo Lin**, Vinay Nair, Yong Zhou, Alemayehu A. Gorfe<sup>*</sup>. [Membrane Potential and Dynamics in a Ternary Lipid Mixture: Insights from Molecular Dynamics Simulations](https://pubs.rsc.org/en/content/articlehtml/2018/cp/c8cp01629a). **Physical Chemistry Chemical Physics**, 2018, 20, 15841-15851. 
 4.	**Xubo Lin**, Alemayehu A. Gorfe<sup>*</sup>, Ilya Levental<sup>*</sup>. [Protein Partitioning into Ordered Membrane Domains: Insights from Simulations](https://www.sciencedirect.com/science/article/pii/S0006349518303874). **Biophysical Journal**, 2018, 114, 1936-1944. 
 
-## Before joining BUAA (2010-2017):
+## Before joining BUAA:
 1. Joseph H.  Lorent, Barbara Diaz-Rohrer, **Xubo Lin**, Kevin Spring, Alemayehu A. Gorfe, Kandice R. Levental, Ilya Levental*. Structural determinants and functional consequences of protein affinity for membrane rafts. Nature Communications, 2017, 8, 1219. 
 2. Zuoheng Zhang#, **Xubo Lin**#, Ning Gu*. Effects of temperature and PEG grafting density on the translocation of PEGylated nanoparticles across asymmetric lipid membrane. Colloids and Surfaces B: Biointerfaces, 2017, 160, 92-100. 
 3. Yue Zhang, Zhichao Lou, **Xubo Lin**, Qiwei Wang, Meng Cao, Ning Gu*. Optimizing purification process of MIM-I-BAR domain by introducing atomic force microscope and dynamics simulations. Colloids and Surfaces B: Biointerfaces, 2017, 157, 391-397.
