@@ -15,7 +15,7 @@ Jump to: [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#201
 3. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. To be submitted.
 
 ## 2022
-1.	Jing He, Wen Pang, Bobo Gu, **Xubo Lin**, Jian Ye<sup>*</sup>. The Stiffness-Dependent Tumor Cell Internalization of Liquid Metal Nanoparticles. **Nanoscale**, 2022, in press.
+1.	Jing He, Wen Pang, Bobo Gu, **Xubo Lin**, Jian Ye<sup>*</sup>. [The Stiffness-Dependent Tumor Cell Internalization of Liquid Metal Nanoparticles](https://pubs.rsc.org/en/Content/ArticleLanding/2022/NR/D2NR04293B). **Nanoscale**, 2022, in press.
 2.	Akkaranunt Supakijsilp, Jing He, **Xubo Lin<sup>*</sup>**, Jian Ye<sup>*</sup>. [Molecular dynamics simulation insights into the cellular uptake of elastic nanoparticles through human pulmonary surfactant](https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra03670c). **RSC Advances**, 2022, 12, 24222-24231.
 3.	**Xiu Li, Shiying Zhou, Xubo Lin<sup>*</sup>**. [Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00074). **Journal of Chemical Information and Modeling**, 2022, 62, 2421-2431. ([PDF]({{ site.baseurl }}/downloads/Papers/JCIM202205.pdf))
 4.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li<sup>*</sup>. [Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202105416). **Advanced Materials**, 2022, 34, 2105416.
