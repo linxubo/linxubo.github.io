@@ -14,6 +14,7 @@ Jump to: [2023](#2023),[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019
 2. **Fujia Tian#, Yuan He#, Yuxuan Wang#**, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. [Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations](http://dx.doi.org/10.26434/chemrxiv.13591283). To be submitted.
 3. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. Submitted.
 4. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations. Submitted.
+5. Hui Shao, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Jin Zhou*, Xiaoling Jia*, Yubo Fan*. Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication. Submitted.
 
 ## 2023
 1. TBA
