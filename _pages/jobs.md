@@ -1,7 +1,7 @@
 ---
-title: "NanoBioMembrane Lab - Research"
+title: "NanoBioMembrane Lab - Jobs"
 layout: textlay
-excerpt: "NanoBioMembrane Lab - Research"
+excerpt: "NanoBioMembrane Lab - Jobs"
 sitemap: false
-permalink: /research/
+permalink: /jobs/
 ---
