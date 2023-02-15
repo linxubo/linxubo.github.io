@@ -15,7 +15,6 @@ We are a research group (2018.01~now) in [Beijing Advanced Innovation Center for
 3. Probe the Detailed Interactions between Nanoparticle-Drug Conjugate/Lipid Nanobubbles and Cell Membrane.
 4. Develop Useful Tools and Algorithms for Molecular Simulations.
 
- **We are looking for passionate graduate(1 PhD & 1 Master)/undergraduate students and [Postdocs](https://mp.weixin.qq.com/s/ATp7IxuU69CKsQDyIiPeSg) to join the team!**
  
 **We are guest-editing a Special Issue on "[Membranes Biophysics: Theory and Experiment](https://www.mdpi.com/journal/membranes/special_issues/C5NMAGDENE)" in Membranes (IF=4.562, JCR Q1). Welcome to contribute!**
 
