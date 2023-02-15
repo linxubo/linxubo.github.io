@@ -22,7 +22,7 @@ permalink: /news/
 
 **2022/05/16**: Yuxuan's personal project on Machine Translation Optimization was awarded the first prize of FengRu Cup (BUAA). Congratulations!" 
 
-**2022/04/27**: Xiu and Shiying's manuscript was accepted by JCIM. Congratulations!" 
+**2022/04/27**: Xiu and Shiying's manuscript was accepted by [JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00074). Congratulations!" 
 
 **2022/02/10**: Our contributing manuscript with Dr. Zhou Li's group was accepted by Advanced Materials. Congratulations!" 
 
