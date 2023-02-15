@@ -10,4 +10,4 @@ permalink: /jobs/
 
 ## Here, we will update the job list related to molecular simulation.
 
-[23.02.14 Test job]({{ site.baseurl }}/jobs/2023/test.md).
+[23.02.14 Test job]({{ site.baseurl }}/jobs/23-02-14-test.md).
