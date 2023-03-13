@@ -83,21 +83,21 @@ J17. Hui Ding, Xianhua Gui, **Xubo Lin**, Ruhua Chen, Tieliang Ma, Yunlu Sheng*,
 
 J16. **Xubo Lin**, Joseph H. Lorent, Allison D. Skinkle, Kandice R. Levental, M. Neal Waxham, Alemayehu A. Gorfe*, Ilya Levental*. [Domain Stability in Biomimetic Membranes Driven by Lipid Polyunsaturation](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b06815). **Journal of Physical Chemistry B**, 2016, 120, 11930-11941.
 
-J15. **Xubo Lin**#, Siya Zhang#, Hui Ding, Ilya Levental*, Alemayehu A. Gorfe*. [The aliphatic chain of cholesterol modulates bilayer interleaﬂet coupling and domain registration}(https://febs.onlinelibrary.wiley.com/doi/abs/10.1002/1873-3468.12383). FEBS Letters, 2016, 590, 3368-3374.
+J15. **Xubo Lin**#, Siya Zhang#, Hui Ding, Ilya Levental*, Alemayehu A. Gorfe*. [The aliphatic chain of cholesterol modulates bilayer interleaﬂet coupling and domain registration](https://febs.onlinelibrary.wiley.com/doi/abs/10.1002/1873-3468.12383). **FEBS Letters**, 2016, 590, 3368-3374.
 
-J14. Dandan Sun, **Xubo Lin**, Zuoheng Zhang, Ning Gu*. [Impact of Shock-induced Lipid Nanobubble Collapse on a Phospholipid Membrane](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b04086). Journal of Physical Chemistry C, 2016, 120, 18803-18810.
+J14. Dandan Sun, **Xubo Lin**, Zuoheng Zhang, Ning Gu*. [Impact of Shock-induced Lipid Nanobubble Collapse on a Phospholipid Membrane](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b04086). **Journal of Physical Chemistry C**, 2016, 120, 18803-18810.
 
-J13. Kandice R. Levental, Joseph H. Lorent, **Xubo Lin**, Allison Skinkle, Michal Surma, Emily Stockenbojer, Alemayehu A. Gorfe, Ilya Levental*. [Polyunsaturated lipids regulate membrane domain stability by tuning membrane order](https://www.sciencedirect.com/science/article/pii/S0006349516300613). Biophysical Journal, 2016, 110, 1800-1810.
+J13. Kandice R. Levental, Joseph H. Lorent, **Xubo Lin**, Allison Skinkle, Michal Surma, Emily Stockenbojer, Alemayehu A. Gorfe, Ilya Levental*. [Polyunsaturated lipids regulate membrane domain stability by tuning membrane order](https://www.sciencedirect.com/science/article/pii/S0006349516300613). **Biophysical Journal**, 2016, 110, 1800-1810.
 
-J12. Hui Ding, Xianhua Gui, **Xubo Lin**, Ruhua Chen, Hourong Cai, Yan Fen, Yunlu Sheng. Prognostic Value of MAC30 Expression in Human Pure Squamous Cell Carcinomas of the Lung. Asian Pacific Journal of Cancer Prevention, 2016, 17, 2705-2710.
+J12. Hui Ding, Xianhua Gui, **Xubo Lin**, Ruhua Chen, Hourong Cai, Yan Fen, Yunlu Sheng. Prognostic Value of MAC30 Expression in Human Pure Squamous Cell Carcinomas of the Lung. **Asian Pacific Journal of Cancer Prevention**, 2016, 17, 2705-2710.
 
-J11. Ruhua Chen, Yan Fen, **Xubo Lin**, Tieliang Ma, Hourong Cai, Hui Ding*. Overexpression of MAC30 is Resistant to Platinum-Based Chemotherapy in Patients with Non-Small Cell Lung Cancer. Technology in Cancer Research & Treatment, 2016, 15, 815-820.
+J11. Ruhua Chen, Yan Fen, **Xubo Lin**, Tieliang Ma, Hourong Cai, Hui Ding*. Overexpression of MAC30 is Resistant to Platinum-Based Chemotherapy in Patients with Non-Small Cell Lung Cancer. **Technology in Cancer Research & Treatment**, 2016, 15, 815-820.
 
 J10. **Xubo Lin**, Zhenlong Li, Alemayehu A. Gorfe*. [Reversible Effects of Peptide Concentration and Lipid Composition on H-Ras Lipid Anchor Clustering](https://www.sciencedirect.com/science/article/pii/S0006349515011662). **Biophysical Journal**, 2015, 109, 2467-2470.
 
 J9. **Xubo Lin**, Yi Y. Zuo, Ning Gu*. [Shape Affects the Interactions of Nanoparticles with Pulmonary Surfactant](https://link.springer.com/article/10.1007/s40843-014-0018-5). **Science China Materials**, 2015, 58, 28-37. 
 
-J8. Meng Cao, Ziqi Ye, **Xubo Lin**, Ning Gu*. [转移消失蛋白研究进展](https://www.cnki.com.cn/Article/CJFDTotal-KXTB201504004.htm). Chinese Science Bulletin, 2015, 60, 356-366. (In Chinese) 
+J8. Meng Cao, Ziqi Ye, **Xubo Lin**, Ning Gu*. [转移消失蛋白研究进展](https://www.cnki.com.cn/Article/CJFDTotal-KXTB201504004.htm). **Chinese Science Bulletin**, 2015, 60, 356-366. (In Chinese) 
 
 J7. **Xubo Lin**, Ning Gu*. [Surface properties of encapsulating hydrophobic nanoparticles regulate the main phase transition temperature of lipid bilayers: A simulation study](https://link.springer.com/article/10.1007/s12274-014-0482-3). **Nano Research**, 2014, 7, 1195-1204.
 
@@ -105,7 +105,7 @@ J6. **Xubo Lin**, Tingting Bai, Yi Y. Zuo, Ning Gu*. [Promote Potential Applicat
 
 J5. Dandan Sun, **Xubo Lin**, Ning Gu*. [Cholesterol Affects C60 Translocation across Lipid Bilayers](https://pubs.rsc.org/en/content/articlehtml/2014/sm/c3sm52211c). **Soft Matter**, 2014, 10, 2160-2168.
 
-J4. Ning Gu*, **Xubo Lin**. [医学纳米颗粒对类细胞膜作用的仿真研究进展](https://www.cnki.com.cn/Article/CJFDTotal-SHSW201310004.htm). Progress in Biochemistry and Biophysics, 2013, 40, 918-924.
+J4. Ning Gu*, **Xubo Lin**. [医学纳米颗粒对类细胞膜作用的仿真研究进展](https://www.cnki.com.cn/Article/CJFDTotal-SHSW201310004.htm). **Progress in Biochemistry and Biophysics**, 2013, 40, 918-924.
 
 J3. **Xubo Lin**, Changling Wang, Meng Wang, Kun Fang and Ning Gu*. [Computer Simulation of the Effects of Nanoparticles' Adsorption on the Properties of Supported Lipid Bilayer](https://pubs.acs.org/doi/abs/10.1021/jp305784z). **Journal of Physical Chemistry C**, 2012, 116, 17960-17968.
 
