@@ -20,10 +20,10 @@ Jump to: [BUAA](#beihang-university), [BME](#beijing-advanced-innovation-center-
 
 ## Our Lab
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/202303.jpg" width="24%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/202106.jpg" width="24%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/201912.jpg" width="24%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/201907.jpg" width="24%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/201901.jpg" width="24%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/202303.jpg" width="23%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/202106.jpg" width="23%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/201912.jpg" width="23%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/201907.jpg" width="23%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/201901.jpg" width="23%" >
 </figure>
 
