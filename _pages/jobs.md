@@ -10,4 +10,4 @@ permalink: /jobs/
 
 **Here, we will update the job list related to molecular simulation.**
 
-• [23.02.14 Test job2]({{ site.baseurl }}/jobs/test.html). 
+• [23.03.12 郑州大学李占伟课题组招聘青年教师、博士后等](https://mp.weixin.qq.com/s/nheTg-pCLdfcGnAXWRzoeA). 
