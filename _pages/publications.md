@@ -15,6 +15,8 @@ Jump to: [2023](#2023),[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019
 4. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. Submitted.
 5. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations. Submitted.
 6. Hui Shao, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Jin Zhou<sup>*</sup>, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication. Submitted.
+7. Yue Zhou, **Xubo Lin**, Menglong Duan, Weili Hong, Hui Shao, Lina Geng Jin Zhou<sup>*</sup>, Yubo Fan<sup>*</sup>. Smartphone-Based Biosensor for Point-of-Care Diagnosis of Bacterial Infections. Submitted.
+8. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu<sup>*</sup>, Fang Yang<sup>*</sup>. Neuroinflammation-targeting nanobubbles modulate microglial and neuronal function to treat epilepsy. Submitted.
 
 ## 2023
 1. TBA
