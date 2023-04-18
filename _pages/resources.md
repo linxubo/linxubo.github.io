@@ -25,3 +25,5 @@ PS: Input the course name into the above wechat account, you will get the passwo
 Lecture 1, Lecture 2, Lecture 3, Lecture 4, Lecture 5, Lecture 6, Lecture 7, Lecture 8, Lecture 9, Lecture 10, Lecture 11, Lecture 12, Lecture 13, Lecture 14, Lecture 15, Lecture 16.
 
 
+<strong>Scripts:</strong>
+1. [A bash shell script and tcl script]({{ site.baseurl }}/downloads/Codes/delete-overlap-molecules.rar) to delete the overlapped molecues in a combined gro file. (Modify the names of gro file and residues in the tcl script and run ./delete-overlap.sh. Make sure your Linux system has installed VMD.)
