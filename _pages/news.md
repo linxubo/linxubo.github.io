@@ -11,7 +11,7 @@ permalink: /news/
 **2023/04/23**: Xubo gave an invited talk online in [11th International Conference on Bioinformatics and Computational Biology (ICBCB 2023)](http://www.icbcb.org).
 <div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/20230427195424.png" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/20230427195424.png" width="80%" >
 </figure>
 </div>
 
