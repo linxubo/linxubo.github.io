@@ -26,4 +26,4 @@ Lecture 1, Lecture 2, Lecture 3, Lecture 4, Lecture 5, Lecture 6, Lecture 7, Lec
 
 
 <strong>Scripts:</strong>
-1. [A bash shell script and tcl script]({{ site.baseurl }}/downloads/Codes/delete-overlap-molecules.rar) to delete the overlapped molecues in a combined gro file. (Modify the names of gro file and residues in the tcl script and run ./delete-overlap.sh. Make sure your Linux system has installed VMD.)
+1. [A bash shell script and tcl script]({{ site.baseurl }}/downloads/Codes/delete-overlap-molecules.rar) to delete the overlapped molecues in a combined gro file. (Modify the names of gro file and residues in the tcl script and run ./delete-overlap.sh. Make sure your Linux system has installed VMD.) Details in Chinese can be found [here](https://mp.weixin.qq.com/s/bJKEpOnWwC2vgu4D04Gd_A).
