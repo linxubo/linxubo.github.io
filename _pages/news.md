@@ -8,6 +8,8 @@ permalink: /news/
 
 # News
 
+**2023/05/08**: Shuo Ma successfully defended the master's thesis. Congratulations!
+
 **2023/04/23**: Xubo gave an invited talk online in [11th International Conference on Bioinformatics and Computational Biology (ICBCB 2023)](http://www.icbcb.org).
 <div align="center">
 <figure>
