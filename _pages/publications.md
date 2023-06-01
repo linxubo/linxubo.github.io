@@ -27,7 +27,7 @@ J42.	Akkaranunt Supakijsilp, Jing He, **Xubo Lin<sup>*</sup>**, Jian Ye<sup>*</s
 
 J41.	**Xiu Li, Shiying Zhou, Xubo Lin<sup>*</sup>**. [Molecular View on the Impact of DHA Molecules on Physical Properties of Model Cell Membrane](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00074). **Journal of Chemical Information and Modeling**, 2022, 62, 2421-2431. ([PDF]({{ site.baseurl }}/downloads/Papers/JCIM202205.pdf))
 
-J40.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li<sup>*</sup>. [Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202105416). **Advanced Materials**, 2022, 34, 2105416.
+J40.	Chan Wang, Ying Liu, Xuecheng Qu, Bojing Shi, Qiang Zheng, **Xubo Lin**, Shengyu Chao, Changyong Wang, Jin Zhou, Yu Sun, Gengsheng Mao, Zhou Li<sup>*</sup>. [Ultra‐stretchable and Fast Self‐healing Ionic Hydrogel in Cryogenic Environments for Artificial Nerve Fiber](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202105416). **Advanced Materials**, 2022, 34, 2105416. (**ESI Highly Cited Papers**)
 
 J39.	Baocai Ma, Zuoheng Zhang, Yan Li, **Xubo Lin<sup>*</sup>**, Ning Gu<sup>*</sup>. [Evaluation of Interactions between SARS-CoV-2 RBD and Full-length ACE2 with Coarse-Grained Molecular Dynamics Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01306). **Journal of Chemical Information and Modeling**, 2022, 62, 936-944. ([PDF]({{ site.baseurl }}/downloads/Papers/JCIM202202.pdf))
 
