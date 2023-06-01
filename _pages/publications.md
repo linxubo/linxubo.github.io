@@ -18,7 +18,7 @@ Jump to: **[2023](#2023),[2022](#2022), [2021](#2021), [2020](#2020), [2019](#20
 7. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu<sup>*</sup>, Fang Yang<sup>*</sup>. Neuroinflammation-targeting nanobubbles modulate microglial and neuronal function to treat epilepsy. Submitted.
 
 ## 2023
-1. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication. **Biomaterials**, 2023, accepted.
+J44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication. **Biomaterials**, 2023, accepted.
 
 ## 2022
 J43.	Jing He, Wen Pang, Bobo Gu, **Xubo Lin**, Jian Ye<sup>*</sup>. [The Stiffness-Dependent Tumor Cell Internalization of Liquid Metal Nanoparticles](https://pubs.rsc.org/en/Content/ArticleLanding/2022/NR/D2NR04293B). **Nanoscale**, 2022, 14, 16902-16917.
