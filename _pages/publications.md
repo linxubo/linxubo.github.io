@@ -18,7 +18,7 @@ Jump to: **[2023](#2023),[2022](#2022), [2021](#2021), [2020](#2020), [2019](#20
 7. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu<sup>*</sup>, Fang Yang<sup>*</sup>. Neuroinflammation-targeting nanobubbles modulate microglial and neuronal function to treat epilepsy. Submitted.
 
 ## 2023
-J44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication. **Biomaterials**, 2023, accepted.
+J44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication](https://doi.org/10.1016/j.biomaterials.2023.122183). **Biomaterials**, 2023, in press.
 
 ## 2022
 J43.	Jing He, Wen Pang, Bobo Gu, **Xubo Lin**, Jian Ye<sup>*</sup>. [The Stiffness-Dependent Tumor Cell Internalization of Liquid Metal Nanoparticles](https://pubs.rsc.org/en/Content/ArticleLanding/2022/NR/D2NR04293B). **Nanoscale**, 2022, 14, 16902-16917.
@@ -49,7 +49,7 @@ J33.	Jiebo Li#, Zhen Chi#, Ruzhan Qin, Li Yan, **Xubo Lin**, Mingjun Hu<sup>*</s
 
 J32.	Fangzhou Hu, Borislav Angelov, Shuang Li, Na Li, **Xubo Lin<sup>*</sup>**, Aihua Zou<sup>*</sup>. [Single‐molecule study of peptides with the same amino acid composition but different sequences using an aerolysin nanopore](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000119). **ChemBioChem**, 2020, 21, 2467-2473. ([PDF]({{ site.baseurl }}/downloads/Papers/CBC2020.pdf))
 
-J31.	Min Zhang#, Lei Liu#, **Xubo Lin**, Ying Li, Shulin Li, Yuxin Sun, Di Zhang, Xiachen Lv, Liang Ge<sup>*</sup>. [A translocation pathway for vesicle trafficking-mediated unconventional protein secretion](https://www.sciencedirect.com/science/article/pii/S0092867420303238). **Cell**, 2020, 181, 637-652.e15. ([PDF]({{ site.baseurl }}/downloads/Papers/Cell2020.pdf))
+J31.	Min Zhang#, Lei Liu#, **Xubo Lin**, Ying Li, Shulin Li, Yuxin Sun, Di Zhang, Xiachen Lv, Liang Ge<sup>*</sup>. [A translocation pathway for vesicle-mediated unconventional protein secretion](https://www.sciencedirect.com/science/article/pii/S0092867420303238). **Cell**, 2020, 181, 637-652.e15. ([PDF]({{ site.baseurl }}/downloads/Papers/Cell2020.pdf))
 
 J30.	**Xiaoqian Lin#, Xiu Li#, Xubo Lin<sup>*</sup>**. [A Review on Applications of Computational Methods in Drug Screening and Design](https://www.mdpi.com/667452). **Molecules**. 2020, 25, 1375. (**Invited Review, ESI Highly Cited Papers**) ([PDF]({{ site.baseurl }}/downloads/Papers/Molecules2020.pdf))
 
