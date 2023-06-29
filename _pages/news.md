@@ -8,6 +8,13 @@ permalink: /news/
 
 # News
 
+**2023/06/19**: Happy Graduation! Congratulations to Shuo Ma!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/GroupPhoto_20230619.png" width="80%" >
+</figure>
+</div>
+
 **2023/06/01**: Our contributing manuscripts with Dr. Yubo Fan's group were accepted by Biomaterails. Congratulations to Xiaoqian!
 
 **2023/05/08**: Shuo Ma successfully defended the master's thesis. Congratulations!
