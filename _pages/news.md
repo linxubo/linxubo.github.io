@@ -11,7 +11,7 @@ permalink: /news/
 **2023/06/19**: Happy Graduation! Congratulations to Shuo Ma!
 <div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/GroupPhoto_20230619.png" width="80%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/GroupPhoto_20230619.jpg" width="80%" >
 </figure>
 </div>
 
