@@ -8,6 +8,13 @@ permalink: /news/
 
 # News
 
+**2023/07/23**: Congratulations to Xiaoqian and Kaidong on winning the second prize of the 8th National Biomedical Engineering Innovation Design Competition!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Award2023.jpg" width="60%" >
+</figure>
+</div>
+
 **2023/06/19**: Happy Graduation! Congratulations to Shuo Ma!
 <div align="center">
 <figure>
