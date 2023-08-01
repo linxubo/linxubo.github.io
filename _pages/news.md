@@ -8,7 +8,7 @@ permalink: /news/
 
 # News
 
-**2023/07/31**: Our manuscript on "Intrinsic Transmembrane Potential" was accepted by Langmuir! Congratulations to Xiaoqian, Kaidong and Xiu Li!
+**2023/07/31**: Our manuscript on "Intrinsic Transmembrane Potential" was accepted by Langmuir! Congratulations to Xiaoqian, Kaidong, Xiu Li and collaborators!
 <div align="center">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Langmuir2023.gif" width="60%" >
