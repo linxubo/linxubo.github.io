@@ -12,13 +12,14 @@ permalink: /publications/
 Jump to: **[2023](#2023),[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
 1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://www.biorxiv.org/content/10.1101/2021.10.17.464736.abstract). To be submitted.
 3. **Fujia Tian#, Yuan He#, Yuxuan Wang#**, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. [Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations](http://dx.doi.org/10.26434/chemrxiv.13591283). To be submitted.
-4. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, Shukai Li, Hong Sun, Zaizai Dong, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. Submitted.
+4. 
 5. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations. Submitted.
 6. Yue Zhou, **Xubo Lin**, Menglong Duan, Weili Hong, Hui Shao, Lina Geng Jin Zhou<sup>*</sup>, Yubo Fan<sup>*</sup>. Smartphone-Based Biosensor for Point-of-Care Diagnosis of Bacterial Infections. Submitted.
 7. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu<sup>*</sup>, Fang Yang<sup>*</sup>. Neuroinflammation-targeting nanobubbles modulate microglial and neuronal function to treat epilepsy. Submitted.
 
 ## 2023
-J44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication](https://doi.org/10.1016/j.biomaterials.2023.122183). **Biomaterials**, 2023, in press.
+J45. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. **Langmuir**, 2023, in press.
+J44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication](https://doi.org/10.1016/j.biomaterials.2023.122183). **Biomaterials**, 2023, 300, 122183.
 
 ## 2022
 J43.	Jing He, Wen Pang, Bobo Gu, **Xubo Lin**, Jian Ye<sup>*</sup>. [The Stiffness-Dependent Tumor Cell Internalization of Liquid Metal Nanoparticles](https://pubs.rsc.org/en/Content/ArticleLanding/2022/NR/D2NR04293B). **Nanoscale**, 2022, 14, 16902-16917.
