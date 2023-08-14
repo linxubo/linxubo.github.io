@@ -18,7 +18,7 @@ Jump to: **[Others](#Others),[2023](#2023),[2022](#2022), [2021](#2021), [2020](
 6. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu<sup>*</sup>, Fang Yang<sup>*</sup>. Neuroinflammation-targeting nanobubbles modulate microglial and neuronal function to treat epilepsy. Submitted.
 
 ## 2023
-J45. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, **Xubo Lin<sup>*</sup>**. Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential. **Langmuir**, 2023, doi: 10.1021/acs.langmuir.3c01137.
+J45. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, Xiu Li, **Xubo Lin<sup>*</sup>**. [Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential](https://doi.org/10.1021/acs.langmuir.3c01137). **Langmuir**, 2023, doi: 10.1021/acs.langmuir.3c01137.
 
 J44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication](https://doi.org/10.1016/j.biomaterials.2023.122183). **Biomaterials**, 2023, 300, 122183.
 
