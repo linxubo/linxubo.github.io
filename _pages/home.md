@@ -16,7 +16,6 @@ We are a research group (2018.01~now) in [Beijing Advanced Innovation Center for
 4. Develop Useful Tools and Algorithms for Molecular Simulations.
 
  
-**We are guest-editing a Special Issue on "[Membranes Biophysics: Theory and Experiment](https://www.mdpi.com/journal/membranes/special_issues/C5NMAGDENE)" in Membranes (IF=4.562, JCR Q1). Welcome to contribute!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
