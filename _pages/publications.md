@@ -12,12 +12,12 @@ permalink: /publications/
 Jump to: **[Others](#Others),[2023](#2023),[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
 ## Others
 1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://www.biorxiv.org/content/10.1101/2021.10.17.464736.abstract). To be submitted.
-3. **Fujia Tian#, Yuan He#, Yuxuan Wang#**, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. [Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations](http://dx.doi.org/10.26434/chemrxiv.13591283). To be submitted.
-4. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations. Submitted.
-5. Yue Zhou, **Xubo Lin**, Menglong Duan, Weili Hong, Hui Shao, Lina Geng Jin Zhou<sup>*</sup>, Yubo Fan<sup>*</sup>. Smartphone-Based Biosensor for Point-of-Care Diagnosis of Bacterial Infections. Submitted.
-6. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu<sup>*</sup>, Fang Yang<sup>*</sup>. Neuroinflammation-targeting nanobubbles modulate microglial and neuronal function to treat epilepsy. Submitted.
+2. **Fujia Tian#, Yuan He#, Yuxuan Wang#**, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. [Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations](http://dx.doi.org/10.26434/chemrxiv.13591283). To be submitted.
+3. Yue Zhou, **Xubo Lin**, Menglong Duan, Weili Hong, Hui Shao, Lina Geng Jin Zhou<sup>*</sup>, Yubo Fan<sup>*</sup>. Smartphone-Based Biosensor for Point-of-Care Diagnosis of Bacterial Infections. Submitted.
+4. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu<sup>*</sup>, Fang Yang<sup>*</sup>. Neuroinflammation-targeting nanobubbles modulate microglial and neuronal function to treat epilepsy. Submitted.
 
 ## 2023
+J46. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations. **Medicine in Novel Technology and Devices**, 2023, accepted.
 J45. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, **Xiu Li**, **Xubo Lin<sup>*</sup>**. [Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential](https://doi.org/10.1021/acs.langmuir.3c01137). **Langmuir**, 2023, doi: 10.1021/acs.langmuir.3c01137.
 
 J44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication](https://doi.org/10.1016/j.biomaterials.2023.122183). **Biomaterials**, 2023, 300, 122183.
