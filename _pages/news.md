@@ -8,6 +8,8 @@ permalink: /news/
 
 # News
 
+**2023/08/24**: Our project on lipid nanobubble was granted by NSFC. Congratulations!
+
 **2023/07/31**: Our manuscript on "Intrinsic Transmembrane Potential" was accepted by Langmuir! Congratulations to Xiaoqian, Kaidong, Xiu and collaborators!
 <div align="center">
 <figure>
