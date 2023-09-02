@@ -7,11 +7,13 @@ permalink: /news/
 ---
 
 # News
-**2023/08/30**: Our contributing manuscript with Dr. Fang Yang's group was accepted by Biomaterails. Congratulations!
+**2023/08/30**: Our contributing manuscript with Dr. Fang Yang's group was accepted by [Biomaterails](https://doi.org/10.1016/j.biomaterials.2023.122302). Congratulations!
 
 **2023/08/24**: Our project on lipid nanobubble was granted by NSFC. Congratulations!
 
-**2023/07/31**: Our manuscript on "Intrinsic Transmembrane Potential" was accepted by Langmuir! Congratulations to Xiaoqian, Kaidong, Xiu and collaborators!
+**2023/08/20**: Yifei's manuscript was accepted by [Medicine in Novel Technology and Devices](https://doi.org/10.1016/j.medntd.2023.100257). Congratulations!
+
+**2023/07/31**: Our manuscript on "Intrinsic Transmembrane Potential" was accepted by [Langmuir](https://doi.org/10.1021/acs.langmuir.3c01137)! Congratulations to Xiaoqian, Kaidong, Xiu and collaborators!
 <div align="center">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Langmuir2023.gif" width="60%" >
@@ -32,7 +34,7 @@ permalink: /news/
 </figure>
 </div>
 
-**2023/06/01**: Our contributing manuscript with Dr. Yubo Fan's group was accepted by Biomaterails. Congratulations to Xiaoqian!
+**2023/06/01**: Our contributing manuscript with Dr. Yubo Fan's group was accepted by [Biomaterails](https://doi.org/10.1016/j.biomaterials.2023.122183). Congratulations to Xiaoqian!
 
 **2023/05/08**: Shuo Ma successfully defended the master's thesis. Congratulations!
 
