@@ -9,9 +9,11 @@ permalink: /publications/
 # Publications
 (<sup>#</sup>Equal contribution; <sup>*</sup>Corresponding author; **Names in bold** represent our group members)
 
-Jump to: **[Others](#Others),[2023](#2023),[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
+Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
 ## Book Chapters
-3.	**Xubo Lin<sup>*</sup>**. [Applications of molecular dynamics simulations in drug discovery](https://www.sciencedirect.com/science/article/pii/B9780323902649000271). **Advances in Protein Molecular and Structural Biology Methods**, 2022, 455-465. ([PDF]({{ site.baseurl }}/downloads/Papers/Elsevier-Book2022-Chapter27.pdf))
+1.	**Xubo Lin<sup>*</sup>**. [Chapter 27 Applications of molecular dynamics simulations in drug discovery](https://www.sciencedirect.com/science/article/pii/B9780323902649000271). **Advances in Protein Molecular and Structural Biology Methods**, 2022, 455-465. ([PDF]({{ site.baseurl }}/downloads/Papers/Elsevier-Book2022-Chapter27.pdf))
+2.	李洋, **林绪波**, 顾宁. 第8章 纳米材料作用于细胞膜的模拟研究, 生物医用纳米材料对细胞的作用(顾宁、许海燕等编著, 科学出版社), 2014, 246-285.
+3.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材料的表面修饰及其对生物膜的作用, 生物医用磁性纳米材料与器件(顾宁等编著，化学工业出版社), 2013, 139-164.
 
 ## Others
 1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://www.biorxiv.org/content/10.1101/2021.10.17.464736.abstract). To be submitted.
