@@ -25,7 +25,7 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2023](#2023), [2
 
 46. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. [Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations](https://doi.org/10.1016/j.medntd.2023.100257). **Medicine in Novel Technology and Devices**, 2023, in press.
 
-45. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, **Xiu Li**, **Xubo Lin<sup>*</sup>**. [Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential](https://doi.org/10.1021/acs.langmuir.3c01137). **Langmuir**, 2023, doi: 10.1021/acs.langmuir.3c01137.
+45. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, **Xiu Li**, **Xubo Lin<sup>*</sup>**. [Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential](https://doi.org/10.1021/acs.langmuir.3c01137). **Langmuir**, 2023, 39, 11621–11627.
 
 44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication](https://doi.org/10.1016/j.biomaterials.2023.122183). **Biomaterials**, 2023, 300, 122183.
 
