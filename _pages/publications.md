@@ -16,16 +16,19 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2023](#2023), [2
 3.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材料的表面修饰及其对生物膜的作用, 生物医用磁性纳米材料与器件(顾宁等编著，化学工业出版社), 2013, 139-164.
 
 ## Others
-1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://www.biorxiv.org/content/10.1101/2021.10.17.464736.abstract). To be submitted.
-2. **Fujia Tian#, Yuan He#, Yuxuan Wang#**, Siewert-Jan Marrink<sup>*</sup>, **Xubo Lin<sup>*</sup>**. [Developing Martini Coarse-Grained Nitrogen Gas Model for Lipid Nanobubble Simulations](http://dx.doi.org/10.26434/chemrxiv.13591283). To be submitted.
+1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. In preparation.
+2. **林开东**, **林晓倩**, **林绪波<sup>*</sup>**. 靶向PD-L1蛋白的计算机辅助药物筛选, **物理学报**, 修改中。
 3. Yue Zhou, **Xubo Lin**, Menglong Duan, Weili Hong, Hui Shao, Lina Geng Jin Zhou<sup>*</sup>, Yubo Fan<sup>*</sup>. Smartphone-Based Biosensor for Point-of-Care Diagnosis of Bacterial Infections. Submitted.
+4. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. All-atom Gas Model for Lipid Nanobubbles Simulation. In preparation.
+5. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. In preparation.
+6. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
 
 ## 2023
 J47. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu, Fang Yang<sup>*</sup>. [Neuroinflammation catching nanobubbles for microglia-neuron unit modulation against epilepsy](https://doi.org/10.1016/j.biomaterials.2023.122302). **Biomaterials**, 2023, in press.
 
 J46. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. [Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations](https://doi.org/10.1016/j.medntd.2023.100257). **Medicine in Novel Technology and Devices**, 2023, in press.
 
-J45. **Xiaoqian Lin#, Kaidong Lin#**, Shiqi He, Yue Zhou, **Xiu Li**, **Xubo Lin<sup>*</sup>**. [Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential](https://doi.org/10.1021/acs.langmuir.3c01137). **Langmuir**, 2023, 39, 11621–11627.
+J45. **Xiaoqian Lin#**, **Kaidong Lin#**, Shiqi He, Yue Zhou, **Xiu Li**, **Xubo Lin<sup>*</sup>**. [Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential](https://doi.org/10.1021/acs.langmuir.3c01137). **Langmuir**, 2023, 39, 11621–11627.
 
 J44. Hui Shao, Jin Zhou<sup>*</sup>, **Xiaoqian Lin**, Yue Zhou, Yumeng Xue, Weili Hong, **Xubo Lin**, Xiaoling Jia<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired Peptide-conjugated Liposomes for Enhanced Planktonic Bacteria Killing and Biofilm Eradication](https://doi.org/10.1016/j.biomaterials.2023.122183). **Biomaterials**, 2023, 300, 122183.
 
