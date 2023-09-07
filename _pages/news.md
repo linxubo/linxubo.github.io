@@ -10,7 +10,7 @@ permalink: /news/
 **2023/09/07**: Our manuscript on "machine learning-based drug screening" was accepted by 《物理学报》. Congratulations to Kaidong and Xiaoqian!
 <div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Kaidong2023.jpg" width="40%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Kaidong2023.jpg" width="55%" >
 </figure>
 </div>
 
