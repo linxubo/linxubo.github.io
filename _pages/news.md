@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2023/09/07**: Our manuscript on "machine learning-based drug screening" was accepted by 《物理学报》. Congratulations to Kaidong and Xiaoqian!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Kaidong2023.jpg" width="40%" >
+</figure>
+</div>
+
 **2023/08/30**: Our contributing manuscript with Dr. Fang Yang's group was accepted by [Biomaterails](https://doi.org/10.1016/j.biomaterials.2023.122302). Congratulations!
 
 **2023/08/24**: Our project on lipid nanobubble was granted by NSFC. Congratulations!
