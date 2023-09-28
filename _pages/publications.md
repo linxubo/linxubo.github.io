@@ -23,7 +23,7 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2023](#2023), [2
 5. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
 
 ## 2023
-J48. **林开东**, **林晓倩**, **林绪波<sup>*</sup>**. 靶向PD-L1蛋白的计算机辅助药物筛选, **物理学报**, 已接受。
+J48. **林开东**, **林晓倩**, **林绪波<sup>*</sup>**. [靶向PD-L1蛋白的计算机辅助药物筛选](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.72.20231068), **物理学报**, 2023, doi: 10.7498/aps.72.20231068。
 
 J47. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu, Fang Yang<sup>*</sup>. [Neuroinflammation catching nanobubbles for microglia-neuron unit modulation against epilepsy](https://doi.org/10.1016/j.biomaterials.2023.122302). **Biomaterials**, 2023, in press.
 
