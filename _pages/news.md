@@ -7,6 +7,10 @@ permalink: /news/
 ---
 
 # News
+**2023/10/26**: Our contributing manuscripts with Dr. Fang Yang's group and Dr. Jin Zhou's groups were accepted by [Biomaterails](https://doi.org/10.1016/j.biomaterials.2023.122302), [Biomaterials](https://doi.org/10.1016/j.biomaterials.2023.122183) and [Smart Materials in Medicine](https://doi.org/10.1016/j.smaim.2023.10.002). Congratulations!
+
+**2023/09/10**: Our manuscript on "SARS-CoV-2 3CLpro" was accepted by [Medicine in Novel Technology and Devices](https://doi.org/10.1016/j.medntd.2023.100257). Congratulations to YifeiYifei!
+
 **2023/09/07**: Our manuscript on "machine learning-based drug screening" was accepted by 《物理学报》. Congratulations to Kaidong and Xiaoqian!
 <div align="center">
 <figure>
