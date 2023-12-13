@@ -28,7 +28,7 @@ J48. **林开东**, **林晓倩**, **林绪波<sup>*</sup>**. [靶向PD-L1蛋白
 
 J47. Xiao Wang, Yang Liu, Mingxi Li, Yongxu Ju, Jian Tang, Tiandong Chen, **Xubo Lin**, Ning Gu, Fang Yang<sup>*</sup>. [Neuroinflammation catching nanobubbles for microglia-neuron unit modulation against epilepsy](https://doi.org/10.1016/j.biomaterials.2023.122302). **Biomaterials**, 2023, 302, 122302.
 
-J46. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. [Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations](https://doi.org/10.1016/j.medntd.2023.100257). **Medicine in Novel Technology and Devices**, 2023, 20, 100257.
+J46. **Yifei Zhou**, **Xubo Lin<sup>*</sup>**. [Binding Kinetics of Ten Small-Molecule Drug Candidates on SARS-CoV-2 3CLpro Revealed by Biomolecular Simulations](https://doi.org/10.1016/j.medntd.2023.100257). **Medicine in Novel Technology and Devices**, 2023, 20, 100257. (Selected as [Cover](https://www.sciencedirect.com/science/article/pii/S2590093523000723/pdfft?md5=7d174054aba253c40275c4622ea827b6&pid=1-s2.0-S2590093523000723-main.pdf) and "**Editor Choice Paper**")
 
 J45. **Xiaoqian Lin#**, **Kaidong Lin#**, Shiqi He, Yue Zhou, **Xiu Li**, **Xubo Lin<sup>*</sup>**. [Membrane Domain Anti-Registration Induces an Intrinsic Transmembrane Potential](https://doi.org/10.1021/acs.langmuir.3c01137). **Langmuir**, 2023, 39, 11621–11627.
 
