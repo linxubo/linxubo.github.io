@@ -15,6 +15,13 @@ permalink: /news/
 </figure>
 </div>
 
+**2023/12/01**: Our recent paper was selected as [Cover](https://www.sciencedirect.com/science/article/pii/S2590093523000528) and "Editor Choice Paper". Congratulations!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Publications/MINTD2023.png" width="25%" >
+</figure>
+</div>
+
 **2023/10/26**: Our contributing manuscripts with Dr. Fang Yang's group and Dr. Jin Zhou's groups were accepted by [Biomaterails](https://doi.org/10.1016/j.biomaterials.2023.122302), [Biomaterials](https://doi.org/10.1016/j.biomaterials.2023.122183) and [Smart Materials in Medicine](https://doi.org/10.1016/j.smaim.2023.10.002). Congratulations!
 
 **2023/09/10**: Our manuscript on "SARS-CoV-2 3CLpro" was accepted by [Medicine in Novel Technology and Devices](https://doi.org/10.1016/j.medntd.2023.100257). Congratulations to Yifei!
