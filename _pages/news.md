@@ -7,7 +7,7 @@ permalink: /news/
 ---
 
 # News
-**2023/12/08**: Happy Graduation! Congratulations to Xiaoqian!
+**2023/12/08**: Happy Graduation! Congratulations to Dr. Xiaoqian Lin!
 <div align="center">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Xiaoqian_graduation_photo.jpg" width="80%" >
