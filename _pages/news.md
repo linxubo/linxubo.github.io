@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2023/12/08**: Happy Graduation! Congratulations to Xiaoqian!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Xiaoqian_graduation_photo.jpg" width="80%" >
+</figure>
+</div>
+
 **2023/12/08**: Xiaoqian successfully passed the doctoral thesis defense. Congratulations!
 <div align="center">
 <figure>
