@@ -9,7 +9,7 @@ permalink: /publications/
 # Publications
 (<sup>#</sup>Equal contribution; <sup>*</sup>Corresponding author; **Names in bold** represent our group members)
 
-Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
+Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
 ## Book Chapters
 1.	**Xubo Lin<sup>*</sup>**. [Chapter 27 Applications of molecular dynamics simulations in drug discovery](https://www.sciencedirect.com/science/article/pii/B9780323902649000271). **Advances in Protein Molecular and Structural Biology Methods (Edited by Timir Tripathi and Vikash Kumar Dubey)**, Academic Press (Elsevier), 2022, 455-465. ([PDF]({{ site.baseurl }}/downloads/Papers/Elsevier-Book2022-Chapter27.pdf))
 2.	李洋, **林绪波**, 顾宁. 第8章 纳米材料作用于细胞膜的模拟研究, **生物医用纳米材料对细胞的作用(顾宁、许海燕等编著)**, 科学出版社, 2014, 246-285.
