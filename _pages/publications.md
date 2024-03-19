@@ -17,7 +17,7 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2
 4.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材料的表面修饰及其对生物膜的作用, **生物医用磁性纳米材料与器件(顾宁等编著)**, 化学工业出版社, 2013, 139-164.
 
 ## Others
-1. Siya Zhang#, Hongyin Wang#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. In preparation.
+1. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. Submitted.
 2. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. All-atom Gas Model for Lipid Nanobubbles Simulation. In preparation.
 3. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. In preparation.
 4. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
