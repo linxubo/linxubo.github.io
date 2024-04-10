@@ -18,8 +18,8 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2
 
 ## Others
 1. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. Submitted.
-2. Liuyan Yang#, Mingdong Liu#, Yunhui Liu, **Xubo Lin<sup>*</sup>**, Yu-Zhong Zhang<sup>*/</sup>, Qing-Tao Shen<sup>*/</sup>. Structural variability of the mitochondrial protein import gate. Submitted.
-3. Yuxin Sun1#, Xuan Tao2#, Yaping Han1#, **Xubo Lin**, Rui Tian, Haodong Wang, Pei Chang, Qiming Sun, Liang Ge<sup>*/</sup>, Min Zhang<sup>*/</sup>. A dual role of ERGIC-localized Rabs in TMED10-mediated unconventional protein secretion. Submitted.
+2. Liuyan Yang#, Mingdong Liu#, Yunhui Liu, **Xubo Lin<sup>*</sup>**, Yu-Zhong Zhang<sup>*</sup>, Qing-Tao Shen<sup>*</sup>. Structural variability of the mitochondrial protein import gate. Submitted.
+3. Yuxin Sun#, Xuan Tao#, Yaping Han#, **Xubo Lin**, Rui Tian, Haodong Wang, Pei Chang, Qiming Sun, Liang Ge<sup>*</sup>, Min Zhang<sup>*</sup>. A dual role of ERGIC-localized Rabs in TMED10-mediated unconventional protein secretion. Submitted.
 4. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. All-atom Gas Model for Lipid Nanobubbles Simulation. In preparation.
 5. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. In preparation.
 6. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
