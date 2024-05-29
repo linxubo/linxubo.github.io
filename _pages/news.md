@@ -7,6 +7,10 @@ permalink: /news/
 ---
 
 # News
+**2024/05/26**: Dr. Lin attended [The 8th International Symposium on Plasma&Fine Bubbles](https://ispfb2024.scimeeting.cn) (Shanghai, 05/25-26)  and gaved an oral talk on molecular dynamics simulations of lipid nanobubbles.
+
+**2024/05/22**: Kaidong successfully passed the Master thesis defense. Congratulations!
+
 **2024/01/08**: Happy Graduation! Congratulations to Dr. Xiaoqian Lin!
 <div align="center">
 <figure>
