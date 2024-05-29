@@ -7,7 +7,7 @@ permalink: /news/
 ---
 
 # News
-**2024/05/26**: Dr. Lin attended [The 8th International Symposium on Plasma&Fine Bubbles](https://ispfb2024.scimeeting.cn) (Shanghai, 05/25-26)  and gave an oral talk on molecular dynamics simulations of lipid nanobubbles.
+**2024/05/26**: Dr. Lin attended [The 8th International Symposium on Plasma&Fine Bubbles](https://ispfb2024.scimeeting.cn) (Shanghai, 05/25-26)  and gave an oral talk on molecular dynamics simulations of lipid nanobubbles. Lipid nanobubbles start to boost in our group!
 <div align="center">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Xubo-Bubble2024.jpg" width="60%" >
