@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2024/06/25**: Happy Graduation! Congratulations to Kaidong and Jiajun!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Kaidong2024.jpg" width="60%" >
+</figure>
+</div>
+
 **2024/06/18**: Xiu and Lin attended [The 34th Annual Meeting of the Chinese Chemical Society](https://www.chemsoc.org.cn/meeting/34th/) (Guangzhou, 06/15-18)  and gave two oral talks on lipid nanobubbles and PD-L1 protein. 
 
 **2024/05/26**: Lin attended [The 8th International Symposium on Plasma&Fine Bubbles](https://ispfb2024.scimeeting.cn) (Shanghai, 05/25-26)  and gave an oral talk on molecular dynamics simulations of lipid nanobubbles. Lipid nanobubbles start to boost in our group!
