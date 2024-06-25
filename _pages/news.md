@@ -10,7 +10,7 @@ permalink: /news/
 **2024/06/25**: Happy Graduation! Congratulations to Kaidong and Jiajun!
 <div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Kaidong2024.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Kaidong2024.jpg" width="50%" >
 </figure>
 </div>
 
