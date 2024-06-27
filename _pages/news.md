@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2024/06/26**: Our recent collaborative work with Prof. Ge and Prof. Zhang was accepted by [Nature Cell Biology](https://www.nature.com/articles/s41556-024-01445-4). Congratulations!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Publications/NCB2024.jpg" width="80%" >
+</figure>
+</div>
+
 **2024/06/25**: Happy Graduation! Congratulations to Kaidong and Jiajun!
 <div align="center">
 <figure>
