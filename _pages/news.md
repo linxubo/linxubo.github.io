@@ -10,7 +10,7 @@ permalink: /news/
 **2024/06/26**: Our recent collaborative work with Prof. Ge and Prof. Zhang was accepted by [Nature Cell Biology](https://www.nature.com/articles/s41556-024-01445-4). Congratulations!
 <div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Publications/NCB2024.jpg" width="80%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Publications/NCB2024.jpg" width="60%" >
 </figure>
 </div>
 
