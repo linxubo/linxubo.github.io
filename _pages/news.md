@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2024/07/26**: Xiu and Xinyu won the second prize of The 9th National Biomedical Engineering Innovation Design Competition for College Students. Congratulations!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/BME-design-2024.png" width="50%" >
+</figure>
+</div>
+
 **2024/06/26**: Our recent collaborative work with Prof. Ge and Prof. Zhang was accepted by [Nature Cell Biology](https://www.nature.com/articles/s41556-024-01445-4). Congratulations!
 <div align="center">
 <figure>
