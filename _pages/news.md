@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2024/09/04**: Our manuscript on "all-atom MD simulations of lipid nanobubble" was accepted by Journal of Chemical Information and Modeling. Congratulations to Xiu, Yuan, Yuxuan and Kaidong!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Publications/JCIM2024.jpg" width="60%" >
+</figure>
+</div>
+
 **2024/07/26**: Xiu and Xinyu won the second prize of The 9th National Biomedical Engineering Innovation Design Competition for College Students. Congratulations!
 <div align="center">
 <figure>
