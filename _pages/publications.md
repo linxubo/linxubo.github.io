@@ -19,11 +19,12 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2
 ## Others
 1. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. Submitted.
 2. Liuyan Yang#, Mingdong Liu#, Yunhui Liu, **Xubo Lin<sup>*</sup>**, Yu-Zhong Zhang<sup>*</sup>, Qing-Tao Shen<sup>*</sup>. Structural variability of the mitochondrial protein import gate. Submitted.
-3. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. All-atom Gas Model for Lipid Nanobubbles Simulation. In preparation.
-4. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. In preparation.
-5. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
+3. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. In preparation.
+4. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
 
 ## 2024
+J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation. **Journal of Chemical Information and Modeling**, 2024, accepted.
+
 J50. Yuxin Sun#, Xuan Tao#, Yaping Han#, **Xubo Lin**, Rui Tian, Haodong Wang, Pei Chang, Qiming Sun, Liang Ge<sup>*</sup>, Min Zhang<sup>*</sup>. [A dual role of ERGIC-localized Rabs in TMED10-mediated unconventional protein secretion](https://www.nature.com/articles/s41556-024-01445-4). **Nature Cell Biology**, 2024, 26, 1077-1092.
 
 J49. Yue Zhou#, Yumeng Xue#, **Xubo Lin**, Menglong Duan, Weili Hong, Lina Geng Jin Zhou<sup>*</sup>, Yubo Fan<sup>*</sup>. [Smartphone-based Polydiacetylene Colorimetric Sensor for Point-of-care Diagnosis of Bacterial Infections](https://doi.org/10.1016/j.smaim.2023.10.002). **Smart Materials in Medicine**, 2024, 5, 140-152.
