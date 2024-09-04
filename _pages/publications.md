@@ -21,6 +21,7 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2
 2. Liuyan Yang#, Mingdong Liu#, Yunhui Liu, **Xubo Lin<sup>*</sup>**, Yu-Zhong Zhang<sup>*</sup>, Qing-Tao Shen<sup>*</sup>. Structural variability of the mitochondrial protein import gate. Submitted.
 3. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. In preparation.
 4. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
+5. Hongyan Kang#* Guiqin Yan#, **Xiaoqian Lin#**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. The arrangement of the aortic endothelial glycocalyx and its interaction with the low-density lipoproteins (LDL). Submitted.
 
 ## 2024
 J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation. **Journal of Chemical Information and Modeling**, 2024, accepted.
