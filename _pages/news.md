@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2024/09/09**: A special gift from my students for Teachers' Day. Thank you very much!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Lab-Family-2024.png" width="50%" >
+</figure>
+</div>
+
 **2024/09/04**: Our manuscript on "all-atom MD simulations of lipid nanobubble" was accepted by Journal of Chemical Information and Modeling. Congratulations to Xiu, Yuan, Yuxuan and Kaidong!
 <div align="center">
 <figure>
