@@ -20,6 +20,7 @@ Jump to: [BUAA](#beihang-university), [BME](#beijing-advanced-innovation-center-
 
 ## Our Lab
 <figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Lab-Family-2024.jpg" width="23%" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Kaidong2024.jpg" width="15%" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Xiaoqian_graduation_photo.jpg" width="23%" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Award2023.jpg" width="23%" >
