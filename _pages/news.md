@@ -10,7 +10,7 @@ permalink: /news/
 **2024/09/09**: A special gift from my students for Teachers' Day. Thank you very much!
 <div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Lab-Family-2024.png" width="50%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Lab-Family-2024.jpg" width="50%" >
 </figure>
 </div>
 
