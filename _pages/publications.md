@@ -24,7 +24,7 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2
 5. Hongyan Kang#* Guiqin Yan#, **Xiaoqian Lin#**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. The arrangement of the aortic endothelial glycocalyx and its interaction with the low-density lipoproteins (LDL). Submitted.
 
 ## 2024
-J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation. **Journal of Chemical Information and Modeling**, 2024, accepted.
+J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation. **Journal of Chemical Information and Modeling**, 2024, doi: 10.1021/acs.jcim.4c01027.
 
 J50. Yuxin Sun#, Xuan Tao#, Yaping Han#, **Xubo Lin**, Rui Tian, Haodong Wang, Pei Chang, Qiming Sun, Liang Ge<sup>*</sup>, Min Zhang<sup>*</sup>. [A dual role of ERGIC-localized Rabs in TMED10-mediated unconventional protein secretion](https://www.nature.com/articles/s41556-024-01445-4). **Nature Cell Biology**, 2024, 26, 1077-1092.
 
