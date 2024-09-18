@@ -22,6 +22,7 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2
 3. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. In preparation.
 4. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
 5. Hongyan Kang#* Guiqin Yan#, **Xiaoqian Lin#**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. The arrangement of the aortic endothelial glycocalyx and its interaction with the low-density lipoproteins (LDL). Submitted.
+6. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou*, Lizhen Wang*, Yubo Fan*. Synthetic vesicles with improved cartilage matrix affinity and extended retention promote early osteoarthritis recovery and repair of fullthickness cartilage defects. Submitted.
 
 ## 2024
 J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. [CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation](https://doi.org/10.1021/acs.jcim.4c01027). **Journal of Chemical Information and Modeling**, 2024, doi: 10.1021/acs.jcim.4c01027.
