@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2024/10/14**: Our recent JCIM paper was selected as Supplementary Cover. Congratulations!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Publications/JCIM2024-Cover.jpg" width="40%" >
+</figure>
+</div>
+
 **2024/09/09**: A special gift from my students for Teachers' Day. Thank you very much!
 <div align="center">
 <figure>
