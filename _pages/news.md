@@ -7,7 +7,7 @@ permalink: /news/
 ---
 
 # News
-**2024/10/14**: Our recent JCIM paper was selected as Supplementary Cover. Congratulations!
+**2024/10/14**: [Our recent JCIM paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01027) was selected as [Supplementary Cover](https://pubs.acs.org/toc/jcisd8/64/19). Congratulations!
 <div align="center">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Publications/JCIM2024-Cover.jpg" width="40%" >
