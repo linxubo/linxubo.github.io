@@ -25,7 +25,7 @@ Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2
 6. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou*, Lizhen Wang*, Yubo Fan*. Synthetic vesicles with improved cartilage matrix affinity and extended retention promote early osteoarthritis recovery and repair of fullthickness cartilage defects. Submitted.
 
 ## 2024
-J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. [CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation](https://doi.org/10.1021/acs.jcim.4c01027). **Journal of Chemical Information and Modeling**, 2024, doi: 10.1021/acs.jcim.4c01027.
+J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. [CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation](https://doi.org/10.1021/acs.jcim.4c01027). **Journal of Chemical Information and Modeling**, 2024, 64, 7503-7512. (**Supplementary Cover**)
 
 J50. Yuxin Sun#, Xuan Tao#, Yaping Han#, **Xubo Lin**, Rui Tian, Haodong Wang, Pei Chang, Qiming Sun, Liang Ge<sup>*</sup>, Min Zhang<sup>*</sup>. [A dual role of ERGIC-localized Rabs in TMED10-mediated unconventional protein secretion](https://www.nature.com/articles/s41556-024-01445-4). **Nature Cell Biology**, 2024, 26, 1077-1092.
 
