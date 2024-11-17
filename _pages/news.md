@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2024/09/09**: Lin and Xinyu attended 2024 Frontier Symposium in Computational Chemistry, Biophysics, and Biological Sciences organized by University of Seoul, Korea on Nov. 8-10. Lin gave a talk on membrane domain dynamics.
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Korean-2024.jpg" width="100%" >
+</figure>
+</div>
+
 **2024/10/14**: [Our recent JCIM paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01027) was selected as [Supplementary Cover](https://pubs.acs.org/toc/jcisd8/64/19). Congratulations!
 <div align="center">
 <figure>
