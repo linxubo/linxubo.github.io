@@ -7,7 +7,7 @@ permalink: /news/
 ---
 
 # News
-**2024/09/09**: Lin and Xinyu attended 2024 Frontier Symposium in Computational Chemistry, Biophysics, and Biological Sciences organized by University of Seoul, Korea on Nov. 8-10. Lin gave a talk on membrane domain dynamics.
+**2024/11/11**: Lin and Xinyu attended 2024 Frontier Symposium in Computational Chemistry, Biophysics, and Biological Sciences organized by University of Seoul, Korea on Nov. 8-10. Lin gave a talk on membrane domain dynamics.
 <div align="center">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Korean-2024.jpg" width="100%" >
