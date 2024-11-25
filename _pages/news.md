@@ -7,6 +7,8 @@ permalink: /news/
 ---
 
 # News
+**2024/11/22**: Lin contributed a book chapter ([Chapter 21](https://www.sciencedirect.com/science/article/abs/pii/B9780443218095000053)) to the Elsevier book "[The Three Functional States of Proteins](https://www.sciencedirect.com/book/9780443218095/the-three-functional-states-of-proteins)".
+
 **2024/11/11**: Lin and Xinyu attended [2024 Frontier Symposium in Computational Chemistry, Biophysics, and Biological Sciences](https://symposium.molcube.xyz/2024/frontiers) organized by University of Seoul, Korea on Nov. 8-10. Lin gave a talk on membrane domain dynamics.
 <div align="center">
 <figure>
