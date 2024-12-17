@@ -11,18 +11,21 @@ permalink: /publications/
 
 Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
 ## Book Chapters
-1.	**Xubo Lin<sup>*</sup>**. [Chapter 21 Molecular Dynamics Simulations of Intrinsically Disordered, Fuzzy Complexes, and Phase Separated Protein States](https://www.sciencedirect.com/science/article/abs/pii/B9780443218095000053). **The Three Functional States of Proteins: Structured, Intrinsically Disordered, and Phase Separated (Edited by Timir Tripathi and Vladimir N. Uversky)**, Academic Press (Elsevier), 2025, 399-405.
-2.	**Xubo Lin<sup>*</sup>**. [Chapter 27 Applications of molecular dynamics simulations in drug discovery](https://www.sciencedirect.com/science/article/pii/B9780323902649000271). **Advances in Protein Molecular and Structural Biology Methods (Edited by Timir Tripathi and Vikash Kumar Dubey)**, Academic Press (Elsevier), 2022, 455-465. ([PDF]({{ site.baseurl }}/downloads/Papers/Elsevier-Book2022-Chapter27.pdf))
-3.	李洋, **林绪波**, 顾宁. 第8章 纳米材料作用于细胞膜的模拟研究, **生物医用纳米材料对细胞的作用(顾宁、许海燕等编著)**, 科学出版社, 2014, 246-285.
-4.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材料的表面修饰及其对生物膜的作用, **生物医用磁性纳米材料与器件(顾宁等编著)**, 化学工业出版社, 2013, 139-164.
+B4.	**Xubo Lin<sup>*</sup>**. [Chapter 21 Molecular Dynamics Simulations of Intrinsically Disordered, Fuzzy Complexes, and Phase Separated Protein States](https://www.sciencedirect.com/science/article/abs/pii/B9780443218095000053). **The Three Functional States of Proteins: Structured, Intrinsically Disordered, and Phase Separated (Edited by Timir Tripathi and Vladimir N. Uversky)**, Academic Press (Elsevier), 2025, 399-405.
+B3.	**Xubo Lin<sup>*</sup>**. [Chapter 27 Applications of molecular dynamics simulations in drug discovery](https://www.sciencedirect.com/science/article/pii/B9780323902649000271). **Advances in Protein Molecular and Structural Biology Methods (Edited by Timir Tripathi and Vikash Kumar Dubey)**, Academic Press (Elsevier), 2022, 455-465. ([PDF]({{ site.baseurl }}/downloads/Papers/Elsevier-Book2022-Chapter27.pdf))
+B2.	李洋, **林绪波**, 顾宁. 第8章 纳米材料作用于细胞膜的模拟研究, **生物医用纳米材料对细胞的作用(顾宁、许海燕等编著)**, 科学出版社, 2014, 246-285.
+B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材料的表面修饰及其对生物膜的作用, **生物医用磁性纳米材料与器件(顾宁等编著)**, 化学工业出版社, 2013, 139-164.
 
 ## Others
 1. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. Submitted.
 2. Liuyan Yang#, Mingdong Liu#, Yunhui Liu, **Xubo Lin<sup>*</sup>**, Yu-Zhong Zhang<sup>*</sup>, Qing-Tao Shen<sup>*</sup>. Structural variability of the mitochondrial protein import gate. Submitted.
-3. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. In preparation.
-4. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
-5. Hongyan Kang#* Guiqin Yan#, **Xiaoqian Lin#**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. The arrangement of the aortic endothelial glycocalyx and its interaction with the low-density lipoproteins (LDL). Submitted.
-6. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou*, Lizhen Wang*, Yubo Fan*. Synthetic vesicles with improved cartilage matrix affinity and extended retention promote early osteoarthritis recovery and repair of fullthickness cartilage defects. Submitted.
+3. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
+4. Hongyan Kang#* Guiqin Yan#, **Xiaoqian Lin#**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. The arrangement of the aortic endothelial glycocalyx and its interaction with the low-density lipoproteins (LDL). Submitted.
+5. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou*, Lizhen Wang*, Yubo Fan*. Synthetic vesicles with improved cartilage matrix affinity and extended retention promote early osteoarthritis recovery and repair of fullthickness cartilage defects. Submitted.
+6. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
+
+## 2025
+J52. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. **Biomaterials Science**, 2025, accepted.
 
 ## 2024
 J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. [CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation](https://doi.org/10.1021/acs.jcim.4c01027). **Journal of Chemical Information and Modeling**, 2024, 64, 7503-7512. (**Supplementary Cover**)
