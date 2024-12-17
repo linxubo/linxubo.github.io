@@ -12,8 +12,11 @@ permalink: /publications/
 Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
 ## Book Chapters
 B4.	**Xubo Lin<sup>*</sup>**. [Chapter 21 Molecular Dynamics Simulations of Intrinsically Disordered, Fuzzy Complexes, and Phase Separated Protein States](https://www.sciencedirect.com/science/article/abs/pii/B9780443218095000053). **The Three Functional States of Proteins: Structured, Intrinsically Disordered, and Phase Separated (Edited by Timir Tripathi and Vladimir N. Uversky)**, Academic Press (Elsevier), 2025, 399-405.
+
 B3.	**Xubo Lin<sup>*</sup>**. [Chapter 27 Applications of molecular dynamics simulations in drug discovery](https://www.sciencedirect.com/science/article/pii/B9780323902649000271). **Advances in Protein Molecular and Structural Biology Methods (Edited by Timir Tripathi and Vikash Kumar Dubey)**, Academic Press (Elsevier), 2022, 455-465. ([PDF]({{ site.baseurl }}/downloads/Papers/Elsevier-Book2022-Chapter27.pdf))
+
 B2.	李洋, **林绪波**, 顾宁. 第8章 纳米材料作用于细胞膜的模拟研究, **生物医用纳米材料对细胞的作用(顾宁、许海燕等编著)**, 科学出版社, 2014, 246-285.
+
 B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材料的表面修饰及其对生物膜的作用, **生物医用磁性纳米材料与器件(顾宁等编著)**, 化学工业出版社, 2013, 139-164.
 
 ## Others
