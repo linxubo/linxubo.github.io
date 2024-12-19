@@ -7,7 +7,7 @@ permalink: /news/
 ---
 
 # News
-**2024/12/17**: Our manuscript on "interactions between NP and PD-L1" was accepted by Biomaterials Science. Congratulations to Xiaoqian!
+**2024/12/17**: Our manuscript on "interactions between NP and PD-L1" was accepted by [Biomaterials Science](https://doi.org/10.1039/D4BM01469C). Congratulations to Xiaoqian!
 
 **2024/11/22**: Lin contributed a book chapter ([Chapter 21](https://www.sciencedirect.com/science/article/abs/pii/B9780443218095000053)) to the Elsevier book "[The Three Functional States of Proteins](https://www.sciencedirect.com/book/9780443218095/the-three-functional-states-of-proteins)".
 
