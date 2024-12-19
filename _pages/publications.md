@@ -28,7 +28,7 @@ B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材
 6. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
 
 ## 2025
-J52. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles. **Biomaterials Science**, 2025, accepted.
+J52. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. [Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles](https://doi.org/10.1039/D4BM01469C). **Biomaterials Science**, 2025, doi: 10.1039/D4BM01469C.
 
 ## 2024
 J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. [CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation](https://doi.org/10.1021/acs.jcim.4c01027). **Journal of Chemical Information and Modeling**, 2024, 64, 7503-7512. (**Supplementary Cover**)
