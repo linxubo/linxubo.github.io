@@ -7,7 +7,7 @@ permalink: /news/
 ---
 
 # News
-**2025/02/07**: Our recent collaborative work with Yu-Zhong Zhang and Prof. Qing-Tao Shen on TOM complex was accepted by [Archives of Biochemistry and Biophysics](https://doi.org/10.1016/j.abb.2025.110329). Congratulations!
+**2025/02/07**: Our recent collaborative work with Prof. Yu-Zhong Zhang and Prof. Qing-Tao Shen on TOM complex was accepted by [Archives of Biochemistry and Biophysics](https://doi.org/10.1016/j.abb.2025.110329). Congratulations!
 
 **2024/12/17**: Our manuscript on "interactions between NP and PD-L1" was accepted by [Biomaterials Science](https://doi.org/10.1039/D4BM01469C). Congratulations to Xiaoqian!
 
