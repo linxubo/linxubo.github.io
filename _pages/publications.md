@@ -26,7 +26,7 @@ B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材
 4. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
 
 ## 2025
-J54. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion. **Langmuir**, 2025, in press.
+J54. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04441). **Langmuir**, 2025, doi: 10.1021/acs.langmuir.4c04441.
 
 J53. Liuyan Yang#, Mingdong Liu#, Lei Qi, Yunhui Liu, **Xubo Lin<sup>*</sup>**, Yu-Zhong Zhang<sup>*</sup>, Qing-Tao Shen<sup>*</sup>. [Annealing synchronizes the TOM complex with Tom7 in a new orientation](https://www.sciencedirect.com/science/article/pii/S0003986125000426). **Archives of Biochemistry and Biophysics**, 2025, 766, 110329.
 
