@@ -7,7 +7,7 @@ permalink: /news/
 ---
 
 # News
-**2025/02/13**: Our recent work on the role of PD-L1 palmitoylation in regulating its membrane orientation  was accepted by Langmuir. Congratulations!
+**2025/02/13**: Our recent work on the role of PD-L1 palmitoylation in regulating its membrane orientation  was accepted by [Langmuir](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04441). Congratulations!
 
 **2025/02/07**: Our recent collaborative work with Prof. Yu-Zhong Zhang and Prof. Qing-Tao Shen on TOM complex was accepted by [Archives of Biochemistry and Biophysics](https://doi.org/10.1016/j.abb.2025.110329). Congratulations!
 
