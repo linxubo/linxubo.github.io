@@ -25,7 +25,7 @@ B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材
 3. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
 
 ## 2025
-J55. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou<sup>*</sup>, Lizhen Wang<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired lipid nanoparticles with precise cartilage targeting and prolonged dual-drug release boost endogenous cartilage regeneration in early OA and large cartilage defects. ACS Nano, 2025, TBA.
+J55. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou<sup>*</sup>, Lizhen Wang<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired lipid nanoparticles with precise cartilage targeting and prolonged dual-drug release boost endogenous cartilage regeneration in early OA and large cartilage defects. **ACS Nano**, 2025, TBA.
 
 J54. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04441). **Langmuir**, 2025, doi: 10.1021/acs.langmuir.4c04441.
 
