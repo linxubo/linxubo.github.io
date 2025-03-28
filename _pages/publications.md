@@ -25,15 +25,17 @@ B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材
 3. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
 
 ## 2025
-J55. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou<sup>*</sup>, Lizhen Wang<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired lipid nanoparticles with precise cartilage targeting and prolonged dual-drug release boost endogenous cartilage regeneration in early OA and large cartilage defects. **ACS Nano**, 2025, TBA.
+J56. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou<sup>*</sup>, Lizhen Wang<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired lipid nanoparticles with precise cartilage targeting and prolonged dual-drug release boost endogenous cartilage regeneration in early OA and large cartilage defects. **ACS Nano**, 2025, in press.
 
-J54. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04441). **Langmuir**, 2025, doi: 10.1021/acs.langmuir.4c04441.
+J55. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04441). **Langmuir**, 2025, doi: 10.1021/acs.langmuir.4c04441.
 
-J53. Liuyan Yang#, Mingdong Liu#, Lei Qi, Yunhui Liu, **Xubo Lin<sup>*</sup>**, Yu-Zhong Zhang<sup>*</sup>, Qing-Tao Shen<sup>*</sup>. [Annealing synchronizes the TOM complex with Tom7 in a new orientation](https://www.sciencedirect.com/science/article/pii/S0003986125000426). **Archives of Biochemistry and Biophysics**, 2025, 766, 110329.
+J54. Liuyan Yang#, Mingdong Liu#, Lei Qi, Yunhui Liu, **Xubo Lin<sup>*</sup>**, Yu-Zhong Zhang<sup>*</sup>, Qing-Tao Shen<sup>*</sup>. [Annealing synchronizes the TOM complex with Tom7 in a new orientation](https://www.sciencedirect.com/science/article/pii/S0003986125000426). **Archives of Biochemistry and Biophysics**, 2025, 766, 110329.
 
-J52. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. [Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles](https://doi.org/10.1039/D4BM01469C). **Biomaterials Science**, 2025, 13(3), 826-835.
+J53. **Xiaoqian Lin**, **Xubo Lin<sup>*</sup>**. [Regulate PD-L1’s Membrane Orientation Thermodynamics with Hydrophobic Nanoparticles](https://doi.org/10.1039/D4BM01469C). **Biomaterials Science**, 2025, 13(3), 826-835.
 
 ## 2024
+J52. 陈天泽, 胡方舟, **林绪波**, 应佚伦, 邹爱华<sup>*</sup>. [基于Aerolysin纳米孔道的单个β-淀粉样多肽N-端片段分析](http://www.cjcu.jlu.edu.cn/CN/10.7503/cjcu20240192). **高等学校化学学报**, 2024, 45(11): 20240192
+
 J51. **Xiu Li**, **Yuan He**, **Yuxuan Wang**, **Kaidong Lin**, **Xubo Lin<sup>*</sup>**. [CHARMM36 All-atom Gas Model for Lipid Nanobubble Simulation](https://doi.org/10.1021/acs.jcim.4c01027). **Journal of Chemical Information and Modeling**, 2024, 64, 7503-7512. (**Supplementary Cover**)
 
 J50. Yuxin Sun#, Xuan Tao#, Yaping Han#, **Xubo Lin**, Rui Tian, Haodong Wang, Pei Chang, Qiming Sun, Liang Ge<sup>*</sup>, Min Zhang<sup>*</sup>. [A dual role of ERGIC-localized Rabs in TMED10-mediated unconventional protein secretion](https://www.nature.com/articles/s41556-024-01445-4). **Nature Cell Biology**, 2024, 26, 1077-1092.
