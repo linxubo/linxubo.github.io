@@ -10,7 +10,7 @@ permalink: /news/
 **2025/05/30**: Lin attended [2025 Hong Kong Symposium on Molecular Modeling and Simulation](https://www.phy.cuhk.edu.hk/events/sym25-biophysics/hkbiophysics.html) organized by Prof. Yi Wang The Chinese University of Hong Kong on May 23-26.
 <div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/MMS25.jpg" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/MMS25.jpg" width="80%" >
 </figure>
 </div>
 
