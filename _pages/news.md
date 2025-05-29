@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2025/05/30**: Lin attended [2025 Hong Kong Symposium on Molecular Modeling and Simulation](https://www.phy.cuhk.edu.hk/events/sym25-biophysics/hkbiophysics.html) organized by Prof. Yi Wang The Chinese University of Hong Kong on May 23-26.
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/MMS25.jpg" width="100%" >
+</figure>
+</div>
+
 **2025/04/06**: Our recent collaborative work with Dr. Jin Zhou on lipid nanoparticles was accepted by [ACS Nano](https://pubs.acs.org/doi/10.1021/acsnano.4c13828). Congratulations!
 
 **2025/02/13**: Our recent work on the role of PD-L1 palmitoylation in regulating its membrane orientation  was accepted by [Langmuir](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04441). Congratulations!
