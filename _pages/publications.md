@@ -21,11 +21,12 @@ B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材
 
 ## Others
 1. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
-2. Hongyan Kang#* Guiqin Yan#, **Xiaoqian Lin#**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. The arrangement of the aortic endothelial glycocalyx and its interaction with the low-density lipoproteins (LDL). Submitted.
-3. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
+2. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. The American Journal of Pathology, Submitted.
 
 ## 2025
-J56. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou<sup>*</sup>, Lizhen Wang<sup>*</sup>, Yubo Fan<sup>*</sup>. Bio-inspired lipid nanoparticles with precise cartilage targeting and prolonged dual-drug release boost endogenous cartilage regeneration in early OA and large cartilage defects. **ACS Nano**, 2025, doi:10.1021/acsnano.4c13828.
+J57. Hongyan Kang#* Guiqin Yan#, **Xiaoqian Lin#**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Li Wang, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. The arrangement of the aortic endothelial glycocalyx and its interaction with the low-density lipoproteins (LDL). The American Journal of Pathology, 2025, TBA.
+
+J56. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou<sup>*</sup>, Lizhen Wang<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired lipid nanoparticles with precise cartilage targeting and prolonged dual-drug release boost endogenous cartilage regeneration in early OA and large cartilage defects](https://pubs.acs.org/doi/10.1021/acsnano.4c13828). **ACS Nano**, 2025, 19(14), 13654-13672.
 
 J55. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04441). **Langmuir**, 2025, 41(8), 5170-5178.
 
