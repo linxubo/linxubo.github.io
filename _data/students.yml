@@ -12,12 +12,12 @@
    number_educ: 1
    education1: Beihang University (B.E., 2022)
 
--  name: Xiaonian Ji
-   photo: jixiaonian.jpg
-   info: MS Student (2023/06~now)
-   email: xiaonianji@buaa.edu.cn
+-  name: Chongli Geng
+   photo: girl.jpg
+   info: PhD student (2025/09~now)
+   email: TBA
    number_educ: 1
-   education1: Jinzhong University (B.S. 2022)
+   education1: East China Normal University (M.S. 2025)
 
 -  name: Xinyu Ren
    photo: renxinyu.jpg
@@ -32,3 +32,10 @@
    email: 1306861692@qq.com
    number_educ: 1
    education1: Shandong University (B.E., 2024)
+
+-  name: Wugusihan Adili
+   photo: bou.jpg
+   info: MS Student (2025/09~now)
+   email: TBA
+   number_educ: 1
+   education1: Beihang University (B.E., 2025)
