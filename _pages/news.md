@@ -10,7 +10,7 @@ permalink: /news/
 **2025/06/20**: Happy Graduation! Congratulations to Xiaonian, Wugusihan and Yilin!
 <div align="center">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Xiaonain2025.jpg" width="80%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/Xiaonian2025.jpg" width="80%" >
 </figure>
 </div>
 
