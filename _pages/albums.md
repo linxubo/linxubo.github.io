@@ -13,6 +13,11 @@ Jump to: [BUAA](#beihang-university), [BME](#beijing-advanced-innovation-center-
 <img src="{{ site.url }}{{ site.baseurl }}/images/BUAA_campus.jpg" width="50%" >
 </figure>
 
+## School of Engineering Medicine
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/School.jpg" width="60%" >
+</figure>
+
 ## Beijing Advanced Innovation Center for Biomedical Engineering
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/BME_campus.jpg" width="60%" >
