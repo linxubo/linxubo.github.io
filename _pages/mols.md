@@ -1,6 +1,6 @@
 ---
 title: "NanoBioMembrane Lab - MOL"
-layout: textlay
+layout: null
 excerpt: "NanoBioMembrane Lab - MOL"
 sitemap: false
 permalink: /mols/
