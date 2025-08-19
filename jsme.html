@@ -6,19 +6,19 @@ permalink: /jsme/
 <html>
 <head>
   <meta charset="utf-8">
-  <title>JSME JavaScript Demo</title>
+  <title>JSME Molecule Editor (GitHub)</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 40px; }
     #output { white-space: pre-wrap; width: 100%; height: 120px; border: 1px solid #ccc; }
   </style>
 </head>
 <body>
-  <h1>JSME 分子编辑器（JavaScript 版）</h1>
+  <h1>JSME Molecule Editor (最新官方源)</h1>
 
-  <!-- 1. 加载 JSME 的 JS 版本 -->
+  <!-- 1. 官方 GitHub Pages CDN -->
   <script src="https://jsme-editor.github.io/dist/jsme/jsme.nocache.js"></script>
 
-  <!-- 2. 指定一个 div 作为容器 -->
+  <!-- 2. 容器 -->
   <div id="jsme_container" style="border:1px solid #ccc;"></div>
 
   <br>
@@ -26,17 +26,19 @@ permalink: /jsme/
   <pre id="output"></pre>
 
   <script>
-    let jsmeApplet;   // 全局变量，后面好调用
+    let jsmeApplet;
 
-    // 3. JSME 加载完成的回调
+    // JSME 加载完成后触发
     function jsmeOnLoad() {
       jsmeApplet = new JSApplet.JSME("jsme_container", "800px", "450px");
     }
 
-    // 4. 导出 MOL
+    // 导出 MOL
     function saveMol() {
-      const mol = jsmeApplet.molFile();
-      document.getElementById('output').textContent = mol;
+      if (!jsmeApplet) return;
+      jsmeApplet.molFile().then(mol => {
+        document.getElementById('output').textContent = mol;
+      });
     }
   </script>
 </body>
