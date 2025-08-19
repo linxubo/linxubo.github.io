@@ -8,4 +8,4 @@ permalink: /tools/
 
 # Draw Molecules
 ## [1. Marvin JS Editor(RCSB)](https://www.rcsb.org/chemical-sketch)
-## [2. JSME](https://linxubo.github.io/jsme/)
+## [2. JSME](https://jsme-editor.github.io/dist/JSME_test.html) ([manual](https://jsme-editor.github.io/help.html))
