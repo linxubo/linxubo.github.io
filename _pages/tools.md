@@ -3,7 +3,7 @@ title: "NanoBioMembrane Lab - Tools"
 layout: textlay
 excerpt: "NanoBioMembrane Lab - Tools"
 sitemap: false
-permalink: /mols/
+permalink: /tools/
 ---
 
 # Draw Molecules
