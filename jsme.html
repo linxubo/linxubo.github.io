@@ -6,40 +6,44 @@ permalink: /jsme/
 <html>
 <head>
   <meta charset="utf-8">
-  <title>JSME Molecule Editor (GitHub)</title>
+  <title>JSME 导出 MOL 修正版</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 40px; }
-    #output { white-space: pre-wrap; width: 100%; height: 120px; border: 1px solid #ccc; }
+    #output { white-space: pre-wrap; width: 100%; height: 160px; border: 1px solid #ccc; }
   </style>
 </head>
 <body>
-  <h1>JSME Molecule Editor (最新官方源)</h1>
+  <h1>JSME 编辑器（已修复 MOL 导出）</h1>
 
-  <!-- 1. 官方 GitHub Pages CDN -->
+  <!-- 官方最新 JS -->
   <script src="https://jsme-editor.github.io/dist/jsme/jsme.nocache.js"></script>
 
-  <!-- 2. 容器 -->
+  <!-- 容器 -->
   <div id="jsme_container" style="border:1px solid #ccc;"></div>
 
   <br>
-  <button onclick="saveMol()">导出 MOL</button>
+  <button id="btnMol">导出 MOL</button>
   <pre id="output"></pre>
 
   <script>
-    let jsmeApplet;
+    let jsmeApplet = null;
 
-    // JSME 加载完成后触发
-    function jsmeOnLoad() {
+    /* JSME 加载完成后回调 */
+    function jsmeOnLoad () {
       jsmeApplet = new JSApplet.JSME("jsme_container", "800px", "450px");
     }
 
-    // 导出 MOL
-    function saveMol() {
+    /* 导出 MOL：使用 Promise */
+    document.getElementById("btnMol").addEventListener("click", async () => {
       if (!jsmeApplet) return;
-      jsmeApplet.molFile().then(mol => {
-        document.getElementById('output').textContent = mol;
-      });
-    }
+      try {
+        const mol = await jsmeApplet.molFile();
+        document.getElementById("output").textContent = mol;
+      } catch (e) {
+        console.error(e);
+        document.getElementById("output").textContent = "导出失败：" + e;
+      }
+    });
   </script>
 </body>
 </html>
