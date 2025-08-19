@@ -6,4 +6,4 @@ sitemap: false
 permalink: /mols/
 ---
 
-# [Marvin JS Editor](https://www.rcsb.org/chemical-sketch)
+# [1. Marvin JS Editor(RCSB)](https://www.rcsb.org/chemical-sketch)
