@@ -1,9 +1,9 @@
 ---
 title: "NanoBioMembrane Lab - MOL"
-layout: null
+layout: textlay
 excerpt: "NanoBioMembrane Lab - MOL"
 sitemap: false
 permalink: /mols/
 ---
 
-{% include jsme.html %}
+# [Marvin JS Editor](https://www.rcsb.org/chemical-sketch)
