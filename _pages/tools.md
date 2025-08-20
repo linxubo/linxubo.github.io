@@ -12,7 +12,8 @@ permalink: /tools/
 
 
 ## Images to Structures
-### 1. [摩熵化学（MolAid）](https://chem.molaid.com/home)
+### [1. CollectorTM](https://stonewise.cn/cpfw#hhw)
+### [2. 摩熵化学（MolAid)](https://chem.molaid.com/home)
 
 
 ## Parameterize Molecules with CHARMM
