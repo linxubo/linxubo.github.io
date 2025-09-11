@@ -7,6 +7,13 @@ permalink: /news/
 ---
 
 # News
+**2025/09/10**: Happy Teachers' Day! Thank you for your blessings on traditional cards or WeChat and flowers & gifts!
+<div align="center">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Groups/20250910.jpg" width="80%" >
+</figure>
+</div>
+
 **2025/06/20**: Happy Graduation! Congratulations to Xiaonian, Wugusihan and Yilin!
 <div align="center">
 <figure>
