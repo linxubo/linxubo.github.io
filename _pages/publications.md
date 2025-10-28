@@ -21,7 +21,7 @@ B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材
 
 ## Others
 1. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
-2. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. The American Journal of Pathology, Submitted.
+2. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
 
 ## 2025
 J57. Hongyan Kang* Guiqin Yan, **Xiaoqian Lin**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Li Wang, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. [The substructure of the endothelial glycocalyx in rat aorta and its interaction with the low-density lipoproteins (LDL)](https://www.sciencedirect.com/science/article/abs/pii/S0002944025002378). The American Journal of Pathology, 2025, doi:10.1016/j.ajpath.2025.06.005.
