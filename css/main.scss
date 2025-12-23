@@ -93,21 +93,21 @@ firstp {
     margin-right: 30px;
 }
 
-/* 1. 轮播项固定高度 */
-.carousel-inner .item {
-  height: 200px;                /* 想改高度就改这里 */
-  display: flex;                /* flex 布局 */
+/* 仅对“当前”这张幻灯片生效 */
+.carousel-inner .item.active {
+  height: 300px;
+  display: flex;                /* 只有它可见时才用 flex */
   justify-content: center;      /* 水平居中 */
-  align-items: center;          /* 垂直居中（可选） */
-  background: #000;             /* 两边留白时的背景色，可改 #fff / transparent */
+  align-items: center;          /* 垂直居中 */
+  background: transparent;      /* 无色，也可以写 #fff 或删掉这行 */
   overflow: hidden;
 }
 
-/* 2. 图片按原始比例缩放，高度撑满，宽度自适应 */
-.carousel-inner .item img {
-  height: 100%;                 /* 高度=父容器 */
-  width: auto;                  /* 宽度随比例自动 */
-  max-width: none;              /* 禁止 Bootstrap 的 100% 限制 */
-  display: block;               /* 去掉 inline 缝隙 */
+/* 图片保持比例、高度撑满、宽度自适应 */
+.carousel-inner .item.active img {
+  height: 100%;
+  width: auto;
+  max-width: none;
+  display: block;
 }
 
