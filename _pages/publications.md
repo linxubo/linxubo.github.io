@@ -9,7 +9,7 @@ permalink: /publications/
 # Publications
 (<sup>#</sup>Equal contribution; <sup>*</sup>Corresponding author; **Names in bold** represent our group members)
 
-Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
+Jump to: **[Book Chapters](#Book Chapters), [Others](#Others), [2025](#2026), [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2010-2017](#2010-2017)**
 ## Book Chapters
 B4.	**Xubo Lin<sup>*</sup>**. [Chapter 21 Molecular Dynamics Simulations of Intrinsically Disordered, Fuzzy Complexes, and Phase Separated Protein States](https://www.sciencedirect.com/science/article/abs/pii/B9780443218095000053). **The Three Functional States of Proteins: Structured, Intrinsically Disordered, and Phase Separated (Edited by Timir Tripathi and Vladimir N. Uversky)**, Academic Press (Elsevier), 2025, 399-405.
 
