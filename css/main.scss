@@ -94,7 +94,6 @@ firstp {
 /* 2. 让 .item 仍然 absolute，但高度由里面的 img 撑出，避免切换时重新布局 */
 .carousel-inner .item {
   /* Bootstrap 本身已有 position: absolute; 不要动 */
-  justify-content: center;    /* 水平居中 */
 }
 
 /* 3. 图片本身固定高度、水平居中、背景透明 */
