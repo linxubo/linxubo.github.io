@@ -1,4 +1,4 @@
-# NanoBioMembrane Lab Website
+# MSD Lab Website
 
 Our website is based on the open source templates designed and shared by the labs of [D. Allan Drummond](http://www.allanlab.org/aboutwebsite.html) and [Yanmei Dou](https://yanmeidoulab.github.io/). We greatly thank for Allan and Yanmei for allowing reuse of their codebase. 
 
