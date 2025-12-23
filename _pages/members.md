@@ -1,7 +1,7 @@
 ---
-title: "NanoBioMembrane Lab - Members"
+title: "MSD Lab - Members"
 layout: gridlay
-excerpt: "NanoBioMembrane Lab - Members"
+excerpt: "MSD Lab - Members"
 sitemap: false
 permalink: /members/
 ---
