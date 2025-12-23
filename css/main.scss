@@ -84,22 +84,19 @@ firstp {
 
 
 /* Carusel */
-
+/* 轮播外框保持原来的外边距 */
 .carousel {
-    border-radius: 6px 6px 6px 6px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
+  border-radius: 6px;
+  margin: 20px 30px;   /* 简写：上下 20，左右 30 */
 }
 
-/* 仅对“当前”这张幻灯片生效 */
+/* 仅对当前激活的幻灯片生效 */
 .carousel-inner .item.active {
-  height: 300px;
-  display: flex;                /* 只有它可见时才用 flex */
-  justify-content: center;      /* 水平居中 */
-  align-items: center;          /* 垂直居中 */
-  background: transparent;      /* 无色，也可以写 #fff 或删掉这行 */
+  height: 400px;               /* 固定高度，自己调 */
+  display: flex;               /* 弹性居中 */
+  justify-content: center;     /* 水平居中 */
+  align-items: center;         /* 垂直居中 */
+  background: transparent;     /* 无色 */
   overflow: hidden;
 }
 
@@ -107,7 +104,6 @@ firstp {
 .carousel-inner .item.active img {
   height: 100%;
   width: auto;
-  max-width: none;
+  max-width: none;   /* 去掉 Bootstrap 100% 限制 */
   display: block;
 }
-
