@@ -104,5 +104,6 @@ firstp {
   display: block;
   margin: 0 auto;         /* 在绝对定位容器里水平居中 */
   object-fit: contain;    /* 确保整张图可见，两边留空 */
+  object-position: center;
 }
 
