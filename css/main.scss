@@ -84,26 +84,23 @@ firstp {
 
 
 /* Carusel */
-/* 轮播外框保持原来的外边距 */
+/* 1. 外框保持原来的外边距 */
 .carousel {
   border-radius: 6px;
-  margin: 20px 30px;   /* 简写：上下 20，左右 30 */
+  margin: 20px 30px;
 }
 
-/* 仅对当前激活的幻灯片生效 */
-.carousel-inner .item.active {
-  height: 400px;               /* 固定高度，自己调 */
-  display: flex;               /* 弹性居中 */
-  justify-content: center;     /* 水平居中 */
-  align-items: center;         /* 垂直居中 */
-  background: transparent;     /* 无色 */
-  overflow: hidden;
+/* 2. 让 .item 仍然 absolute，但高度由里面的 img 撑出，避免切换时重新布局 */
+.carousel-inner .item {
+  /* Bootstrap 本身已有 position: absolute; 不要动 */
 }
 
-/* 图片保持比例、高度撑满、宽度自适应 */
-.carousel-inner .item.active img {
-  height: 100%;
-  width: auto;
-  max-width: none;   /* 去掉 Bootstrap 100% 限制 */
+/* 3. 图片本身固定高度、水平居中、背景透明 */
+.carousel-inner .item img {
+  height: 400px;          /* 统一高度 */
+  width: auto;            /* 比例不变 */
+  max-width: none;        /* 不受 Bootstrap 100% 限制 */
   display: block;
+  margin: 0 auto;         /* 在绝对定位容器里水平居中 */
+  object-fit: contain;    /* 确保整张图可见，两边留空 */
 }
