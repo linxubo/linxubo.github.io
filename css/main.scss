@@ -84,29 +84,19 @@ firstp {
 
 
 /* Carusel */
-/* 1. 外框保持原来的外边距 */
-.carousel {
-  border-radius: 6px;
-  margin: 20px 30px;
-}
-
-/* 2. 让舞台居中它的唯一孩子（.item） */
 .carousel-inner {
-  display: flex;          /* 关键 1 */
-  justify-content: center;/* 关键 2 */
-  height: 400px;          /* 关键 3：给舞台一个固定高度，避免切换闪一下 */
+  height: 400px;
+  display: flex !important;   /* 强制 flex */
+  align-items: center;
+  justify-content: center;
 }
-
-/* 3. .item 仍然 absolute，但让它在 flex 容器里水平居中 */
 .carousel-inner .item {
-  position: absolute;     /* 保持 Bootstrap 默认 */
+  position: static !important; /* 去掉 absolute，让它成为 flex item */
+  flex: 0 0 auto;              /* 不拉伸，按内容大小 */
 }
-
-/* 4. 图片本身固定高度、比例不变、透明背景 */
 .carousel-inner .item img {
   height: 400px;
   width: auto;
   max-width: none;
-  display: block;
   object-fit: contain;
 }
