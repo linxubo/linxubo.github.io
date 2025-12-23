@@ -106,16 +106,3 @@ firstp {
   object-fit: contain;    /* 确保整张图可见，两边留空 */
 }
 
-/* ===== 导航栏文字大小 ===== */
-.navbar-nav {
-  > li > a {
-    font-size: 22px;   /* 想多大就写多大 */
-    padding-top: 15px; /* 上下间距顺手一起调 */
-    padding-bottom: 15px;
-  }
-}
-
-/* 如果想让品牌文字也一起变大 */
-.navbar-brand {
-  font-size: 20px;
-}
