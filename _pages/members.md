@@ -133,9 +133,9 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 
 ## Alumni
 1. **Xiu Li**, PhD Student (2021/09~2025/12) & Research Assistant (2020/09~2021/08)
-2. **Xiaonian Ji**, MS Student (2023/06~2025/06), then move to DPTechnology深势科技（北京）
+2. **Xiaonian Ji**, MS Student (2023/06~2025/06), then move to DPTechnology (深势科技)
 3. **Kaidong Lin**, MS Student (2021/09~2024/06)
 4. **Xiaoqian Lin**, PhD Student (2020/09~2023/12), then move to Shanghai Jiao Tong University as a postdoc
-5. **Shuo Ma**, MS Student (2020/09~2023/06), then move to Smart Logic思朗科技（北京）
-6. **Yifei Zhou**, MS Student (2019/09~2022/06), then move to Aisino航天信息
+5. **Shuo Ma**, MS Student (2020/09~2023/06), then move to Smart Logic (思朗科技)
+6. **Yifei Zhou**, MS Student (2019/09~2022/06), then move to Aisino (航天信息)
 7. **Fujia Tian**, Junior Research Assistant (2018.09-2019.07), then move to City University of Hong Kong
