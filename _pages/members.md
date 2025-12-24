@@ -138,4 +138,4 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 4. **Xiaoqian Lin**, PhD Student (2020/09~2023/12), then move to Shanghai Jiao Tong University as a postdoc
 5. **Shuo Ma**, MS Student (2020/09~2023/06), then move to Smart Logic (思朗科技)
 6. **Yifei Zhou**, MS Student (2019/09~2022/06), then move to Aisino (航天信息)
-7. **Fujia Tian**, Junior Research Assistant (2018.09-2019.07), then move to City University of Hong Kong
+7. **Fujia Tian**, Research Assistant (2018.09-2019.07), then move to City University of Hong Kong
