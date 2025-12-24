@@ -21,7 +21,7 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -86,7 +86,7 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -132,6 +132,10 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 
 
 ## Alumni
-
-List
-
+1. **Xiu Li**, PhD Student (2021/09~2025/12) & Research Assistant (2020/09~2021/08)
+2. **Xiaonian Ji**, MS Student (2023/06~2025/06), then move to DPTechnology深势科技（北京）
+3. **Kaidong Lin**, MS Student (2021/09~2024/06)
+4. **Xiaoqian Lin**, PhD Student (2020/09~2023/12), then move to Shanghai Jiao Tong University as a postdoc
+5. **Shuo Ma**, MS Student (2020/09~2023/06), then move to Smart Logic思朗科技（北京）
+6. **Yifei Zhou**, MS Student (2019/09~2022/06), then move to Aisino航天信息
+7. **Fujia Tian**, Junior Research Assistant (2018.09-2019.07), then move to City University of Hong Kong
