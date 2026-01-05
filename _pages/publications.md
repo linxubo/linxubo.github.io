@@ -27,9 +27,9 @@ B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材
 J58. **Xinyu Ren**, **Xubo Lin<sup>*</sup>**. [LNB-MDT: An Integrated Python Toolkit for Preparing and Analyzing Lipid Nanobubble Simulations](https://doi.org/10.1021/acs.jcim.5c02771). **Journal of Chemical Information and Modeling**, 2026, in press.
 
 ## 2025
-J57. Hongyan Kang* Guiqin Yan, **Xiaoqian Lin**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Li Wang, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. [The substructure of the endothelial glycocalyx in rat aorta and its interaction with the low-density lipoproteins (LDL)](https://www.sciencedirect.com/science/article/abs/pii/S0002944025002378). The American Journal of Pathology, 2025, doi:10.1016/j.ajpath.2025.06.005.
+J57. Hongyan Kang* Guiqin Yan, **Xiaoqian Lin**, Jiaxin Yin, Jiao Liu, Zhilan Deng, Jiaxin Guo, Jinyan Lu, **Xubo Lin**, Li Wang, Anqiang Sun, Xiaoyan Deng, Yubo Fan*. [The Substructure of the Endothelial Glycocalyx in Rat Aorta and Its Interaction with the Low-Density Lipoproteins](https://www.sciencedirect.com/science/article/abs/pii/S0002944025002378). The American Journal of Pathology, 2025, 195(10), 1936-1958.
 
-J56. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou<sup>*</sup>, Lizhen Wang<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bio-inspired lipid nanoparticles with precise cartilage targeting and prolonged dual-drug release boost endogenous cartilage regeneration in early OA and large cartilage defects](https://pubs.acs.org/doi/10.1021/acsnano.4c13828). **ACS Nano**, 2025, 19(14), 13654-13672.
+J56. Jin Zhou#, Guanhuier Wang#, Yue Zhou#, **Xubo Lin**, Zhenmin Zhao, Yumeng Xue, Yang An, Hui Shao, Ying Wang, Sen Hou<sup>*</sup>, Lizhen Wang<sup>*</sup>, Yubo Fan<sup>*</sup>. [Bioinspired Lipid Nanoparticles with Prolonged Cartilage Retention Boost Regeneration in Early Osteoarthritis and Large Cartilage Defects](https://pubs.acs.org/doi/10.1021/acsnano.4c13828). **ACS Nano**, 2025, 19(14), 13654-13672.
 
 J55. Siya Zhang#, Hongyin Wang#, Xuan Tao#, Zhongwen Chen, Ilya Levental, **Xubo Lin<sup>*</sup>**. [Palmitoylation of PD-L1 Regulates Its Membrane Orientation and Immune Evasion](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04441). **Langmuir**, 2025, 41(8), 5170-5178.
 
