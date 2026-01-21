@@ -20,7 +20,7 @@ B2.	李洋, **林绪波**, 顾宁. 第8章 纳米材料作用于细胞膜的模�
 B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材料的表面修饰及其对生物膜的作用, **生物医用磁性纳米材料与器件(顾宁等编著)**, 化学工业出版社, 2013, 139-164.
 
 ## Others
-1. **Shuo Ma**, **Xubo Lin<sup>*</sup>**. Computer Simulation of Nanoparticle-Mediated Membrane Fusion. In preparation.
+1. Jianfei Zheng#, Chunling Xu#, Zhuo Wang#, Tao Yao#, Haodong Wang#, **Xubo Lin**, Kangling Zhu, Yurong Liu, Dong Peng, Fengwu Chen, Zhewen Qin, Min Zhang*, Bo Shan*, Liang Ge*. A Sphingomyelin-Sensing Pathway Governing Metabolic Inflammation. Submitted to _Nature_.
 2. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
 
 ## 2026
