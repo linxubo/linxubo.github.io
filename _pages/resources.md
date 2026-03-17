@@ -1,7 +1,7 @@
 ---
-title: "NanoBioMembrane Lab - Resources"
+title: "MSD Lab - Resources"
 layout: textlay
-excerpt: "NanoBioMembrane Lab - Resources"
+excerpt: "MSD Lab - Resources"
 sitemap: false
 permalink: /resources/
 ---
