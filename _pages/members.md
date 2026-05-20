@@ -132,7 +132,7 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 
 
 ## Alumni
-1. **Xiu Li**, PhD Student (2021/09~2025/12) & Research Assistant (2020/09~2021/08)
+1. **Xiu Li**, PhD Student (2021/09~2025/12) & Research Assistant (2020/09~2021/08), then move to Pharmaron Beijing (康龙化成)
 2. **Xiaonian Ji**, MS Student (2023/06~2025/06), then move to DPTechnology (深势科技)
 3. **Kaidong Lin**, MS Student (2021/09~2024/06), then move to 北京绿野药业
 4. **Xiaoqian Lin**, PhD Student (2020/09~2023/12), then move to Shanghai Jiao Tong University as a postdoc
