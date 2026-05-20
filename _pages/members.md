@@ -132,10 +132,11 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 
 
 ## Alumni
-1. **Xiu Li**, PhD Student (2021/09~2025/12) & Research Assistant (2020/09~2021/08), then move to Pharmaron Beijing (康龙化成)
-2. **Xiaonian Ji**, MS Student (2023/06~2025/06), then move to DPTechnology (深势科技)
-3. **Kaidong Lin**, MS Student (2021/09~2024/06), then move to 北京绿野药业
-4. **Xiaoqian Lin**, PhD Student (2020/09~2023/12), then move to Shanghai Jiao Tong University as a postdoc
-5. **Shuo Ma**, MS Student (2020/09~2023/06), then move to Smart Logic (思朗科技)
-6. **Yifei Zhou**, MS Student (2019/09~2022/06), then move to Aisino (航天信息)
-7. **Fujia Tian**, Research Assistant (2018.09-2019.07), then move to City University of Hong Kong
+1. **Xinyu Ren**, ME student (2023/09~2026/06), then move to Shandong University to pursue a doctoral degree with Prof. Jianyi Yang
+2. **Xiu Li**, PhD Student (2021/09~2025/12) & Research Assistant (2020/09~2021/08), then move to Pharmaron Beijing (康龙化成)
+3. **Xiaonian Ji**, ME Student (2023/06~2025/06), then move to DPTechnology (深势科技)
+4. **Kaidong Lin**, ME Student (2021/09~2024/06), then move to 北京绿野药业
+5. **Xiaoqian Lin**, PhD Student (2020/09~2023/12), then move to Shanghai Jiao Tong University as a postdoc
+6. **Shuo Ma**, ME Student (2020/09~2023/06), then move to Smart Logic (思朗科技)
+7. **Yifei Zhou**, ME Student (2019/09~2022/06), then move to Aisino (航天信息)
+8. **Fujia Tian**, Research Assistant (2018.09-2019.07), then move to City University of Hong Kong
