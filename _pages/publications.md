@@ -21,9 +21,9 @@ B1.	柳东芳, 熊菲, **林绪波**, 柏婷婷, 顾宁. 第6章 磁性纳米材
 
 ## Others
 1. Jianfei Zheng#, Chunling Xu#, Zhuo Wang#, Tao Yao#, Haodong Wang#, **Xubo Lin**, Kangling Zhu, Yurong Liu, Dong Peng, Fengwu Chen, Zhewen Qin, Min Zhang*, Bo Shan*, Liang Ge*. A Sphingomyelin-Sensing Pathway Governing Metabolic Inflammation. Submitted to _Nature_.
-2. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Submitted.
 
 ## 2026
+J59. Xinbin Zhao#, Min Tan#, Long Li#, **Xubo Lin**, Zekun Li, Xiaohuan Wang, Bingqi Song, Zheng Guo, Tailin Chen, Sen Hou, Jiehou Fan, Shijiang Wang, Yun Zhang*, Yubo Fan* and Jing Du*. Prolonged Crowding Drives Cancer Cell Invasiveness by Triggering a Nanoscale Topography Transition of Plasma Membranes. Acta Biomaterialia, 2026, in press.
 J58. **Xinyu Ren**, **Xubo Lin<sup>*</sup>**. [LNB-MDT: An Integrated Python Toolkit for Preparing and Analyzing Lipid Nanobubble Simulations](https://doi.org/10.1021/acs.jcim.5c02771). **Journal of Chemical Information and Modeling**, 2026, 66(1), 34–41.
 
 ## 2025
