@@ -138,5 +138,5 @@ Jump to [Staffs](#staffs), [Students](#students), [Alumni](#alumni).
 4. **Kaidong Lin**, ME Student (2021/09~2024/06), then move to 北京绿野药业
 5. **Xiaoqian Lin**, PhD Student (2020/09~2023/12), then move to Shanghai Jiao Tong University as a postdoc and then join Smart Logic (思朗科技)
 6. **Shuo Ma**, ME Student (2020/09~2023/06), then move to Smart Logic (思朗科技)
-7. **Yifei Zhou**, ME Student (2019/09~2022/06), then move to Aisino (航天信息)
+7. **Yifei Zhou**, ME Student (2019/09~2022/06), move to Aisino (航天信息) in 2022 and University of Groningen to pursue a doctoral degree with Prof. Siewert J. Marrink in 2026.
 8. **Fujia Tian**, Research Assistant (2018.09-2019.07), then move to City University of Hong Kong
